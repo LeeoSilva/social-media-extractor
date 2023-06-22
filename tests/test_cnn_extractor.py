@@ -1,6 +1,6 @@
 import pytest
 
-from src.collectors.cnn import CNNExtractor
+from src.collectors.cnn import CNNExtractor, CNNNewsExtractor
 import pathlib
 import datetime
 
@@ -11,6 +11,15 @@ def cnn_extractor():
         base_url="https://www.cnnbrasil.com.br",
         target_path="tests/assets/cnn",
     )
+
+
+@pytest.fixture
+def cnn_news_extractor():
+    return (
+        base_url="https://www.cnnbrasil.com.br",
+        target_path="tests/assets/cnn",
+    )
+
 
 
 @pytest.fixture
@@ -50,3 +59,5 @@ def test_treat_datetime(cnn_extractor):
 
     result = cnn_extractor.treat_datetime(test_string)
     assert result == expected
+
+def test_extract_created_at_updated_at():

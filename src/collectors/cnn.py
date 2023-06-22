@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from src.schemas import Headline
+from src.schemas import Headline, News, Topic
 import json
 import time
 import typing
@@ -7,6 +7,7 @@ import pathlib
 import requests
 import datetime
 import sys
+import glob
 from src.utils import get_logger
 from pydantic.json import pydantic_encoder
 
@@ -16,9 +17,23 @@ ARTICLES_PER_PAGE: int = 30
 # Default rate limit per second for requests (each page is 1 request).
 DEFAULT_RATE_LIMIT: int = 1
 
-MAX_FILE_SIZE_BYTES: int = 5 * 1024**3  # 5GB
+MAX_FILE_SIZE_BYTES: int = 10 * 1024**2  # 10MB
 
 logger = get_logger(__name__)
+
+
+def treat_datetime(datetime_str: str) -> datetime.datetime:
+    """Treats the CNN datetime string into a datetime object.
+
+    Args:
+        datetime_str (str): a "%d/%m/%Y às %Hh%M" formated string
+
+    Returns:
+        datetime.datetime: a Datetime formated string
+    """
+    print(datetime_str)
+    datetime_str = datetime_str.replace("às", "").strip()
+    return datetime.datetime.strptime(datetime_str, "%d/%m/%Y %H:%M")
 
 
 class CNNExtractor:
@@ -42,7 +57,7 @@ class CNNExtractor:
 
         return categories_path.read_text().splitlines()
 
-    def get_articles(
+    def get_headlines(
         self,
         category: str,
         limit: int = ARTICLES_PER_PAGE,
@@ -57,34 +72,38 @@ class CNNExtractor:
 
         total_size: int = sys.getsizeof(headlines)
 
-        while True:
-            current_headlines = self.extract_headlines_from_page(articles_url)
-            headlines["headlines"].extend(current_headlines["headlines"])
-            headlines["next_page_url"] = current_headlines["next_page_url"]
+        try:
+            while True:
+                current_headlines = self.extract_headlines_from_page(articles_url)
+                headlines["headlines"].extend(current_headlines["headlines"])
+                headlines["next_page_url"] = current_headlines["next_page_url"]
 
-            total_size += sys.getsizeof(current_headlines)
-            total_size += sys.getsizeof(headlines["headlines"])
+                total_size += sys.getsizeof(current_headlines)
+                total_size += sys.getsizeof(headlines["headlines"])
 
-            articles_url = headlines["next_page_url"]
+                articles_url = headlines["next_page_url"]
 
-            if headlines["next_page_url"] is None:
-                break
+                if headlines["next_page_url"] is None:
+                    break
 
-            if limit != -1 and len(headlines["headlines"]) >= limit:
-                break
+                if limit != -1 and len(headlines["headlines"]) >= limit:
+                    break
 
-            if total_size >= max_file_size:
-                logger.info(f"Maximum file size reached: {max_file_size} bytes")
-                self.save_headlines_in_json(headlines["headlines"])
-                headlines["headlines"] = []
-                total_size = sys.getsizeof(headlines)
+                if total_size >= max_file_size:
+                    logger.info(f"Maximum file size reached: {max_file_size} bytes")
+                    self.save_headlines_in_json(headlines["headlines"])
+                    headlines["headlines"] = []
+                    total_size = sys.getsizeof(headlines)
 
-            time.sleep(rate_limit_per_second)
-            logger.info(f"Current size of headlines: {total_size / 1024**2}MB")
-
-        self.save_headlines_in_json(headlines["headlines"])
+                time.sleep(rate_limit_per_second)
+                logger.info(f"Current size of headlines: {total_size / 1024**2}MB")
+        except Exception as e:
+            logger.error(e)
+        finally:
+            self.save_headlines_in_json(headlines["headlines"])
 
     def extract_headlines_from_page(self, url) -> typing.Dict[str, typing.Any]:
+        logger.info(f"Fetching page: {url}")
         request = requests.get(url)
         soup: BeautifulSoup = BeautifulSoup(request.content, "html.parser")
         items: typing.List[str] = soup.select(".home__list__item")
@@ -99,7 +118,7 @@ class CNNExtractor:
             headline.title = item.select_one(".news-item-header__title").text
             logger.info(f"Fetching headline: {headline.title}")
             headline.link = main_tag.attrs["href"]
-            headline.created_at = self.treat_datetime(
+            headline.created_at = treat_datetime(
                 tag_info.select_one(".home__title__date").text
             )
             headline.tag = tag_info.select_one(".latest__news__category").text
@@ -119,23 +138,15 @@ class CNNExtractor:
 
         return None
 
-    def treat_datetime(self, datetime_str: str) -> datetime.datetime:
-        """Treats the CNN datetime string into a datetime object.
-
-        Args:
-            datetime_str (str): a "%d/%m/%Y às %Hh%M" formated string
-
-        Returns:
-            datetime.datetime: a Datetime formated string
-        """
-        datetime_str = datetime_str.replace("às", "").strip()
-        return datetime.datetime.strptime(datetime_str, "%d/%m/%Y %H:%M")
-
-    def save_headlines_in_json(self, headlines: typing.List[Headline]) -> None:
+    def save_headlines_in_json(
+        self, category: str, headlines: typing.List[Headline]
+    ) -> None:
         timestr = time.strftime("%Y%m%d%H%M%S")
 
-        headlines_path = self.target_path.joinpath(f"headlines-{timestr}.json")
-        logger.info(f"Saving headlines {len(headlines)} to {headlines_path}")
+        headlines_path = self.target_path.joinpath(
+            "headlines", category, f"headlines-{timestr}.json"
+        )
+        logger.info(f"Saving {len(headlines)} headlines to {headlines_path}")
 
         if headlines_path.exists():
             headlines_path.unlink()
@@ -148,6 +159,174 @@ class CNNExtractor:
             json.dump(
                 json_data,
                 headlines_file,
+                indent=4,
+                default=pydantic_encoder,
+            )
+
+    def get_news_articles_from_headlines(
+        self,
+        limit: int = -1,
+        rate_limit_per_second: int = DEFAULT_RATE_LIMIT,
+    ) -> None:
+        glob_paths = str(self.target_path.joinpath("headlines-*.json"))
+
+        articles: typing.Dict[str, typing.Any] = {
+            "articles": [],
+        }
+
+        total_size = sys.getsizeof(articles)
+
+        for path in glob.glob(glob_paths):
+            logger.info(f"Reading headlines from {path}")
+            with open(path, "r", encoding="utf-8") as headlines_file:
+                json_headlines = json.load(headlines_file)
+
+            for json_headline in json_headlines["headlines"]:
+                headline = Headline(**json_headline)
+                article = self.get_news_article(headline)
+                articles["articles"].append(article.dict())
+
+                total_size += sys.getsizeof(article)
+                total_size += sys.getsizeof(articles["articles"])
+
+                if total_size >= MAX_FILE_SIZE_BYTES:
+                    logger.info(
+                        f"Maximum file size reached: {MAX_FILE_SIZE_BYTES} bytes"
+                    )
+                    self.save_news_in_json(articles)
+                    articles["articles"] = []
+                    total_size = sys.getsizeof(articles)
+
+                if limit != -1 and len(articles["articles"]) >= limit:
+                    break
+
+                time.sleep(rate_limit_per_second)
+                logger.info(f"Current size of news articles: {total_size / 1024**2}MB")
+
+        self.save_news_in_json(articles)
+
+    def get_news_article(self, headline: Headline) -> News:
+        logger.info(f"Fetching news article: {headline.title}")
+        request = requests.get(headline.link)
+        soup: BeautifulSoup = BeautifulSoup(request.content, "html.parser")
+        return self.extract_news_from_page(soup, headline)
+
+    def extract_news_from_page(self, soup: BeautifulSoup, headline: Headline) -> News:
+        news = News()
+        news_extractor = CNNNewsExtractor(soup)
+
+        news.headline = headline
+        news.subtitle = news_extractor.extract_subtitle()
+
+        created_at, updated_at = news_extractor.extract_dates()
+        news.headline.created_at = created_at
+        news.updated_at = updated_at
+
+        news.content = news_extractor.extract_content()
+        news.topics = news_extractor.extract_topics()
+
+        return news
+
+    def save_news_in_json(
+        self, category: str, news: typing.Dict[str, typing.Any]
+    ) -> None:
+        timestr = time.strftime("%Y%m%d%H%M%S")
+
+        news_path = self.target_path.joinpath("news", category, f"news-{timestr}.json")
+        logger.info(f"Saving {len(news)} news to {news_path}")
+
+        if news_path.exists():
+            news_path.unlink()
+
+        with news_path.open("w", encoding="utf-8") as news_file:
+            json.dump(
+                news,
+                news_file,
+                indent=4,
+                default=pydantic_encoder,
+            )
+
+
+# TODO: Create a Headlines extractor
+class CNNHealinesExtractor:
+    pass
+
+
+class CNNNewsExtractor:
+    def __init__(self, soup: BeautifulSoup) -> None:
+        self.soup = soup
+        self.header = None
+
+    def get_header(self) -> BeautifulSoup:
+        if self.header is None:
+            self.header = self.soup.select_one(".post__header")
+
+        return self.header
+
+    def extract_subtitle(self) -> str:
+        self.get_header()
+        return self.header.select_one(".post__excerpt")
+
+    def extract_dates(self) -> typing.Tuple[datetime.datetime, datetime.datetime]:
+        self.get_header()
+        share = self.header.select_one(".higher__share")
+        created_at_updated_at_text = share.select_one(".post__data").text
+        created_at, updated_at = self.__extract_created_at_updated_at(
+            created_at_updated_at_text
+        )
+        created_at = treat_datetime(created_at) if created_at is not None else None
+        updated_at = treat_datetime(updated_at) if updated_at is not None else None
+
+        return created_at, updated_at
+
+    def extract_content(self) -> str:
+        content = self.soup.select_one(".post__content")
+        content = [p.text for p in content.find_all("p")]
+
+        return " ".join(content)
+
+    def extract_topics(self) -> typing.List[str]:
+        topics_body = self.soup.select_one(".tags__topics")
+        topics_list = topics_body.select_one(".tags__list")
+        topics_li = topics_list.find_all("li")
+
+        topics: typing.List[Topic] = []
+        for topics in topics_li:
+            topic = Topic()
+            topics = topics.find_all("a")
+            topic.topic = topics[0].text
+            topic.link = topics[0].attrs["href"]
+            topics.append(topic)
+
+        return topics
+
+    def __extract_created_at_updated_at(
+        self, created_at_updated_at: str
+    ) -> typing.Tuple[str, str]:
+        created_at_updated_at = created_at_updated_at.replace("Atualizado", "").strip()
+        created_at_updated_at = created_at_updated_at.split("|")
+
+        if len(created_at_updated_at) == 1:
+            return created_at_updated_at[0], None
+
+        created_at = created_at_updated_at[0].strip()
+        updated_at = created_at_updated_at[1].strip()
+
+        return created_at, updated_at
+
+    def save_news_in_json(self, news: typing.Dict[str, typing.Any]) -> None:
+        timestr = time.strftime("%Y%m%d%H%M%S")
+
+        news_path = self.target_path.joinpath(f"news-{timestr}.json")
+        logger.info(f"Saving news to {news_path}")
+
+        if news_path.exists():
+            news_path.unlink()
+
+        with news_path.open("w", encoding="utf-8") as news_file:
+            json.dump(
+                news,
+                news_file,
                 indent=4,
                 default=pydantic_encoder,
             )

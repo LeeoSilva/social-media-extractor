@@ -11,12 +11,17 @@ class Headline(pydantic.BaseModel):
     created_at: typing.Optional[datetime.datetime] = None
 
 
+class Topic(pydantic.BaseModel):
+    topic: typing.Optional[str] = None
+    link: typing.Optional[str] = None
+
+
 class News(pydantic.BaseModel):
     headline: typing.Optional[Headline] = None
     subtitle: typing.Optional[str] = None
     updated_at: typing.Optional[datetime.datetime] = None
     content: typing.Optional[str] = None
-    topics: typing.Optional[typing.List[str]] = None
+    topics: typing.Optional[typing.List[Topic]] = None
 
 
 class EnvSettings(pydantic.BaseSettings):
