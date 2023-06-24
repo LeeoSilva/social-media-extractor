@@ -31,7 +31,6 @@ def treat_datetime(datetime_str: str) -> datetime.datetime:
     Returns:
         datetime.datetime: a Datetime formated string
     """
-    print(datetime_str)
     datetime_str = datetime_str.replace("às", "").strip()
     return datetime.datetime.strptime(datetime_str, "%d/%m/%Y %H:%M")
 
@@ -176,34 +175,41 @@ class CNNExtractor:
 
         total_size = sys.getsizeof(articles)
 
-        for path in glob.glob(glob_paths):
-            logger.info(f"Reading headlines from {path}")
-            with open(path, "r", encoding="utf-8") as headlines_file:
-                json_headlines = json.load(headlines_file)
+        try:
+            for path in glob.glob(glob_paths):
+                logger.info(f"Reading headlines from {path}")
+                with open(path, "r", encoding="utf-8") as headlines_file:
+                    json_headlines = json.load(headlines_file)
 
-            for json_headline in json_headlines["headlines"]:
-                headline = Headline(**json_headline)
-                article = self.get_news_article(headline)
-                articles["articles"].append(article.dict())
+                for json_headline in json_headlines["headlines"]:
+                    headline = Headline(**json_headline)
+                    article = self.get_news_article(headline)
 
-                total_size += sys.getsizeof(article)
-                total_size += sys.getsizeof(articles["articles"])
+                    articles["articles"].append(article.dict())
 
-                if total_size >= MAX_FILE_SIZE_BYTES:
+                    total_size += sys.getsizeof(article)
+                    total_size += sys.getsizeof(articles["articles"])
+
+                    if total_size >= MAX_FILE_SIZE_BYTES:
+                        logger.info(
+                            f"Maximum file size reached: {MAX_FILE_SIZE_BYTES} bytes"
+                        )
+                        self.save_headlines_in_json(articles)
+                        articles["articles"] = []
+                        total_size = sys.getsizeof(articles)
+
+                    if limit != -1 and len(articles["articles"]) >= limit:
+                        break
+
+                    time.sleep(rate_limit_per_second)
                     logger.info(
-                        f"Maximum file size reached: {MAX_FILE_SIZE_BYTES} bytes"
+                        f"Current size of news articles: {total_size / 1024**2}MB"
                     )
-                    self.save_news_in_json(articles)
-                    articles["articles"] = []
-                    total_size = sys.getsizeof(articles)
 
-                if limit != -1 and len(articles["articles"]) >= limit:
-                    break
-
-                time.sleep(rate_limit_per_second)
-                logger.info(f"Current size of news articles: {total_size / 1024**2}MB")
-
-        self.save_news_in_json(articles)
+        except Exception as e:
+            logger.error(e)
+        finally:
+            self.save_news_in_json(articles)
 
     def get_news_article(self, headline: Headline) -> News:
         logger.info(f"Fetching news article: {headline.title}")
@@ -228,11 +234,19 @@ class CNNExtractor:
         return news
 
     def save_news_in_json(
-        self, category: str, news: typing.Dict[str, typing.Any]
+        self, news: typing.Dict[str, typing.Any], category: str = "something-something"
     ) -> None:
-        timestr = time.strftime("%Y%m%d%H%M%S")
+        if len(news.get("articles", [])) == 0:
+            return
 
-        news_path = self.target_path.joinpath("news", category, f"news-{timestr}.json")
+        timestr = time.strftime("%Y%m%d%H%M%S")
+        news_path = self.target_path.joinpath("news", category)
+
+        if not news_path.exists():
+            news_path.mkdir(parents=True)
+
+        news_path = news_path.joinpath(f"news-{timestr}.json")
+
         logger.info(f"Saving {len(news)} news to {news_path}")
 
         if news_path.exists():
@@ -265,7 +279,7 @@ class CNNNewsExtractor:
 
     def extract_subtitle(self) -> str:
         self.get_header()
-        return self.header.select_one(".post__excerpt")
+        return self.header.select_one(".post__excerpt").text
 
     def extract_dates(self) -> typing.Tuple[datetime.datetime, datetime.datetime]:
         self.get_header()
@@ -287,22 +301,29 @@ class CNNNewsExtractor:
 
     def extract_topics(self) -> typing.List[str]:
         topics_body = self.soup.select_one(".tags__topics")
+
+        if topics_body is None:
+            return []
+
         topics_list = topics_body.select_one(".tags__list")
         topics_li = topics_list.find_all("li")
 
-        topics: typing.List[Topic] = []
+        topics_list: typing.List[Topic] = []
         for topics in topics_li:
             topic = Topic()
-            topics = topics.find_all("a")
-            topic.topic = topics[0].text
-            topic.link = topics[0].attrs["href"]
-            topics.append(topic)
+            topics_a = topics.find_all("a")
+            topic.topic = topics_a[0].text.strip()
+            topic.link = topics_a[0].attrs["href"]
 
-        return topics
+            topics_list.append(topic)
+
+        logger.info(f"Extracted {len(topics_list)} topics")
+        return topics_list
 
     def __extract_created_at_updated_at(
         self, created_at_updated_at: str
     ) -> typing.Tuple[str, str]:
+        logger.info("Extracting created_at and updated_at")
         created_at_updated_at = created_at_updated_at.replace("Atualizado", "").strip()
         created_at_updated_at = created_at_updated_at.split("|")
 
@@ -313,20 +334,3 @@ class CNNNewsExtractor:
         updated_at = created_at_updated_at[1].strip()
 
         return created_at, updated_at
-
-    def save_news_in_json(self, news: typing.Dict[str, typing.Any]) -> None:
-        timestr = time.strftime("%Y%m%d%H%M%S")
-
-        news_path = self.target_path.joinpath(f"news-{timestr}.json")
-        logger.info(f"Saving news to {news_path}")
-
-        if news_path.exists():
-            news_path.unlink()
-
-        with news_path.open("w", encoding="utf-8") as news_file:
-            json.dump(
-                news,
-                news_file,
-                indent=4,
-                default=pydantic_encoder,
-            )

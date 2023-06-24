@@ -15,11 +15,10 @@ def cnn_extractor():
 
 @pytest.fixture
 def cnn_news_extractor():
-    return (
+    return CNNNewsExtractor(
         base_url="https://www.cnnbrasil.com.br",
         target_path="tests/assets/cnn",
     )
-
 
 
 @pytest.fixture
@@ -59,5 +58,3 @@ def test_treat_datetime(cnn_extractor):
 
     result = cnn_extractor.treat_datetime(test_string)
     assert result == expected
-
-def test_extract_created_at_updated_at():
