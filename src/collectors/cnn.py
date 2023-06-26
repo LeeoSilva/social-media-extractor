@@ -48,14 +48,6 @@ class CNNExtractor:
             target_path = pathlib.Path(target_path)
         self.target_path = target_path
 
-    def get_categories(self) -> typing.List[str]:
-        categories_path = self.target_path.joinpath("categories.txt")
-
-        if not categories_path.exists():
-            categories_path.write_text("")
-
-        return categories_path.read_text().splitlines()
-
     def get_headlines(
         self,
         category: str,
@@ -63,7 +55,7 @@ class CNNExtractor:
         rate_limit_per_second: int = DEFAULT_RATE_LIMIT,
         max_file_size: int = MAX_FILE_SIZE_BYTES,
     ) -> None:
-        articles_url: str = f"{self.base_url}/{category}/ultimas-noticias"
+        articles_url: str = f"{self.base_url}/tudo-sobre/{category}"
         headlines: typing.Dict[str, typing.Any] = {
             "headlines": [],
             "next_page_url": None,
@@ -73,6 +65,10 @@ class CNNExtractor:
 
         try:
             while True:
+                if category not in articles_url:
+                    logger.error(f"Redirected to a different category: {articles_url}")
+                    break
+
                 current_headlines = self.extract_headlines_from_page(articles_url)
                 headlines["headlines"].extend(current_headlines["headlines"])
                 headlines["next_page_url"] = current_headlines["next_page_url"]
@@ -90,16 +86,17 @@ class CNNExtractor:
 
                 if total_size >= max_file_size:
                     logger.info(f"Maximum file size reached: {max_file_size} bytes")
-                    self.save_headlines_in_json(headlines["headlines"])
+                    self.save_headlines_in_json(category, headlines["headlines"])
                     headlines["headlines"] = []
                     total_size = sys.getsizeof(headlines)
 
                 time.sleep(rate_limit_per_second)
                 logger.info(f"Current size of headlines: {total_size / 1024**2}MB")
+            self.save_headlines_in_json(category, headlines["headlines"])
         except Exception as e:
-            logger.error(e)
-        finally:
-            self.save_headlines_in_json(headlines["headlines"])
+            logger.error(f"Error while fetching headlines: {e}")
+            self.save_headlines_in_json(category, headlines["headlines"])
+            raise
 
     def extract_headlines_from_page(self, url) -> typing.Dict[str, typing.Any]:
         logger.info(f"Fetching page: {url}")
@@ -127,6 +124,10 @@ class CNNExtractor:
 
     def find_next_button(self, soup: BeautifulSoup) -> str:
         page_container = soup.select_one(".latest__news__pagination")
+        
+        if page_container is None:
+            return None
+
         items = page_container.find_all("li", class_="latest__news__page__item")
 
         # TODO: There MUST be a better way to find the next button. o_0
@@ -147,8 +148,8 @@ class CNNExtractor:
         )
         logger.info(f"Saving {len(headlines)} headlines to {headlines_path}")
 
-        if headlines_path.exists():
-            headlines_path.unlink()
+        if not headlines_path.exists():
+            headlines_path.parent.mkdir(parents=True, exist_ok=True)
 
         json_data = {"headlines": []}
         for headline in headlines:
@@ -167,7 +168,7 @@ class CNNExtractor:
         limit: int = -1,
         rate_limit_per_second: int = DEFAULT_RATE_LIMIT,
     ) -> None:
-        glob_paths = str(self.target_path.joinpath("headlines-*.json"))
+        glob_paths = str(self.target_path.joinpath("headlines", "*", "*.json"))
 
         articles: typing.Dict[str, typing.Any] = {
             "articles": [],
@@ -208,6 +209,8 @@ class CNNExtractor:
 
         except Exception as e:
             logger.error(e)
+            self.save_news_in_json(articles)
+            raise
         finally:
             self.save_news_in_json(articles)
 
@@ -259,6 +262,11 @@ class CNNExtractor:
                 indent=4,
                 default=pydantic_encoder,
             )
+
+    # def generates_topics(self) -> typing.List[str]:
+    #     topics_path = self.target_path
+
+    #     for topic in
 
 
 # TODO: Create a Headlines extractor

@@ -1,0 +1,82 @@
+{
+    "headlines": [
+        {
+            "title": "Atirador de escola no Paran\u00e1 \u00e9 encontrado morto na pris\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/nacional/atirador-de-escola-no-parana-e-encontrado-morto-na-prisao/",
+            "tag": "Nacional",
+            "created_at": "2023-06-21T07:54:00"
+        },
+        {
+            "title": "Suspeito de ajudar a organizar ataque a escola que matou dois alunos no PR \u00e9 preso",
+            "link": "https://www.cnnbrasil.com.br/nacional/suspeito-de-ajudar-a-organizar-ataque-a-escola-que-matou-dois-alunos-no-pr-e-preso/",
+            "tag": "Nacional",
+            "created_at": "2023-06-20T08:57:00"
+        },
+        {
+            "title": "Morre segundo adolescente v\u00edtima de ataque a tiros em escola no Paran\u00e1",
+            "link": "https://www.cnnbrasil.com.br/nacional/morre-segundo-adolescente-vitima-de-ataque-a-tiros-em-escola-no-parana/",
+            "tag": "Nacional",
+            "created_at": "2023-06-20T07:26:00"
+        },
+        {
+            "title": "Com tiroteio em escola no PR, Brasil supera m\u00e9dia de um ataque por m\u00eas",
+            "link": "https://www.cnnbrasil.com.br/nacional/com-tiroteio-em-escola-no-pr-brasil-supera-media-de-um-ataque-por-mes/",
+            "tag": "Nacional",
+            "created_at": "2023-06-19T18:05:00"
+        },
+        {
+            "title": "Tiroteio no PR \u00e9 o 3\u00ba ataque com mortes em escolas do Brasil em 2023; relembre",
+            "link": "https://www.cnnbrasil.com.br/nacional/tiroteio-no-pr-e-o-3o-ataque-com-mortes-em-escolas-do-brasil-em-2023-relembre/",
+            "tag": "Nacional",
+            "created_at": "2023-06-19T17:03:00"
+        },
+        {
+            "title": "Adolescentes baleados por ex-aluno em escola no Paran\u00e1 eram namorados",
+            "link": "https://www.cnnbrasil.com.br/nacional/adolescentes-baleados-por-ex-aluno-em-escola-no-parana-eram-namorados/",
+            "tag": "Nacional",
+            "created_at": "2023-06-19T14:23:00"
+        },
+        {
+            "title": "Justi\u00e7a de SP determina interna\u00e7\u00e3o de adolescente que planejava ataque em escola",
+            "link": "https://www.cnnbrasil.com.br/nacional/justica-determina-internacao-de-adolescente-que-planejava-ataque-a-escola/",
+            "tag": "Nacional",
+            "created_at": "2023-06-06T14:39:00"
+        },
+        {
+            "title": "Perfil de agressor em ataques a escolas \u00e9 aluno, de at\u00e9 16 anos, que age sozinho, aponta instituto",
+            "link": "https://www.cnnbrasil.com.br/nacional/perfil-de-agressor-em-ataques-a-escolas-e-aluno-de-ate-16-anos-que-age-sozinho-aponta-instituto/",
+            "tag": "Nacional",
+            "created_at": "2023-05-22T11:26:00"
+        },
+        {
+            "title": "Esta\u00e7\u00e3o do metr\u00f4 de SP ter\u00e1 nome de professora morta em ataque a escola em mar\u00e7o",
+            "link": "https://www.cnnbrasil.com.br/nacional/estacao-do-metro-de-sp-tera-nome-de-professora-morta-em-ataque-a-escola-em-marco/",
+            "tag": "Nacional",
+            "created_at": "2023-05-16T17:14:00"
+        },
+        {
+            "title": "Massacre em Suzano: Justi\u00e7a mant\u00e9m condena\u00e7\u00e3o de hospital que vazou fotos de sobrevivente",
+            "link": "https://www.cnnbrasil.com.br/nacional/massacre-em-suzano-justica-mantem-condenacao-de-hospital-que-vazou-fotos-de-sobrevivente/",
+            "tag": "Nacional",
+            "created_at": "2023-05-08T17:52:00"
+        },
+        {
+            "title": "Ataque em escola na S\u00e9rvia deixa nove mortos, incluindo oito crian\u00e7as",
+            "link": "https://www.cnnbrasil.com.br/internacional/ataque-em-escola-na-servia-deixa-mortos/",
+            "tag": "Internacional",
+            "created_at": "2023-05-03T08:31:00"
+        },
+        {
+            "title": "Lembrando v\u00edtimas de ataques em escolas, ONG far\u00e1 ato em defesa do PL das Fake News no Congresso",
+            "link": "https://www.cnnbrasil.com.br/politica/lembrando-vitimas-de-ataques-em-escolas-ong-fara-ato-em-defesa-do-pl-das-fake-news-no-congresso/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-01T19:12:00"
+        },
+        {
+            "title": "Dois Lados: Deputados debatem proposta de taxar armas para custear seguran\u00e7a em escolas",
+            "link": "https://www.cnnbrasil.com.br/politica/dois-lados-deputados-debatem-proposta-de-taxar-armas-para-custear-seguranca-em-escolas/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-04-25T13:10:00"
+        }
+    ]
+}

@@ -15,4 +15,4 @@ run:
 	poetry run python -m src.main
 
 clean-data: 
-	rm -rfv data/*/*
+	rm -rfv data/*

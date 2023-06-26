@@ -1,0 +1,466 @@
+{
+    "headlines": [
+        {
+            "title": "Pol\u00edcia prende hackers que vendiam dados de ministros do STF, governadores e deputados",
+            "link": "https://www.cnnbrasil.com.br/politica/policia-prende-hackers-que-vendiam-dados-de-ministros-do-stf-governadores-e-deputados/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-06-20T10:42:00"
+        },
+        {
+            "title": "Microsoft diz que hackers chineses podem tentar romper comunica\u00e7\u00e3o entre EUA e \u00c1sia",
+            "link": "https://www.cnnbrasil.com.br/internacional/microsoft-diz-que-hackers-chineses-podem-tentar-romper-comunicacao-entre-eua-e-asia/",
+            "tag": "Internacional",
+            "created_at": "2023-05-25T13:09:00"
+        },
+        {
+            "title": "Hackers pr\u00f3-R\u00fassia atacam sites de servi\u00e7os secretos de pa\u00edses europeus",
+            "link": "https://www.cnnbrasil.com.br/internacional/hackers-pro-russia-atacam-sites-de-servicos-secretos-de-paises-europeus/",
+            "tag": "Internacional",
+            "created_at": "2023-05-16T13:49:00"
+        },
+        {
+            "title": "\u201cChatGPT \u00e9 a nova cripto\u201d: Meta alerta que hackers exploram interesse na IA",
+            "link": "https://www.cnnbrasil.com.br/tecnologia/chatgpt-e-a-nova-cripto-meta-alerta-que-hackers-exploram-interesse-na-ia/",
+            "tag": "Tecnologia",
+            "created_at": "2023-05-06T04:00:00"
+        },
+        {
+            "title": "Hackers aproveitam interesse em ChatGPT para invadir dispositivos, diz Meta",
+            "link": "https://www.cnnbrasil.com.br/tecnologia/hackers-aproveitam-interesse-em-chatgpt-para-invadir-dispositivos-diz-meta/",
+            "tag": "Tecnologia",
+            "created_at": "2023-05-03T14:03:00"
+        },
+        {
+            "title": "China aperta o cerco contra ataques cibern\u00e9ticos ao pa\u00eds com nova lei",
+            "link": "https://www.cnnbrasil.com.br/internacional/china-aperta-o-cerco-sobre-ataques-ciberneticos-ao-pais/",
+            "tag": "Internacional",
+            "created_at": "2023-04-26T16:49:00"
+        },
+        {
+            "title": "Controle de tr\u00e1fego a\u00e9reo europeu diz que ataque de hackers pr\u00f3-R\u00fassia n\u00e3o afeta voos",
+            "link": "https://www.cnnbrasil.com.br/internacional/controle-de-trafego-aereo-europeu-diz-que-ataque-de-hackers-pro-russia-nao-afeta-voos/",
+            "tag": "Internacional",
+            "created_at": "2023-04-21T15:12:00"
+        },
+        {
+            "title": "Opera\u00e7\u00e3o rastreia US$ 100 milh\u00f5es em criptomoedas roubadas por hackers da Coreia do Norte; entenda",
+            "link": "https://www.cnnbrasil.com.br/economia/operacao-rastreia-us-100-milhoes-em-criptomoedas-roubadas-por-hackers-da-coreia-do-norte-entenda/",
+            "tag": "Economia",
+            "created_at": "2023-04-09T15:50:00"
+        },
+        {
+            "title": "Hackers russos preparam novo ataque contra Ucr\u00e2nia, diz relat\u00f3rio da Microsoft",
+            "link": "https://www.cnnbrasil.com.br/internacional/hackers-russos-preparam-novo-ataque-contra-ucrania-diz-relatorio-da-microsoft/",
+            "tag": "Internacional",
+            "created_at": "2023-03-15T18:33:00"
+        },
+        {
+            "title": "Cerca de 25% das empresas brasileiras tiveram perdas com hackers em 2022, diz pesquisa",
+            "link": "https://www.cnnbrasil.com.br/economia/cerca-de-25-das-empresas-brasileiras-tiveram-perdas-com-hackers-em-2022-diz-pesquisa/",
+            "tag": "Economia",
+            "created_at": "2023-03-06T09:09:00"
+        },
+        {
+            "title": "Novo pre\u00e7o do diesel, mortos em terremotos passam de 9,5 mil e mais de 8 de fevereiro",
+            "link": "https://www.cnnbrasil.com.br/nacional/novo-preco-do-diesel-mortos-em-terremotos-passam-de-95-mil-e-mais-de-8-de-fevereiro/",
+            "tag": "Nacional",
+            "created_at": "2023-02-08T07:36:00"
+        },
+        {
+            "title": "Roubo de criptomoedas atinge valor recorde de US$ 3,8 bilh\u00f5es em 2022",
+            "link": "https://www.cnnbrasil.com.br/economia/roubo-de-criptomoedas-atinge-valor-recorde-de-us-38-bilhoes-em-2022/",
+            "tag": "Economia",
+            "created_at": "2023-02-02T02:28:00"
+        },
+        {
+            "title": "Empresa alerta para novo golpe com pagamento por aproxima\u00e7\u00e3o no cart\u00e3o de cr\u00e9dito",
+            "link": "https://www.cnnbrasil.com.br/tecnologia/empresa-alerta-para-novo-golpe-com-pagamento-por-aproximacao-no-cartao-de-credito/",
+            "tag": "Tecnologia",
+            "created_at": "2023-01-31T19:10:00"
+        },
+        {
+            "title": "Site do PT sofre ataque hacker com mensagens contra Lula",
+            "link": "https://www.cnnbrasil.com.br/politica/site-do-pt-sofre-ataque-hacker-com-mensagens-contra-lula/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-29T05:56:00"
+        },
+        {
+            "title": "Hackers publicam endere\u00e7os de e-mail vinculados a 200 milh\u00f5es de contas do Twitter",
+            "link": "https://www.cnnbrasil.com.br/economia/hackers-publicam-enderecos-de-e-mail-vinculados-a-200-milhoes-de-contas-do-twitter/",
+            "tag": "Economia",
+            "created_at": "2023-01-06T10:36:00"
+        },
+        {
+            "title": "Tem iPhone? A Apple tem um recado urgente para voc\u00ea proteger seus dados",
+            "link": "https://www.cnnbrasil.com.br/tecnologia/tem-iphone-veja-os-novos-recursos-da-apple-para-proteger-seus-dados/",
+            "tag": "Tecnologia",
+            "created_at": "2023-01-05T11:50:00"
+        },
+        {
+            "title": "Ap\u00f3s ter redes sociais hackeadas, Murilo Huff desmente morte do filho com Mar\u00edlia Mendon\u00e7a",
+            "link": "https://www.cnnbrasil.com.br/nacional/apos-ter-redes-sociais-hackeadas-murilo-huff-desmente-morte-do-filho-com-marilia-mendonca/",
+            "tag": "Nacional",
+            "created_at": "2022-12-24T09:34:00"
+        },
+        {
+            "title": "Bolsa de criptomoedas Binance suspende saques ap\u00f3s suspeita de ataque hacker",
+            "link": "https://www.cnnbrasil.com.br/economia/bolsa-de-criptomoedas-binance-suspende-saques-apos-suspeita-de-ataque-hacker/",
+            "tag": "Economia",
+            "created_at": "2022-12-02T08:25:00"
+        },
+        {
+            "title": "FTX investiga poss\u00edvel ciberataque que causou perdas de US$ 473 milh\u00f5es",
+            "link": "https://www.cnnbrasil.com.br/economia/ftx-investiga-possivel-ciberataque-que-causou-perdas-de-us-473-milhoes/",
+            "tag": "Economia",
+            "created_at": "2022-11-12T13:44:00"
+        },
+        {
+            "title": "Blockchain vinculada \u00e0 Binance sofre ataque digital de US$ 570 milh\u00f5es",
+            "link": "https://www.cnnbrasil.com.br/economia/blockchain-vinculada-a-binance-sofre-ataque-digital-de-us-570-milhoes/",
+            "tag": "Economia",
+            "created_at": "2022-10-07T10:06:00"
+        },
+        {
+            "title": "Trader de criptomoedas Wintermute perde US$ 160 milh\u00f5es em ataque hacker",
+            "link": "https://www.cnnbrasil.com.br/economia/trader-de-criptomoedas-wintermute-perde-us-160-milhoes-em-ataque-hacker/",
+            "tag": "Economia",
+            "created_at": "2022-09-20T12:14:00"
+        },
+        {
+            "title": "EUA acusam tr\u00eas iranianos de comandar esquema de ataques virtuais a empresas",
+            "link": "https://www.cnnbrasil.com.br/internacional/eua-acusam-tres-iranianos-de-comandar-esquema-de-ataques-virtuais-a-empresas/",
+            "tag": "Internacional",
+            "created_at": "2022-09-14T16:10:00"
+        },
+        {
+            "title": "Videoclipes e chap\u00e9us de cowboy podem ensinar seguran\u00e7a digital; entenda",
+            "link": "https://www.cnnbrasil.com.br/economia/videoclipes-e-chapeus-de-cowboy-podem-ensinar-seguranca-digital-entenda/",
+            "tag": "Economia",
+            "created_at": "2022-09-03T04:00:00"
+        },
+        {
+            "title": "Levantamento mostra que ataques cibern\u00e9ticos no Brasil cresceram 94%",
+            "link": "https://www.cnnbrasil.com.br/tecnologia/levantamento-mostra-que-ataques-ciberneticos-no-brasil-cresceram-94/",
+            "tag": "Tecnologia",
+            "created_at": "2022-08-19T17:42:00"
+        },
+        {
+            "title": "Est\u00f4nia diz que sofreu ataque cibern\u00e9tico ap\u00f3s remover monumentos sovi\u00e9ticos",
+            "link": "https://www.cnnbrasil.com.br/internacional/estonia-diz-que-sofreu-ataque-cibernetico-apos-remover-monumentos-sovieticos/",
+            "tag": "Internacional",
+            "created_at": "2022-08-18T21:05:00"
+        },
+        {
+            "title": "Quatro em dez empresas brasileiras agem contra vazamento de dados, diz pesquisa",
+            "link": "https://www.cnnbrasil.com.br/economia/quatro-em-dez-empresas-brasileiras-agem-contra-vazamento-de-dados-diz-pesquisa/",
+            "tag": "Economia",
+            "created_at": "2022-08-18T10:00:00"
+        },
+        {
+            "title": "Ataque hacker tentou roubar dados sigilosos da prefeitura do Rio, diz Paes",
+            "link": "https://www.cnnbrasil.com.br/nacional/ataque-hacker-tentou-roubar-dados-sigilosos-da-prefeitura-do-rio-diz-paes/",
+            "tag": "Nacional",
+            "created_at": "2022-08-18T08:12:00"
+        },
+        {
+            "title": "Roubo de criptomoedas por ciberataques em 2022 soma US$ 1,9 bi, diz relat\u00f3rio",
+            "link": "https://www.cnnbrasil.com.br/economia/roubo-de-criptomoedas-por-ciberataques-em-2022-soma-us-19-bi-diz-relatorio/",
+            "tag": "Economia",
+            "created_at": "2022-08-17T04:00:00"
+        },
+        {
+            "title": "Ataque hacker tira do ar sistemas da prefeitura do Rio de Janeiro",
+            "link": "https://www.cnnbrasil.com.br/nacional/ataque-hacker-tira-do-ar-sistemas-da-prefeitura-do-rio-de-janeiro/",
+            "tag": "Nacional",
+            "created_at": "2022-08-16T11:44:00"
+        },
+        {
+            "title": "PF faz opera\u00e7\u00e3o contra suspeitos de ataque hacker no Minist\u00e9rio da Sa\u00fade em 2021",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-faz-operacao-contra-suspeitos-de-ataque-hacker-no-ministerio-da-saude-em-2021/",
+            "tag": "Nacional",
+            "created_at": "2022-08-16T07:38:00"
+        },
+        {
+            "title": "EUA imp\u00f5em san\u00e7\u00f5es sobre \u201cmixer\u201d de criptomoedas Tornado Cash",
+            "link": "https://www.cnnbrasil.com.br/economia/eua-impoem-sancoes-sobre-mixer-de-criptomoedas-tornado-cash/",
+            "tag": "Economia",
+            "created_at": "2022-08-08T17:16:00"
+        },
+        {
+            "title": "Com mais de 470 mil assinaturas, site de carta pela democracia \u00e9 alvo de hackers",
+            "link": "https://www.cnnbrasil.com.br/politica/com-mais-de-mil-assinaturas-site-de-carta-pela-democracia-e-alvo-de-hackers/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-07-28T10:43:00"
+        },
+        {
+            "title": "Ex-integrante da CIA \u00e9 condenado por \u201cmaior vazamento de dados da hist\u00f3ria da ag\u00eancia\u201d",
+            "link": "https://www.cnnbrasil.com.br/internacional/ex-funcionario-da-cia-e-condenado-por-vazamento-de-dados-ao-wikileaks/",
+            "tag": "Internacional",
+            "created_at": "2022-07-14T04:40:00"
+        },
+        {
+            "title": "EUA confirmam que hackers militares realizaram opera\u00e7\u00f5es cibern\u00e9ticas em apoio \u00e0 Ucr\u00e2nia",
+            "link": "https://www.cnnbrasil.com.br/internacional/eua-confirmam-que-hackers-militares-realizaram-operacoes-ciberneticas/",
+            "tag": "Internacional",
+            "created_at": "2022-06-02T16:44:00"
+        },
+        {
+            "title": "Hackers invadem sistema e exibem v\u00eddeos porn\u00f4s no aeroporto Santos Dumont, no Rio",
+            "link": "https://www.cnnbrasil.com.br/nacional/hackers-invadem-sistema-e-exibem-videos-pornos-no-aeroporto-santos-dumont-no-rio/",
+            "tag": "Nacional",
+            "created_at": "2022-05-27T15:39:00"
+        },
+        {
+            "title": "Procura por seguros cibern\u00e9ticos cresce mais de 40% no 1\u00ba trimestre, diz pesquisa",
+            "link": "https://www.cnnbrasil.com.br/economia/procura-por-seguros-ciberneticos-cresce-mais-de-40-no-1o-trimestre-diz-pesquisa/",
+            "tag": "Economia",
+            "created_at": "2022-05-26T08:54:00"
+        },
+        {
+            "title": "Sistemas do Minist\u00e9rio da Sa\u00fade est\u00e3o fora do ar ap\u00f3s tentativa de invas\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/saude/sistemas-do-ministerio-da-saude-estao-fora-do-ar-apos-tentativa-de-invasao/",
+            "tag": "Sa\u00fade",
+            "created_at": "2022-05-17T11:49:00"
+        },
+        {
+            "title": "Ap\u00f3s ataque, 90% das empresas v\u00edtimas de ransomware pagariam resgate, diz relat\u00f3rio",
+            "link": "https://www.cnnbrasil.com.br/economia/apos-ataque-90-das-empresas-vitimas-de-ransomware-pagariam-resgate-diz-relatorio/",
+            "tag": "Economia",
+            "created_at": "2022-05-13T08:40:00"
+        },
+        {
+            "title": "Premi\u00ea espanhol teve celular invadido por software de espionagem Pegasus",
+            "link": "https://www.cnnbrasil.com.br/internacional/premie-espanhol-teve-celular-invadido-por-software-de-espionagem-pegasus/",
+            "tag": "Internacional",
+            "created_at": "2022-05-02T08:03:00"
+        },
+        {
+            "title": "Bored Ape Yacht Club sofre ataque hacker e usu\u00e1rios perdem milh\u00f5es em NFTs roubados",
+            "link": "https://www.cnnbrasil.com.br/economia/bored-ape-yacht-club-sofre-ataque-hacker-e-usuarios-perdem-milhoes-em-nfts-roubados/",
+            "tag": "Economia",
+            "created_at": "2022-04-27T13:45:00"
+        },
+        {
+            "title": "FBI acusa hackers da Coreia do Norte de roubarem mais de US$ 600 mi em criptomoedas",
+            "link": "https://www.cnnbrasil.com.br/economia/fbi-acusa-hackers-da-coreia-do-norte-de-roubar-mais-de-us-600-em-criptmoedas/",
+            "tag": "Economia",
+            "created_at": "2022-04-15T04:30:00"
+        },
+        {
+            "title": "Pagamentos por resgates de dados aumentam 78% em 2021, diz pesquisa",
+            "link": "https://www.cnnbrasil.com.br/economia/pagamentos-por-resgates-de-dados-aumentam-78-em-2021-diz-pesquisa/",
+            "tag": "Economia",
+            "created_at": "2022-04-13T04:30:00"
+        },
+        {
+            "title": "Facebook avalia medidas para conter campanha de desinforma\u00e7\u00e3o de governo russo",
+            "link": "https://www.cnnbrasil.com.br/internacional/facebook-avalia-medidas-para-conter-campanha-de-desinformacao-de-governo-russo/",
+            "tag": "Internacional",
+            "created_at": "2022-04-07T12:39:00"
+        },
+        {
+            "title": "PF investiga ataque cibern\u00e9tico \u00e0 R\u00e1dio Justi\u00e7a e ao sistema de consulta do STF",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-investiga-ataque-cibernetico-a-radio-justica-e-ao-sistema-de-consulta-do-stf/",
+            "tag": "Nacional",
+            "created_at": "2022-04-07T10:54:00"
+        },
+        {
+            "title": "Ataque hacker rouba US$ 615 milh\u00f5es de blockchain vinculada a game Axie Infinity",
+            "link": "https://www.cnnbrasil.com.br/economia/ataque-hacker-rouba-us-615-milhoes-de-blockchain-vinculada-a-game-axie-infinity/",
+            "tag": "Economia",
+            "created_at": "2022-03-29T18:02:00"
+        },
+        {
+            "title": "EUA alertam empresas do pa\u00eds para se prepararem contra ataques cibern\u00e9ticos russos",
+            "link": "https://www.cnnbrasil.com.br/economia/eua-alertam-empresas-do-pais-para-se-prepararem-contra-ataques-ciberneticos-russos/",
+            "tag": "Economia",
+            "created_at": "2022-03-23T21:08:00"
+        },
+        {
+            "title": "Patr\u00edcia Travassos: Armas digitais s\u00e3o \u00e1geis e efetivas em cen\u00e1rio de guerra",
+            "link": "https://www.cnnbrasil.com.br/tecnologia/patricia-travassos-armas-digitais-sao-ageis-e-efetivas-em-cenario-de-guerra/",
+            "tag": "Tecnologia",
+            "created_at": "2022-03-09T13:32:00"
+        },
+        {
+            "title": "Conflito entre R\u00fassia e Ucr\u00e2nia eleva riscos de ciberataques globais, diz Fitch",
+            "link": "https://www.cnnbrasil.com.br/economia/conflito-entre-russia-e-ucrania-eleva-riscos-de-ciberataques-globais-diz-fitch/",
+            "tag": "Economia",
+            "created_at": "2022-03-04T14:44:00"
+        },
+        {
+            "title": "Ataque cibern\u00e9tico fechou todas as f\u00e1bricas da Toyota no Jap\u00e3o por um dia",
+            "link": "https://www.cnnbrasil.com.br/economia/ataque-cibernetico-fechou-todas-as-fabricas-da-toyota-no-japao-por-um-dia/",
+            "tag": "Economia",
+            "created_at": "2022-03-01T08:27:00"
+        },
+        {
+            "title": "Ucr\u00e2nia acusa Belarus de tentar hackear e-mails privados de militares ucranianos",
+            "link": "https://www.cnnbrasil.com.br/internacional/ucrania-acusa-belarus-de-tentar-hackear-e-mails-privados-de-militares-ucranianos/",
+            "tag": "Internacional",
+            "created_at": "2022-02-25T14:06:00"
+        },
+        {
+            "title": "FBI alerta para poss\u00edveis ataques de ransomware ap\u00f3s san\u00e7\u00f5es \u00e0 R\u00fassia",
+            "link": "https://www.cnnbrasil.com.br/internacional/fbi-alerta-para-possiveis-ataques-de-ransomware-apos-sancoes-a-russia/",
+            "tag": "Internacional",
+            "created_at": "2022-02-23T02:36:00"
+        },
+        {
+            "title": "Seguran\u00e7a e intelig\u00eancia dos EUA se preparam para amea\u00e7as de hackers russos",
+            "link": "https://www.cnnbrasil.com.br/internacional/seguranca-e-inteligencia-dos-eua-se-preparam-para-ameacas-de-hackers-russos/",
+            "tag": "Internacional",
+            "created_at": "2022-02-13T10:38:00"
+        },
+        {
+            "title": "Pol\u00edcia prende casal de NY e apreendem US$ 3,6 bilh\u00f5es em criptomoeda roubada",
+            "link": "https://www.cnnbrasil.com.br/economia/policia-prende-casal-de-ny-e-apreendem-us-36-bilhoes-em-criptomoeda-roubada/",
+            "tag": "Economia",
+            "created_at": "2022-02-08T17:43:00"
+        },
+        {
+            "title": "PF tem at\u00e9 o dia 28 para ouvir Bolsonaro sobre vazamento de informa\u00e7\u00f5es sigilosas",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-tem-ate-o-dia-28-para-ouvir-bolsonaro-sobre-vazamento-de-informacoes-sigilosas/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-01-18T13:58:00"
+        },
+        {
+            "title": "Sistema de sa\u00fade da Fl\u00f3rida \u00e9 invadido e dados de 1,3 milh\u00e3o s\u00e3o expostos",
+            "link": "https://www.cnnbrasil.com.br/tecnologia/sistema-de-saude-da-florida-e-invadido-e-dados-de-13-milhao-sao-expostos/",
+            "tag": "Tecnologia",
+            "created_at": "2022-01-04T19:35:00"
+        },
+        {
+            "title": "Ataques hackers demonstraram defici\u00eancia de seguran\u00e7a do governo, diz especialista",
+            "link": "https://www.cnnbrasil.com.br/tecnologia/ataques-hackers-demonstraram-deficiencia-de-seguranca-do-governo-diz-especialista/",
+            "tag": "Tecnologia",
+            "created_at": "2021-12-24T09:20:00"
+        },
+        {
+            "title": "Ataques cibern\u00e9ticos a \u00f3rg\u00e3os p\u00fablicos alertam para riscos de vazamento de dados",
+            "link": "https://www.cnnbrasil.com.br/tecnologia/podcast-e-tem-mais-ataques-ciberneticos-a-orgaos-publicos-alertam-para-riscos-de-vazamento-de-dados/",
+            "tag": "Tecnologia",
+            "created_at": "2021-12-20T04:30:00"
+        },
+        {
+            "title": "CGU e Pol\u00edcia Rodovi\u00e1ria Federal tamb\u00e9m foram alvos de ataques cibern\u00e9ticos",
+            "link": "https://www.cnnbrasil.com.br/nacional/cgu-e-policia-rodoviaria-federal-tambem-foram-alvos-de-ataques-ciberneticos/",
+            "tag": "Nacional",
+            "created_at": "2021-12-14T11:30:00"
+        },
+        {
+            "title": "Dados da Sa\u00fade bloqueados devem ser recuperados at\u00e9 ter\u00e7a (14), diz Queiroga",
+            "link": "https://www.cnnbrasil.com.br/nacional/dados-da-saude-bloqueados-devem-ser-recuperados-ate-terca-14-diz-queiroga/",
+            "tag": "Nacional",
+            "created_at": "2021-12-13T09:01:00"
+        },
+        {
+            "title": "Governo espera retomar sistemas do Minist\u00e9rio da Sa\u00fade na pr\u00f3xima semana",
+            "link": "https://www.cnnbrasil.com.br/saude/governo-espera-retomar-sistemas-do-ministerio-da-saude-na-proxima-semana/",
+            "tag": "Sa\u00fade",
+            "created_at": "2021-12-11T13:37:00"
+        },
+        {
+            "title": "Ap\u00f3s ataque, Sa\u00fade diz que n\u00e3o tem previs\u00e3o de retorno do sistema",
+            "link": "https://www.cnnbrasil.com.br/saude/apos-ataque-saude-diz-que-nao-tem-previsao-de-retorno-do-sistema/",
+            "tag": "Sa\u00fade",
+            "created_at": "2021-12-10T17:57:00"
+        },
+        {
+            "title": "Hackers deixam contas para a recupera\u00e7\u00e3o de dados da Sa\u00fade",
+            "link": "https://www.cnnbrasil.com.br/nacional/hackers-deixam-contas-para-a-recuperacao-de-dados-da-saude/",
+            "tag": "Nacional",
+            "created_at": "2021-12-10T17:39:00"
+        },
+        {
+            "title": "Volvo investiga roubo de dados de pesquisa e desenvolvimento",
+            "link": "https://www.cnnbrasil.com.br/economia/volvo-investiga-roubo-de-dados-de-pesquisa-e-desenvolvimento/",
+            "tag": "Economia",
+            "created_at": "2021-12-10T14:42:00"
+        },
+        {
+            "title": "Governo adia por uma semana quarentena de n\u00e3o vacinados ap\u00f3s ataque hacker",
+            "link": "https://www.cnnbrasil.com.br/saude/governo-adia-por-uma-semana-quarentena-de-nao-vacinados-apos-ataque-hacker/",
+            "tag": "Sa\u00fade",
+            "created_at": "2021-12-10T12:48:00"
+        },
+        {
+            "title": "PF identifica que hackers n\u00e3o tiveram acesso a dados da Sa\u00fade",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-identifica-que-hackers-nao-tiveram-acesso-a-dados-da-saude/",
+            "tag": "Nacional",
+            "created_at": "2021-12-10T10:35:00"
+        },
+        {
+            "title": "Entenda o que \u00e9 o ransomware, ataque hacker sofrido pelo sistema do Minist\u00e9rio da Sa\u00fade",
+            "link": "https://www.cnnbrasil.com.br/nacional/entenda-o-que-e-o-ransomware-ataque-hacker-sofrido-pelo-sistema-do-ministerio-da-saude/",
+            "tag": "Nacional",
+            "created_at": "2021-12-10T10:30:00"
+        },
+        {
+            "title": "Site do Minist\u00e9rio da Sa\u00fade sofre ataque hacker durante madrugada e sai do ar",
+            "link": "https://www.cnnbrasil.com.br/nacional/site-do-ministerio-da-saude-sofre-ataque-hacker-durante-madrugada-e-sai-do-ar/",
+            "tag": "Nacional",
+            "created_at": "2021-12-10T02:29:00"
+        },
+        {
+            "title": "For\u00e7as Armadas dos EUA reconhecem que tomaram medidas ofensivas contra hackers",
+            "link": "https://www.cnnbrasil.com.br/internacional/forcas-armadas-dos-eua-reconhecem-que-tomaram-medidas-ofensivas-contra-hackers/",
+            "tag": "Internacional",
+            "created_at": "2021-12-06T10:15:00"
+        },
+        {
+            "title": "\u2018Hackers do bem\u2019 s\u00e3o recompensados ao testar os sistemas de grandes empresas",
+            "link": "https://www.cnnbrasil.com.br/economia/hackers-do-bem-sao-recompensados-ao-testar-os-sistemas-de-grandes-empresas-2/",
+            "tag": "Economia",
+            "created_at": "2021-11-22T08:36:00"
+        },
+        {
+            "title": "EUA resgatam US$ 6 milh\u00f5es em pagamentos para hackers respons\u00e1veis por crimes",
+            "link": "https://www.cnnbrasil.com.br/internacional/eua-resgatam-us-6-milhoes-em-pagamentos-para-hackers-responsaveis-por-crimes/",
+            "tag": "Internacional",
+            "created_at": "2021-11-08T16:36:00"
+        },
+        {
+            "title": "Microsoft: grupo que hackeou a SolarWinds segue atacando empresas dos EUA",
+            "link": "https://www.cnnbrasil.com.br/economia/microsoft-grupo-que-hackeou-a-solarwinds-segue-atacando-empresas-dos-eua/",
+            "tag": "Economia",
+            "created_at": "2021-10-25T10:46:00"
+        },
+        {
+            "title": "Custos com ciberseguran\u00e7a devem crescer em 83% das empresas em 2022",
+            "link": "https://www.cnnbrasil.com.br/economia/custos-com-ciberseguranca-devem-crescer-em-83-das-empresas-em-2022/",
+            "tag": "Economia",
+            "created_at": "2021-10-12T11:59:00"
+        },
+        {
+            "title": "Biden convoca 30 pa\u00edses para combater a amea\u00e7a de ataque ransomware",
+            "link": "https://www.cnnbrasil.com.br/internacional/biden-convoca-30-paises-para-combater-a-ameaca-de-ataque-ransomware/",
+            "tag": "Internacional",
+            "created_at": "2021-10-01T17:32:00"
+        },
+        {
+            "title": "Ataques digitais e sequestro de dados crescem e desafiam sistemas de prote\u00e7\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/tecnologia/podcast-e-tem-mais-ataques-digitais-e-sequestro-de-dados-crescem-e-desafiam-sistemas-de-protecao/",
+            "tag": "Tecnologia",
+            "created_at": "2021-09-29T04:30:00"
+        },
+        {
+            "title": "Site brasileiro exp\u00f4s 426 milh\u00f5es de dados pessoais, diz empresa de seguran\u00e7a",
+            "link": "https://www.cnnbrasil.com.br/economia/site-brasileiro-expos-426-milhoes-de-dados-pessoais-diz-empresa-de-seguranca/",
+            "tag": "Economia",
+            "created_at": "2021-09-22T13:15:00"
+        },
+        {
+            "title": "Alemanha acusa R\u00fassia de ataques cibern\u00e9ticos",
+            "link": "https://www.cnnbrasil.com.br/internacional/alemanha-acusa-russia-de-ataques-ciberneticos/",
+            "tag": "Internacional",
+            "created_at": "2021-09-06T14:11:00"
+        },
+        {
+            "title": "Biden pede ajuda a empresas de tecnologia por seguran\u00e7a contra ciberataques",
+            "link": "https://www.cnnbrasil.com.br/economia/biden-pede-apoio-de-empresas-de-tecnologia-para-reforcar-seguranca-no-setor/",
+            "tag": "Economia",
+            "created_at": "2021-08-25T16:00:00"
+        }
+    ]
+}

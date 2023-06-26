@@ -1,0 +1,334 @@
+{
+    "headlines": [
+        {
+            "title": "Restaurante dos EUA \u00e9 condenado a pagar US$ 140 mil ap\u00f3s contratar \u201cfalso padre\u201d para extrair confiss\u00f5es de funcion\u00e1rios",
+            "link": "https://www.cnnbrasil.com.br/economia/restaurante-dos-eua-e-condenado-a-pagar-us-140-mil-apos-contratar-falso-padre-para-extrair-confissoes-de-funcionarios/",
+            "tag": "Economia",
+            "created_at": "2023-06-23T04:00:00"
+        },
+        {
+            "title": "Organizadora de shows de Taylor Swift ainda deve informa\u00e7\u00f5es ao Procon-SP, diz diretor \u00e0 CNN",
+            "link": "https://www.cnnbrasil.com.br/nacional/organizadora-de-shows-da-taylor-swift-ainda-deve-informacoes-ao-procon-sp-diz-diretor-a-cnn/",
+            "tag": "Nacional",
+            "created_at": "2023-06-18T11:22:00"
+        },
+        {
+            "title": "Fraude ajudou a ampliar resultados da empresa em R$ 25,3 bilh\u00f5es, diz Americanas",
+            "link": "https://www.cnnbrasil.com.br/economia/fraude-ajudou-a-ampliar-resultados-da-empresa-em-r-253-bilhoes-diz-americanas/",
+            "tag": "Economia",
+            "created_at": "2023-06-14T10:20:00"
+        },
+        {
+            "title": "Entenda a fraude na Americanas em 4 pontos",
+            "link": "https://www.cnnbrasil.com.br/economia/entenda-a-fraude-na-americanas-em-4-pontos/",
+            "tag": "Economia",
+            "created_at": "2023-06-13T19:59:00"
+        },
+        {
+            "title": "Minist\u00e9rio da Agricultura faz opera\u00e7\u00e3o contra fraude e apreende mais de 30 mil quilos de alimentos",
+            "link": "https://www.cnnbrasil.com.br/economia/ministerio-da-agricultura-faz-operacao-contra-fraude-e-apreende-mais-de-30-mil-quilos-de-alimentos/",
+            "tag": "Economia",
+            "created_at": "2023-05-30T12:59:00"
+        },
+        {
+            "title": "Bancos ter\u00e3o que compartilhar dados entre si para combater fraude, determina BC",
+            "link": "https://www.cnnbrasil.com.br/economia/instituicoes-reguladas-pelo-bc-passarao-a-ter-que-compartilhar-entre-si-dados-sobre-fraudes/",
+            "tag": "Economia",
+            "created_at": "2023-05-23T10:36:00"
+        },
+        {
+            "title": "Mauro Cid deve assumir fraude em cart\u00f5es de vacina da fam\u00edlia, diz aliado",
+            "link": "https://www.cnnbrasil.com.br/politica/mauro-cid-deve-assumir-fraude-em-cartoes-de-vacina-da-familia-diz-aliado/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-17T18:50:00"
+        },
+        {
+            "title": "Hulk, do Atl\u00e9tico-MG, reage a esc\u00e2ndalo de apostas: \u201cTem que honrar nossa profiss\u00e3o\u201d",
+            "link": "https://www.cnnbrasil.com.br/esportes/hulk-do-atletico-reage-a-escandalo-de-apostas-tem-que-honrar-nossa-profissao/",
+            "tag": "Esportes",
+            "created_at": "2023-05-14T07:42:00"
+        },
+        {
+            "title": "Jogador do Botafogo revela que foi convidado para esquema de apostas",
+            "link": "https://www.cnnbrasil.com.br/esportes/jogador-do-botafogo-revela-que-foi-convidado-para-esquema-de-apostas/",
+            "tag": "Esportes",
+            "created_at": "2023-05-12T06:48:00"
+        },
+        {
+            "title": "Atl\u00e9tico-MG: zagueiro iria para clube europeu antes de esquema de apostas",
+            "link": "https://www.cnnbrasil.com.br/esportes/atletico-mg-zagueiro-iria-para-clube-europeu-antes-de-esquema-de-apostas/",
+            "tag": "Esportes",
+            "created_at": "2023-05-10T10:27:00"
+        },
+        {
+            "title": "Governo avalia manter sal\u00e1rio de assessores presos de Bolsonaro",
+            "link": "https://www.cnnbrasil.com.br/politica/governo-avalia-manter-salario-de-assessores-presos-de-bolsonaro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-09T09:31:00"
+        },
+        {
+            "title": "Defesa apostar\u00e1 em falta de provas para desvincular Bolsonaro de fraude em vacina, dizem aliados",
+            "link": "https://www.cnnbrasil.com.br/politica/defesa-apostara-em-falta-de-provas-para-desvincular-bolsonaro-de-fraude-em-vacina-dizem-aliados/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-07T14:00:00"
+        },
+        {
+            "title": "Dados de celular de Bolsonaro podem ser usados em outros inqu\u00e9ritos, dizem advogados",
+            "link": "https://www.cnnbrasil.com.br/politica/dados-de-celular-de-bolsonaro-podem-ser-usados-em-outros-inqueritos-dizem-advogados/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-07T11:30:00"
+        },
+        {
+            "title": "M\u00e9dico investigado por fraude em registros de vacina seguir\u00e1 trabalhando at\u00e9 fim das investiga\u00e7\u00f5es, diz hospital",
+            "link": "https://www.cnnbrasil.com.br/politica/medico-investigado-por-fraude-em-registros-de-vacina-seguira-trabalhando-ate-fim-das-investigacoes-diz-hospital/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-05T19:11:00"
+        },
+        {
+            "title": "Saiba quem s\u00e3o\u00a0os auxiliares de Bolsonaro presos pela Pol\u00edcia Federal",
+            "link": "https://www.cnnbrasil.com.br/politica/saiba-quem-sao-os-auxiliares-de-bolsonaro-presos-pela-policia-federal/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-04T21:43:00"
+        },
+        {
+            "title": "CGU investiga tr\u00eas registros de vacina para ex-presidente Jair Bolsonaro",
+            "link": "https://www.cnnbrasil.com.br/politica/cgu-investiga-tres-registros-de-vacina-para-bolsonaro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-03T18:58:00"
+        },
+        {
+            "title": "Ex-militar ligado a Bolsonaro foi expulso do Ex\u00e9rcito em 2006 ap\u00f3s sete pris\u00f5es",
+            "link": "https://www.cnnbrasil.com.br/politica/ex-militar-ligado-a-bolsonaro-foi-expulso-do-exercito-em-2006-apos-sete-prisoes/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-03T18:24:00"
+        },
+        {
+            "title": "Banco Central anuncia refor\u00e7o de seguran\u00e7a no Pix",
+            "link": "https://www.cnnbrasil.com.br/economia/banco-central-anuncia-reforco-de-seguranca-no-pix/",
+            "tag": "Economia",
+            "created_at": "2023-05-02T18:09:00"
+        },
+        {
+            "title": "PF faz opera\u00e7\u00e3o contra 19 pessoas que fraudavam benef\u00edcios do INSS do Rio de Janeiro",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-faz-operacao-contra-19-pessoas-que-fraudavam-beneficios-do-inss-do-rio-de-janeiro/",
+            "tag": "Nacional",
+            "created_at": "2023-04-25T08:38:00"
+        },
+        {
+            "title": "Opera\u00e7\u00e3o contra fraudes no DNIT de Minas Gerais apura contratos de R$ 2 bilh\u00f5es",
+            "link": "https://www.cnnbrasil.com.br/nacional/operacao-contra-fraudes-no-dnit-de-minas-gerais-apura-contratos-de-r-2-bilhoes/",
+            "tag": "Nacional",
+            "created_at": "2023-04-24T10:39:00"
+        },
+        {
+            "title": "Exclusivo CNN: aliados de Trump consideraram usar dados violados para interferir em elei\u00e7\u00e3o para Senado",
+            "link": "https://www.cnnbrasil.com.br/internacional/exclusivo-cnn-aliados-de-trump-consideraram-usar-dados-violados-para-interferir-em-eleicao-para-senado/",
+            "tag": "Internacional",
+            "created_at": "2023-04-22T07:36:00"
+        },
+        {
+            "title": "Fundadora de aplicativo \u00e9 acusada de fraudar o JPMorgan e \u00e9 presa nos EUA",
+            "link": "https://www.cnnbrasil.com.br/economia/fundadora-de-aplicativo-e-acusada-de-fraudar-o-jpmorgan-e-e-presa-nos-eua/",
+            "tag": "Economia",
+            "created_at": "2023-04-05T11:01:00"
+        },
+        {
+            "title": "Em primeira postagem ap\u00f3s acusa\u00e7\u00e3o formal, Trump diz que \u201cnada foi feito ilegalmente\u201d",
+            "link": "https://www.cnnbrasil.com.br/internacional/em-primeira-postagem-apos-acusacao-formal-trump-diz-que-nada-foi-feito-ilegalmente/",
+            "tag": "Internacional",
+            "created_at": "2023-04-04T19:17:00"
+        },
+        {
+            "title": "N\u00e3o normalizaremos conduta criminosa, n\u00e3o importa quem voc\u00ea seja, diz promotor ap\u00f3s acusar Trump",
+            "link": "https://www.cnnbrasil.com.br/internacional/nao-normalizaremos-conduta-criminosa-nao-importa-quem-voce-seja-diz-promotor-apos-acusar-trump/",
+            "tag": "Internacional",
+            "created_at": "2023-04-04T17:57:00"
+        },
+        {
+            "title": "Sam Bankman-Fried, fundador da FTX, se declara inocente de novas acusa\u00e7\u00f5es federais",
+            "link": "https://www.cnnbrasil.com.br/economia/sam-bankman-fried-fundador-da-ftx-se-declara-inocente-de-novas-acusacoes-federais/",
+            "tag": "Economia",
+            "created_at": "2023-03-31T09:43:00"
+        },
+        {
+            "title": "Opera\u00e7\u00e3o do Minist\u00e9rio P\u00fablico apreende 7,5 mil litros de leite no RS",
+            "link": "https://www.cnnbrasil.com.br/nacional/operacao-do-ministerio-publico-apreende-75-mil-litros-de-leite-no-rs/",
+            "tag": "Nacional",
+            "created_at": "2023-03-23T11:38:00"
+        },
+        {
+            "title": "Bilion\u00e1rio chin\u00eas \u00e9 preso por enganar investidores em mais de US$ 1 bilh\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/economia/bilionario-chines-e-preso-por-enganar-investidores-em-mais-de-us-1-bilhao/",
+            "tag": "Economia",
+            "created_at": "2023-03-16T10:59:00"
+        },
+        {
+            "title": "Scarpa ironiza fala de Willian ap\u00f3s relatar golpe: \u201cPrecisando orar mais\u201d",
+            "link": "https://www.cnnbrasil.com.br/esportes/scarpa-ironiza-fala-de-willian-apos-relatar-golpe-precisando-orar-mais/",
+            "tag": "Esportes",
+            "created_at": "2023-03-13T18:08:00"
+        },
+        {
+            "title": "Pol\u00edcia Federal investiga fraude de R$ 50 milh\u00f5es no Aux\u00edlio Emergencial",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-federal-investiga-fraude-de-r-50-milhoes-no-auxilio-emergencial/",
+            "tag": "Nacional",
+            "created_at": "2023-03-07T14:17:00"
+        },
+        {
+            "title": "Funcion\u00e1rio do Detran-SP suspeito de corrup\u00e7\u00e3o \u00e9 preso com quase R$ 170 mil em dinheiro",
+            "link": "https://www.cnnbrasil.com.br/nacional/funcionario-do-detran-sp-suspeito-de-corrupcao-e-preso-com-quase-r-170-mil-em-dinheiro/",
+            "tag": "Nacional",
+            "created_at": "2023-01-24T07:33:00"
+        },
+        {
+            "title": "Usain Bolt \u00e9 v\u00edtima de golpe na Jamaica e perde R$ 51 milh\u00f5es",
+            "link": "https://www.cnnbrasil.com.br/esportes/usain-bolt-e-vitima-de-golpe-na-jamaica-e-perde-r-51-milhoes/",
+            "tag": "Esportes",
+            "created_at": "2023-01-18T17:03:00"
+        },
+        {
+            "title": "Mulher se finge de morta para n\u00e3o pagar d\u00edvida de R$ 1.400",
+            "link": "https://www.cnnbrasil.com.br/internacional/mulher-se-finge-de-morta-para-nao-pagar-divida-de-r-1-400/",
+            "tag": "Internacional",
+            "created_at": "2023-01-04T18:38:00"
+        },
+        {
+            "title": "Tribunal espanhol absolve Neymar de acusa\u00e7\u00f5es de fraude e corrup\u00e7\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/esportes/tribunal-espanhol-absolve-neymar-de-acusacoes-de-fraude-e-corrupcao/",
+            "tag": "Esportes",
+            "created_at": "2022-12-13T09:06:00"
+        },
+        {
+            "title": "PF realiza a maior opera\u00e7\u00e3o de combate a comercializa\u00e7\u00e3o ilegal de merc\u00fario",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-realiza-a-maior-operacao-de-combate-a-comercializacao-ilegal-de-mercurio/",
+            "tag": "Nacional",
+            "created_at": "2022-12-01T09:42:00"
+        },
+        {
+            "title": "PF combate grupo acusado de usar estudos da FGV para esconder corrup\u00e7\u00e3o e fraudes",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-combate-grupo-acusado-de-usar-estudos-da-fgv-para-esconder-corrupcao-e-fraudes/",
+            "tag": "Nacional",
+            "created_at": "2022-11-17T09:34:00"
+        },
+        {
+            "title": "PF faz opera\u00e7\u00e3o no Nordeste contra suspeitos de desviar verba do or\u00e7amento secreto",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-combate-fraudes-em-sistema-do-sus-para-recebimento-de-emendas-parlamentares/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-10-14T09:37:00"
+        },
+        {
+            "title": "PF combate fraudes de R$ 4 bilh\u00f5es em criptomoedas no Brasil",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-combate-fraudes-de-quatro-bilhoes-em-criptomoedas-no-brasil/",
+            "tag": "Nacional",
+            "created_at": "2022-10-06T11:15:00"
+        },
+        {
+            "title": "Consulado sul-coreano faz alerta ap\u00f3s brasileira perder R$ 50 mil em golpe",
+            "link": "https://www.cnnbrasil.com.br/economia/consulado-sul-coreano-faz-alerta-apos-brasileira-perder-r-50-mil-em-golpe/",
+            "tag": "Economia",
+            "created_at": "2022-09-21T15:48:00"
+        },
+        {
+            "title": "Aplicativos de relacionamento s\u00e3o principal alvo de fraude digital no Brasil, diz pesquisa",
+            "link": "https://www.cnnbrasil.com.br/tecnologia/aplicativos-de-relacionamento-sao-principal-alvo-de-fraude-digital-no-brasil-diz-pesquisa/",
+            "tag": "Tecnologia",
+            "created_at": "2022-09-17T11:21:00"
+        },
+        {
+            "title": "Coreia do Sul emite mandado de pris\u00e3o contra desenvolvedor da criptomoeda Luna",
+            "link": "https://www.cnnbrasil.com.br/tecnologia/coreia-do-sul-emite-mandado-de-prisao-contra-desenvolvedor-da-criptomoeda-luna/",
+            "tag": "Tecnologia",
+            "created_at": "2022-09-14T09:50:00"
+        },
+        {
+            "title": "PF investiga invas\u00e3o a contas na Caixa Econ\u00f4mica",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-investiga-invasao-a-contas-na-caixa-economica/",
+            "tag": "Nacional",
+            "created_at": "2022-09-13T09:07:00"
+        },
+        {
+            "title": "PF investiga fraude em licita\u00e7\u00e3o junto \u00e0 Aneel",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-investiga-fraude-em-licitacao-junto-a-aneel/",
+            "tag": "Nacional",
+            "created_at": "2022-08-30T10:55:00"
+        },
+        {
+            "title": "Fabricante de caminh\u00f5es Hino \u00e9 expulsa de parceria com a Toyota",
+            "link": "https://www.cnnbrasil.com.br/economia/fabricante-de-caminhoes-hino-e-expulsa-de-parceria-com-a-toyota/",
+            "tag": "Economia",
+            "created_at": "2022-08-24T12:11:00"
+        },
+        {
+            "title": "Unidade da Toyota suspende envio de caminh\u00f5es ap\u00f3s esc\u00e2ndalo de fraude de dados",
+            "link": "https://www.cnnbrasil.com.br/economia/unidade-da-toyota-suspende-envio-de-caminhoes-apos-escandalo-de-fraude-de-dados/",
+            "tag": "Economia",
+            "created_at": "2022-08-22T12:45:00"
+        },
+        {
+            "title": "Ex-CFO da Organiza\u00e7\u00e3o Trump se declara culpado em caso de fraude fiscal",
+            "link": "https://www.cnnbrasil.com.br/internacional/ex-cfo-da-organizacao-trump-se-declara-culpado-em-caso-de-fraude-fiscal/",
+            "tag": "Internacional",
+            "created_at": "2022-08-18T12:18:00"
+        },
+        {
+            "title": "Fertilizantes Heringer alerta que fraudes podem impactar empresa, se confirmadas",
+            "link": "https://www.cnnbrasil.com.br/economia/fertilizantes-heringer-alerta-que-fraudes-podem-impactar-empresa-se-confirmadas/",
+            "tag": "Economia",
+            "created_at": "2022-08-16T11:51:00"
+        },
+        {
+            "title": "PF realiza opera\u00e7\u00e3o para combater saques fraudulentos no Aux\u00edlio Emergencial",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-realiza-operacao-para-combater-saques-fraudulentos-no-auxilio-emergencial/",
+            "tag": "Nacional",
+            "created_at": "2022-08-11T09:22:00"
+        },
+        {
+            "title": "C\u00e2mara aprova puni\u00e7\u00e3o para estelionato emocional e golpes digitais",
+            "link": "https://www.cnnbrasil.com.br/nacional/camara-aprova-punicao-para-estelionato-emocional-e-golpes-digitais/",
+            "tag": "Nacional",
+            "created_at": "2022-08-04T18:20:00"
+        },
+        {
+            "title": "Tentativas de golpes com Pix aumentam quase 1.200% no 1\u00ba semestre, aponta pesquisa",
+            "link": "https://www.cnnbrasil.com.br/economia/tentativas-de-golpes-com-pix-aumentam-quase-1-200-no-1o-semestre-aponta-pesquisa/",
+            "tag": "Economia",
+            "created_at": "2022-08-03T09:30:00"
+        },
+        {
+            "title": "Com apoio da Febraban, PF deflagra opera\u00e7\u00e3o contra fraudes banc\u00e1rias",
+            "link": "https://www.cnnbrasil.com.br/economia/pf-deflagra-operacao-contra-fraudes-bancarias-com-apoio-da-febraban/",
+            "tag": "Economia",
+            "created_at": "2022-08-02T13:58:00"
+        },
+        {
+            "title": "Neymar ir\u00e1 a julgamento um m\u00eas antes da Copa por transfer\u00eancia ao Barcelona",
+            "link": "https://www.cnnbrasil.com.br/esportes/neymar-ira-a-julgamento-um-mes-antes-da-copa-por-transferencia-ao-barcelona/",
+            "tag": "Esportes",
+            "created_at": "2022-07-27T14:03:00"
+        },
+        {
+            "title": "Ex-chefe da F\u00f3rmula 1 \u00e9 acusado de fraude por n\u00e3o declarar ativos no exterior",
+            "link": "https://www.cnnbrasil.com.br/esportes/ex-chefe-da-formula-1-e-acusado-de-fraude-por-nao-declarar-ativos-no-exterior/",
+            "tag": "Esportes",
+            "created_at": "2022-07-11T10:58:00"
+        },
+        {
+            "title": "Blatter e Platini s\u00e3o absolvidos de acusa\u00e7\u00f5es de corrup\u00e7\u00e3o na Fifa",
+            "link": "https://www.cnnbrasil.com.br/esportes/blatter-e-platini-sao-absolvidos-de-acusacoes-de-corrupcao-na-fifa/",
+            "tag": "Esportes",
+            "created_at": "2022-07-08T05:40:00"
+        },
+        {
+            "title": "Brasil tem 5 mil tentativas de fraude de identidade por hora no semestre, diz pesquisa",
+            "link": "https://www.cnnbrasil.com.br/economia/brasil-tem-5-mil-tentativas-de-fraude-de-identidade-por-hora-no-semestre-diz-pesquisa/",
+            "tag": "Economia",
+            "created_at": "2022-07-05T17:46:00"
+        },
+        {
+            "title": "Ap\u00f3s Nunes Marques derrubar cassa\u00e7\u00e3o de deputado, Bolsonaro volta a criticar TSE",
+            "link": "https://www.cnnbrasil.com.br/politica/apos-nunes-marques-derrubar-cassacao-de-deputado-bolsonaro-volta-a-criticar-tse/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-06-02T20:33:00"
+        }
+    ]
+}

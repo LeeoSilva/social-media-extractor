@@ -1,0 +1,826 @@
+{
+    "headlines": [
+        {
+            "title": "Militar do Ex\u00e9rcito que incitou golpe e coronel da PM preso falar\u00e3o \u00e0 CPMI do 8/1 nesta semana",
+            "link": "https://www.cnnbrasil.com.br/politica/militar-do-exercito-que-incitou-golpe-e-coronel-da-pm-preso-falarao-a-cpmi-do-8-1-nesta-semana/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-06-25T04:00:00"
+        },
+        {
+            "title": "C\u00e3o selvagem morde turista na praia e \u00e9 acusado de outros ataques; animal foi abatido por autoridades",
+            "link": "https://www.cnnbrasil.com.br/internacional/dingo-morde-turista-na-praia-e-desfecho-choca-internet-veja-video/",
+            "tag": "Internacional",
+            "created_at": "2023-06-23T16:33:00"
+        },
+        {
+            "title": "Moraes vota para receber den\u00fancia de mais 45 acusados pelo 8 de janeiro",
+            "link": "https://www.cnnbrasil.com.br/politica/moraes-vota-para-receber-denuncia-de-mais-45-acusados-pelo-8-de-janeiro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-06-23T10:48:00"
+        },
+        {
+            "title": "Atirador de escola no Paran\u00e1 \u00e9 encontrado morto na pris\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/nacional/atirador-de-escola-no-parana-e-encontrado-morto-na-prisao/",
+            "tag": "Nacional",
+            "created_at": "2023-06-21T07:54:00"
+        },
+        {
+            "title": "Suspeito de ajudar a organizar ataque a escola que matou dois alunos no PR \u00e9 preso",
+            "link": "https://www.cnnbrasil.com.br/nacional/suspeito-de-ajudar-a-organizar-ataque-a-escola-que-matou-dois-alunos-no-pr-e-preso/",
+            "tag": "Nacional",
+            "created_at": "2023-06-20T08:57:00"
+        },
+        {
+            "title": "Morre segundo adolescente v\u00edtima de ataque a tiros em escola no Paran\u00e1",
+            "link": "https://www.cnnbrasil.com.br/nacional/morre-segundo-adolescente-vitima-de-ataque-a-tiros-em-escola-no-parana/",
+            "tag": "Nacional",
+            "created_at": "2023-06-20T07:26:00"
+        },
+        {
+            "title": "Medidas repressivas n\u00e3o v\u00e3o prevenir ataques a escolas, diz \u00e0 CNN soci\u00f3loga",
+            "link": "https://www.cnnbrasil.com.br/nacional/medidas-repressivas-nao-vao-prevenir-ataques-a-escolas-diz-a-cnn-sociologa/",
+            "tag": "Nacional",
+            "created_at": "2023-06-19T14:47:00"
+        },
+        {
+            "title": "Adolescentes baleados por ex-aluno em escola no Paran\u00e1 eram namorados",
+            "link": "https://www.cnnbrasil.com.br/nacional/adolescentes-baleados-por-ex-aluno-em-escola-no-parana-eram-namorados/",
+            "tag": "Nacional",
+            "created_at": "2023-06-19T14:23:00"
+        },
+        {
+            "title": "Drones atacam refinarias de petr\u00f3leo russas e causam inc\u00eandio em uma delas",
+            "link": "https://www.cnnbrasil.com.br/internacional/drones-atacam-refinarias-de-petroleo-russas-e-causam-incendio-em-uma-delas/",
+            "tag": "Internacional",
+            "created_at": "2023-05-31T08:15:00"
+        },
+        {
+            "title": "STF pauta para julgamento mais 70 den\u00fancias sobre atos de 8 de janeiro",
+            "link": "https://www.cnnbrasil.com.br/politica/stf-pauta-para-julgamento-mais-70-denuncias-sobre-atos-de-8-de-janeiro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-31T04:00:00"
+        },
+        {
+            "title": "Escritor nacionalista russo fica ferido em explos\u00e3o de carro-bomba",
+            "link": "https://www.cnnbrasil.com.br/internacional/escritor-nacionalista-russo-fica-ferido-em-explosao-de-carro-bomba/",
+            "tag": "Internacional",
+            "created_at": "2023-05-06T11:07:00"
+        },
+        {
+            "title": "Aluno matou seguran\u00e7a antes de assassinar 8 crian\u00e7as em escola na S\u00e9rvia",
+            "link": "https://www.cnnbrasil.com.br/internacional/aluno-matou-seguranca-antes-de-assassinar-8-criancas-em-escola-na-servia/",
+            "tag": "Internacional",
+            "created_at": "2023-05-04T07:46:00"
+        },
+        {
+            "title": "Ataque em escola na S\u00e9rvia deixa nove mortos, incluindo oito crian\u00e7as",
+            "link": "https://www.cnnbrasil.com.br/internacional/ataque-em-escola-na-servia-deixa-mortos/",
+            "tag": "Internacional",
+            "created_at": "2023-05-03T08:31:00"
+        },
+        {
+            "title": "Foguetes s\u00e3o disparados de Gaza contra o sul de Israel\u00a0",
+            "link": "https://www.cnnbrasil.com.br/internacional/foguetes-sao-disparados-de-gaza-contra-o-sul-de-israel/",
+            "tag": "Internacional",
+            "created_at": "2023-05-02T18:07:00"
+        },
+        {
+            "title": "PGR pede ao STF acesso a relat\u00f3rios da Abin sobre prepara\u00e7\u00e3o do 8 de janeiro",
+            "link": "https://www.cnnbrasil.com.br/politica/pgr-pede-ao-stf-acesso-a-relatorios-da-abin-sobre-preparacao-do-8-de-janeiro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-02T14:10:00"
+        },
+        {
+            "title": "Ataque com arma de fogo deixa ao menos dez mortos no Equador",
+            "link": "https://www.cnnbrasil.com.br/internacional/ataque-com-arma-de-fogo-deixa-mortos-no-equador/",
+            "tag": "Internacional",
+            "created_at": "2023-04-30T23:33:00"
+        },
+        {
+            "title": "Homem mata tr\u00eas pessoas e comete suic\u00eddio em Portugal",
+            "link": "https://www.cnnbrasil.com.br/internacional/homem-mata-tres-pessoas-e-comete-suicidio-em-portugal/",
+            "tag": "Internacional",
+            "created_at": "2023-04-30T07:39:00"
+        },
+        {
+            "title": "Entenda portaria de Dino que pode suspender plataformas de rede social do Brasil",
+            "link": "https://www.cnnbrasil.com.br/nacional/entenda-portaria-de-dino-que-pode-banir-plataformas-de-rede-social-do-brasil/",
+            "tag": "Nacional",
+            "created_at": "2023-04-14T04:00:00"
+        },
+        {
+            "title": "Mortos no ataque a vila em Mianmar chegam a 165, informam fontes\u00a0",
+            "link": "https://www.cnnbrasil.com.br/internacional/mortos-no-ataque-a-vila-em-mianmar-chegam-a-165/",
+            "tag": "Internacional",
+            "created_at": "2023-04-13T17:59:00"
+        },
+        {
+            "title": "Tribunal de Justi\u00e7a faz audi\u00eancia de adolescente que promoveu ataque em escola em SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/tribunal-de-justica-faz-audiencia-de-adolescente-que-promoveu-ataque-em-escola-em-sp/",
+            "tag": "Nacional",
+            "created_at": "2023-04-12T08:23:00"
+        },
+        {
+            "title": "Quadrilha fortemente armada promove \u201cnovo canga\u00e7o\u2019 no interior do Mato Grosso",
+            "link": "https://www.cnnbrasil.com.br/nacional/quadrilha-fortemente-armada-promove-novo-cangaco-no-interior-do-mato-grosso/",
+            "tag": "Nacional",
+            "created_at": "2023-04-11T20:32:00"
+        },
+        {
+            "title": "Bombardeio mata dezenas de pessoas em vila de Mianmar, informa gabinete paralelo",
+            "link": "https://www.cnnbrasil.com.br/internacional/bombardeio-mata-dezenas-pessoas-em-vila-de-mianmar-informa-gabinete-paralelo/",
+            "tag": "Internacional",
+            "created_at": "2023-04-11T10:31:00"
+        },
+        {
+            "title": "Prefeito de cidade no interior de SP fala em \u201cimita\u00e7\u00e3o social\u201d ap\u00f3s ataque a hospital",
+            "link": "https://www.cnnbrasil.com.br/nacional/prefeito-de-cidade-no-interior-de-sp-fala-em-imitacao-social-apos-ataque-a-hospital/",
+            "tag": "Nacional",
+            "created_at": "2023-04-08T19:32:00"
+        },
+        {
+            "title": "Creche atacada em SC agradece apoio e diz que vive momento de dor que \u201cn\u00e3o parece ter fim\u201d",
+            "link": "https://www.cnnbrasil.com.br/nacional/creche-atacada-em-sc-agradece-apoio-e-diz-que-vive-momento-de-dor-que-nao-parece-ter-fim/",
+            "tag": "Nacional",
+            "created_at": "2023-04-08T07:06:00"
+        },
+        {
+            "title": "Ataque deixa um morto e ao menos seis feridos em Tel Aviv",
+            "link": "https://www.cnnbrasil.com.br/internacional/ataque-deixa-um-morto-e-seis-feridos-em-tel-aviv/",
+            "tag": "Internacional",
+            "created_at": "2023-04-07T17:01:00"
+        },
+        {
+            "title": "Justi\u00e7a decreta pris\u00e3o preventiva de acusado de ataque a creche em Blumenau",
+            "link": "https://www.cnnbrasil.com.br/nacional/justica-decreta-prisao-preventiva-blumenau/",
+            "tag": "Nacional",
+            "created_at": "2023-04-06T17:01:00"
+        },
+        {
+            "title": "Estudante \u00e9 preso depois de amea\u00e7ar alunos e dizer que cometeria massacre na UFRRJ",
+            "link": "https://www.cnnbrasil.com.br/nacional/estudante-e-preso-depois-de-ameacar-alunos-e-dizer-que-cometeria-massacre-na-ufrrj/",
+            "tag": "Nacional",
+            "created_at": "2023-04-06T09:48:00"
+        },
+        {
+            "title": "MEC prepara pol\u00edtica nacional de combate \u00e0 viol\u00eancia nas escolas\u00a0",
+            "link": "https://www.cnnbrasil.com.br/nacional/ministerio-da-educacao-prepara-politica-nacional-de-combate-a-violencia-nas-escolas/",
+            "tag": "Nacional",
+            "created_at": "2023-04-05T15:19:00"
+        },
+        {
+            "title": "Precisamos de protocolos contra atos de viol\u00eancia nas escolas, diz especialista",
+            "link": "https://www.cnnbrasil.com.br/nacional/precisamos-de-protocolos-contra-atos-de-violencia-nas-escolas-diz-especialista/",
+            "tag": "Nacional",
+            "created_at": "2023-04-03T09:12:00"
+        },
+        {
+            "title": "Mulheres sem v\u00e9u s\u00e3o atacadas com iogurte e t\u00eam pris\u00e3o ordenada no Ir\u00e3",
+            "link": "https://www.cnnbrasil.com.br/internacional/mulheres-sem-veu-sao-atacadas-com-iogurte-e-tem-prisao-ordenada-no-ira/",
+            "tag": "Internacional",
+            "created_at": "2023-04-02T15:38:00"
+        },
+        {
+            "title": "Adolescente respons\u00e1vel por atentado em escola vai responder por ato infracional, diz advogada",
+            "link": "https://www.cnnbrasil.com.br/nacional/adolescente-responsavel-por-atentado-em-escola-vai-responder-por-ato-infracional-diz-advogada/",
+            "tag": "Nacional",
+            "created_at": "2023-04-02T14:24:00"
+        },
+        {
+            "title": "Jovem fica com faca presa na cabe\u00e7a e sobrevive ap\u00f3s ser atacada no DF",
+            "link": "https://www.cnnbrasil.com.br/nacional/jovem-fica-com-faca-presa-na-cabeca-e-sobrevive-apos-ser-atacada-no-df/",
+            "tag": "Nacional",
+            "created_at": "2023-03-31T11:59:00"
+        },
+        {
+            "title": "Jovem de 15 anos \u00e9 morta a facadas por outra adolescente em Pernambuco",
+            "link": "https://www.cnnbrasil.com.br/nacional/jovem-de-15-anos-e-morta-a-facadas-por-outra-adolescente-em-pernambuco/",
+            "tag": "Nacional",
+            "created_at": "2023-03-31T09:12:00"
+        },
+        {
+            "title": "Brasileiro de 16 anos \u00e9 esfaqueado e morto em Toronto, no Canad\u00e1",
+            "link": "https://www.cnnbrasil.com.br/internacional/brasileiro-de-16-anos-e-esfaqueado-e-morto-em-toronto-no-canada/",
+            "tag": "Internacional",
+            "created_at": "2023-03-30T22:16:00"
+        },
+        {
+            "title": "Professora atingida por facada tem pena de agressor: \u201cv\u00edtima do sistema\u201d",
+            "link": "https://www.cnnbrasil.com.br/nacional/professora-atingida-por-facada-tem-pena-de-agressor-vitima-do-sistema/",
+            "tag": "Nacional",
+            "created_at": "2023-03-30T18:27:00"
+        },
+        {
+            "title": "Jovem esfaqueia colega em escola na Para\u00edba",
+            "link": "https://www.cnnbrasil.com.br/nacional/jovem-esfaqueia-colega-em-escola-na-paraiba/",
+            "tag": "Nacional",
+            "created_at": "2023-03-29T19:34:00"
+        },
+        {
+            "title": "Para especialistas, discutir redu\u00e7\u00e3o da maioridade penal ap\u00f3s ataque \u00e9 \u201cdi\u00e1logo com p\u00e2nico\u201d e \u201cn\u00e3o enfrenta o real problema\u201d da viol\u00eancia",
+            "link": "https://www.cnnbrasil.com.br/nacional/para-especialistas-discutir-reducao-da-maioridade-penal-apos-ataque-e-dialogo-com-panico-e-nao-enfrenta-o-real-problema-da-violencia/",
+            "tag": "Nacional",
+            "created_at": "2023-03-29T14:51:00"
+        },
+        {
+            "title": "Pol\u00edcia de SP registrou sete planos de ataques a escolas no estado em dois dias",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-de-sp-registrou-sete-planos-de-ataques-a-escolas-no-estado-em-dois-dias/",
+            "tag": "Nacional",
+            "created_at": "2023-03-28T19:04:00"
+        },
+        {
+            "title": "M\u00e3e relata amea\u00e7as de adolescente antes de ataque a escola em SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/mae-relata-ameacas-de-adolescente-antes-de-ataque-a-escola-em-sp/",
+            "tag": "Nacional",
+            "created_at": "2023-03-28T17:55:00"
+        },
+        {
+            "title": "Professora ferida em ataque a escola de SP recebe alta, diz Secretaria de Sa\u00fade",
+            "link": "https://www.cnnbrasil.com.br/nacional/professora-ferida-em-ataque-a-escola-de-sp-recebe-alta-diz-secretaria-de-saude/",
+            "tag": "Nacional",
+            "created_at": "2023-03-28T17:29:00"
+        },
+        {
+            "title": "Aluno \u00e9 detido ap\u00f3s tentar esfaquear colegas em escola no Rio de Janeiro",
+            "link": "https://www.cnnbrasil.com.br/nacional/aluno-e-detido-apos-tentar-esfaquear-colegas-em-escola-no-rio-de-janeiro/",
+            "tag": "Nacional",
+            "created_at": "2023-03-28T16:49:00"
+        },
+        {
+            "title": "Especialistas debatem de quem \u00e9 a culpa pelo ataque de aluno \u00e0 professora",
+            "link": "https://www.cnnbrasil.com.br/nacional/especialistas-debatem-de-quem-e-a-culpa-pelo-ataque-de-aluno-a-professora/",
+            "tag": "Nacional",
+            "created_at": "2023-03-28T16:19:00"
+        },
+        {
+            "title": "Pence ter\u00e1 que depor a respeito das conversas que teve com Trump sobre 6 de janeiro",
+            "link": "https://www.cnnbrasil.com.br/internacional/pence-tera-que-depor-a-respeito-das-conversas-que-teve-com-trump-sobre-6-de-janeiro/",
+            "tag": "Internacional",
+            "created_at": "2023-03-28T16:16:00"
+        },
+        {
+            "title": "Governo de SP suspendeu iniciativa de suporte \u00e0 sa\u00fade mental nas escolas estaduais h\u00e1 mais de um m\u00eas",
+            "link": "https://www.cnnbrasil.com.br/nacional/governo-de-sp-suspendeu-iniciativa-de-suporte-a-saude-mental-nas-escolas-estaduais-ha-mais-de-um-mes/",
+            "tag": "Nacional",
+            "created_at": "2023-03-28T14:14:00"
+        },
+        {
+            "title": "\u201cFaltou acompanhamento do Estado\u201d, diz l\u00edder estudantil durante homenagem a professora morta em SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/faltou-acompanhamento-do-estado-diz-lider-estudantil-em-homenagem-a-professora-morta/",
+            "tag": "Nacional",
+            "created_at": "2023-03-28T13:46:00"
+        },
+        {
+            "title": "\u201c\u00c9 uma confus\u00e3o de sentimentos\u201d, diz professora que salvou colega em ataque \u00e0 escola",
+            "link": "https://www.cnnbrasil.com.br/nacional/e-uma-confusao-de-sentimentos-diz-professora-que-salvou-colega-em-ataque-a-escola/",
+            "tag": "Nacional",
+            "created_at": "2023-03-28T12:24:00"
+        },
+        {
+            "title": "Corpo escolar tem que ser capacitado para lidar com ataques, diz soci\u00f3loga",
+            "link": "https://www.cnnbrasil.com.br/nacional/corpo-escolar-tem-que-ser-capacitado-para-lidar-com-ataques-diz-sociologa/",
+            "tag": "Nacional",
+            "created_at": "2023-03-28T11:57:00"
+        },
+        {
+            "title": "\u201cQue sirva para mudar alguma coisa no pa\u00eds\u201d: amigos lamentam assassinato de professora em SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/que-sirva-para-mudar-alguma-coisa-no-pais-amigos-lamentam-assassinato-de-professora-em-sp/",
+            "tag": "Nacional",
+            "created_at": "2023-03-28T10:34:00"
+        },
+        {
+            "title": "Ataque a faca em centro isl\u00e2mico deixa dois mortos em Lisboa; suspeito foi detido",
+            "link": "https://www.cnnbrasil.com.br/internacional/ataque-a-faca-em-centro-islamico-deixa-dois-mortos-em-lisboa-suspeito-foi-detido/",
+            "tag": "Internacional",
+            "created_at": "2023-03-28T09:44:00"
+        },
+        {
+            "title": "Saiba quem era a professora Elisabeth Tenreiro, morta nesta segunda (27) em escola de SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/saiba-quem-era-a-professora-elisabeth-tenreiro-morta-nesta-segunda-27-em-escola-de-sp/",
+            "tag": "Nacional",
+            "created_at": "2023-03-27T21:50:00"
+        },
+        {
+            "title": "Autor de ataque em escola em S\u00e3o Paulo chega \u00e0 Funda\u00e7\u00e3o Casa",
+            "link": "https://www.cnnbrasil.com.br/nacional/autor-de-ataque-em-escola-em-sao-paulo-chega-a-fundacao-casa/",
+            "tag": "Nacional",
+            "created_at": "2023-03-27T21:03:00"
+        },
+        {
+            "title": "\u00c9 necess\u00e1rio monitorar sinais, diz especialista ap\u00f3s ataque em escola de SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/e-necessario-monitorar-sinais-diz-especialista-apos-ataque-em-escola-de-sp/",
+            "tag": "Nacional",
+            "created_at": "2023-03-27T20:40:00"
+        },
+        {
+            "title": "Ap\u00f3s tiroteio em escola, Biden pede ao Congresso que aprove lei que pro\u00edba armas de assalto",
+            "link": "https://www.cnnbrasil.com.br/internacional/apos-tiroteio-em-escola-biden-pede-ao-congresso-que-aprove-lei-que-proiba-armas-de-assalto/",
+            "tag": "Internacional",
+            "created_at": "2023-03-27T19:41:00"
+        },
+        {
+            "title": "Ap\u00f3s depor, autor de ataque em escola \u00e9 levado para o IML e depois seguir\u00e1 para Funda\u00e7\u00e3o Casa",
+            "link": "https://www.cnnbrasil.com.br/nacional/apos-depor-autor-de-ataque-em-escola-e-levado-para-o-iml-e-depois-seguira-para-fundacao-casa/",
+            "tag": "Nacional",
+            "created_at": "2023-03-27T19:03:00"
+        },
+        {
+            "title": "Aluno de 13 anos mata professora e esfaqueia outras 4 pessoas em SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/aluno-de-13-anos-mata-professora-e-esfaqueia-outras-4-pessoas-em-sp/",
+            "tag": "Nacional",
+            "created_at": "2023-03-27T18:38:00"
+        },
+        {
+            "title": "Brasil teve ao menos 22 ataques violentos em escolas desde 2002, revela estudo",
+            "link": "https://www.cnnbrasil.com.br/nacional/brasil-teve-ao-menos-22-ataques-violentos-em-escolas-desde-2002-revela-estudo/",
+            "tag": "Nacional",
+            "created_at": "2023-03-27T18:28:00"
+        },
+        {
+            "title": "Aluno enviava fotos de armas e escola antiga registrou BO sobre \u201ccomportamento suspeito\u201d",
+            "link": "https://www.cnnbrasil.com.br/nacional/aluno-que-esfaqueou-professora-em-sp-ja-havia-feito-ameaca-em-outra-escola/",
+            "tag": "Nacional",
+            "created_at": "2023-03-27T17:07:00"
+        },
+        {
+            "title": "Saiba quais puni\u00e7\u00f5es o adolescente que atacou escola em SP pode receber",
+            "link": "https://www.cnnbrasil.com.br/nacional/saiba-quais-punicoes-o-menor-que-atacou-escola-em-sp-pode-receber/",
+            "tag": "Nacional",
+            "created_at": "2023-03-27T16:48:00"
+        },
+        {
+            "title": "Filha relata carinho de alunos com professora morta: \u201cVinham e a abra\u00e7avam\u201d",
+            "link": "https://www.cnnbrasil.com.br/nacional/filha-relata-carinho-de-alunos-com-professora-morta-vinham-e-a-abracavam/",
+            "tag": "Nacional",
+            "created_at": "2023-03-27T16:14:00"
+        },
+        {
+            "title": "Aluno planejou atentado com arma de fogo e n\u00e3o conseguiu, diz secret\u00e1rio de Seguran\u00e7a P\u00fablica de SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/aluno-planejou-atentado-com-arma-de-fogo-e-nao-conseguiu-diz-secretario-de-seguranca-publica-de-sp/",
+            "tag": "Nacional",
+            "created_at": "2023-03-27T15:32:00"
+        },
+        {
+            "title": "O que se sabe at\u00e9 agora sobre o ataque em escola de S\u00e3o Paulo",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-colhe-depoimentos-de-professores-e-alunos-o-que-se-sabe-ate-agora-sobre-o-ataque-em-escola-de-sp/",
+            "tag": "Nacional",
+            "created_at": "2023-03-27T13:15:00"
+        },
+        {
+            "title": "Ministro da Educa\u00e7\u00e3o se solidariza com v\u00edtimas de ataque \u00e0 faca em escola de SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/ministro-da-educacao-se-solidariza-com-vitimas-de-ataque-a-faca-em-escola-de-sp/",
+            "tag": "Nacional",
+            "created_at": "2023-03-27T12:21:00"
+        },
+        {
+            "title": "Tarc\u00edsio lamenta ataque em escola de SP: \u201cN\u00e3o tenho palavras para expressar minha tristeza\u201d",
+            "link": "https://www.cnnbrasil.com.br/nacional/tarcisio-lamenta-ataque-em-escola-de-sp-nao-tenho-palavras-para-expressar-minha-tristeza/",
+            "tag": "Nacional",
+            "created_at": "2023-03-27T11:36:00"
+        },
+        {
+            "title": "Professora imobilizou agressor e interrompeu ataque com faca em escola de SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/professora-imobilizou-agressor-e-interrompeu-ataque-com-faca-em-escola-de-sp/",
+            "tag": "Nacional",
+            "created_at": "2023-03-27T11:19:00"
+        },
+        {
+            "title": "Delegado da PF sofre cr\u00edticas de vizinhos ap\u00f3s prender alvos da Lesa P\u00e1tria que moram em seu condom\u00ednio",
+            "link": "https://www.cnnbrasil.com.br/nacional/delegado-da-pf-sofre-criticas-de-vizinhos-apos-prender-alvos-da-lesa-patria-no-proprio-condominio/",
+            "tag": "Nacional",
+            "created_at": "2023-03-22T10:02:00"
+        },
+        {
+            "title": "Coronel da PM-DF pede a Moraes revoga\u00e7\u00e3o de pris\u00e3o preventiva",
+            "link": "https://www.cnnbrasil.com.br/politica/coronel-da-pm-df-pede-a-moraes-revogacao-de-prisao-preventiva/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-03-20T13:57:00"
+        },
+        {
+            "title": "Pol\u00edcia mata chefe de fac\u00e7\u00e3o apontado como mandante de ataques no RN",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-mata-chefe-de-faccao-apontado-como-mandante-de-ataques-no-rn/",
+            "tag": "Nacional",
+            "created_at": "2023-03-15T10:57:00"
+        },
+        {
+            "title": "Moraes concede liberdade provis\u00f3ria a mais 130 denunciados por atos de 8 de janeiro",
+            "link": "https://www.cnnbrasil.com.br/politica/moraes-concede-liberdade-provisoria-a-mais-130-denunciados-por-atos-de-8-de-janeiro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-03-13T11:42:00"
+        },
+        {
+            "title": "Adolescente \u00e9 atacado por tubar\u00e3o em Jaboat\u00e3o dos Guararapes, no Grande Recife",
+            "link": "https://www.cnnbrasil.com.br/nacional/adolescente-e-atacado-por-tubarao-em-jaboatao-dos-guararapes-no-grande-recife/",
+            "tag": "Nacional",
+            "created_at": "2023-03-05T20:00:00"
+        },
+        {
+            "title": "Homem atacado por tubar\u00e3o em Olinda (PE) permanece internado em estado grave",
+            "link": "https://www.cnnbrasil.com.br/nacional/homem-atacado-por-tubarao-em-olinda-pe-permanece-internado-em-estado-grave/",
+            "tag": "Nacional",
+            "created_at": "2023-02-21T16:30:00"
+        },
+        {
+            "title": "Deputado suspeito de incentivar atos criminosos pede abertura de CPMI",
+            "link": "https://www.cnnbrasil.com.br/politica/deputado-suspeito-de-incentivar-atos-criminosos-pede-abertura-de-cpmi/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-02-14T11:33:00"
+        },
+        {
+            "title": "AGU pede que bloqueio de bens de presos por depredar pr\u00e9dios em Bras\u00edlia suba para R$ 20,7 milh\u00f5es",
+            "link": "https://www.cnnbrasil.com.br/politica/agu-pede-que-bloqueio-de-bens-de-presos-por-depredar-predios-em-brasilia-suba-para-r-207-milhoes/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-02-07T11:59:00"
+        },
+        {
+            "title": "TCU vai \u201ccobrar no CPF\u201d de cada um que participou de depreda\u00e7\u00f5es em Bras\u00edlia, diz Bruno Dantas",
+            "link": "https://www.cnnbrasil.com.br/politica/tcu-vai-cobrar-no-cpf-de-cada-um-que-participou-de-depredacoes-em-brasilia-diz-bruno-dantas/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-02-03T14:45:00"
+        },
+        {
+            "title": "Atentado suicida mata ao menos 92 em mesquita no Paquist\u00e3o; alvo era pol\u00edcia",
+            "link": "https://www.cnnbrasil.com.br/internacional/atentado-suicida-mata-ao-menos-32-em-mesquita-no-paquistao-alvo-era-policia/",
+            "tag": "Internacional",
+            "created_at": "2023-01-30T11:17:00"
+        },
+        {
+            "title": "PF cumpre mandados contra suspeitos de participa\u00e7\u00e3o em ataques; quatro pris\u00f5es s\u00e3o confirmadas",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-cumpre-mandados-de-prisao-em-5-estados-e-no-df-em-operacao-contra-participantes-de-ataques/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-20T07:18:00"
+        },
+        {
+            "title": "Exemplar da Constitui\u00e7\u00e3o roubado durante atos criminosos em Bras\u00edlia \u00e9 recuperado",
+            "link": "https://www.cnnbrasil.com.br/politica/exemplar-da-constituicao-roubada-durante-atos-criminosos-em-brasilia-e-recuperado/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-12T14:43:00"
+        },
+        {
+            "title": "Turquia e R\u00fassia negociam espa\u00e7o a\u00e9reo s\u00edrio para opera\u00e7\u00e3o contra mil\u00edcia curda",
+            "link": "https://www.cnnbrasil.com.br/internacional/turquia-e-russia-negociam-espaco-aereo-sirio-para-operacao-contra-milicia-curda/",
+            "tag": "Internacional",
+            "created_at": "2022-12-24T13:59:00"
+        },
+        {
+            "title": "Jovem esfaqueia duas professoras no interior de SP; v\u00edtimas sobrevivem",
+            "link": "https://www.cnnbrasil.com.br/nacional/jovem-esfaqueia-duas-professoras-no-interior-de-sp-vitimas-sobrevivem/",
+            "tag": "Nacional",
+            "created_at": "2022-12-15T13:25:00"
+        },
+        {
+            "title": "For\u00e7as ucranianas bombardeiam Donetsk controlada pela R\u00fassia, dizem autoridades",
+            "link": "https://www.cnnbrasil.com.br/internacional/forcas-ucranianas-bombardeiam-donetsk-controlada-pela-russia-dizem-autoridades/",
+            "tag": "Internacional",
+            "created_at": "2022-12-15T04:52:00"
+        },
+        {
+            "title": "O que se sabe sobre o tiroteio na boate LGBTQIA+ de Colorado Springs, nos EUA",
+            "link": "https://www.cnnbrasil.com.br/internacional/o-que-se-sabe-sobre-o-tiroteio-na-boate-lgbtqia-de-colorado-springs-nos-eua/",
+            "tag": "Internacional",
+            "created_at": "2022-11-21T11:04:00"
+        },
+        {
+            "title": "Nancy Pelosi diz \u00e0 CNN que seu marido est\u00e1 em uma recupera\u00e7\u00e3o \u201clonga\u201d ap\u00f3s ataque",
+            "link": "https://www.cnnbrasil.com.br/internacional/nancy-pelosi-diz-a-cnn-que-seu-marido-esta-em-uma-recuperacao-longa-apos-ataque/",
+            "tag": "Internacional",
+            "created_at": "2022-11-08T10:21:00"
+        },
+        {
+            "title": "Teste de m\u00edssil da Coreia do Norte falha, diz governo da Coreia do Sul",
+            "link": "https://www.cnnbrasil.com.br/internacional/teste-de-missil-da-coreia-do-norte-falha-diz-governo-da-coreia-do-sul/",
+            "tag": "Internacional",
+            "created_at": "2022-11-03T08:40:00"
+        },
+        {
+            "title": "EUA demonstram preocupa\u00e7\u00e3o com amea\u00e7as iranianas a Ar\u00e1bia Saudita",
+            "link": "https://www.cnnbrasil.com.br/internacional/eua-demonstram-preocupacao-com-ameacas-iranianas-a-arabia-saudita/",
+            "tag": "Internacional",
+            "created_at": "2022-11-02T11:07:00"
+        },
+        {
+            "title": "O que se sabe sobre o ataque a Paul Pelosi",
+            "link": "https://www.cnnbrasil.com.br/internacional/o-que-se-sabe-sobre-o-ataque-a-paul-pelosi/",
+            "tag": "Internacional",
+            "created_at": "2022-10-31T15:14:00"
+        },
+        {
+            "title": "Dois carros-bomba explodem e deixam pelo menos 100 pessoas mortas na Som\u00e1lia",
+            "link": "https://www.cnnbrasil.com.br/internacional/carros-bomba-deixam-pelo-menos-100-pessoas-mortas-na-somalia/",
+            "tag": "Internacional",
+            "created_at": "2022-10-30T03:20:00"
+        },
+        {
+            "title": "Marido da presidente da C\u00e2mara dos EUA \u00e9 submetido a cirurgia ap\u00f3s sofrer ataque",
+            "link": "https://www.cnnbrasil.com.br/internacional/marido-da-presidente-da-camara-dos-eua-e-submetido-a-cirurgia-apos-sofrer-ataque/",
+            "tag": "Internacional",
+            "created_at": "2022-10-28T20:23:00"
+        },
+        {
+            "title": "Cidades ucranianas, incluindo Kiev e Kharkiv, relatam ataques russos",
+            "link": "https://www.cnnbrasil.com.br/internacional/cidades-ucranianas-incluindo-kiev-e-kharkiv-relatam-ataques-russos/",
+            "tag": "Internacional",
+            "created_at": "2022-10-18T03:25:00"
+        },
+        {
+            "title": "Usina nuclear da Ucr\u00e2nia \u00e9 desconectada da rede el\u00e9trica ap\u00f3s bombardeio russo",
+            "link": "https://www.cnnbrasil.com.br/internacional/usina-nuclear-da-ucrania-e-desconectada-da-rede-eletrica-apos-bombardeio-russo/",
+            "tag": "Internacional",
+            "created_at": "2022-10-17T04:37:00"
+        },
+        {
+            "title": "Kiev \u00e9 atingida quatro vezes enquanto ataques de drones continuam",
+            "link": "https://www.cnnbrasil.com.br/internacional/kiev-e-atingida-quatro-vezes-enquanto-ataques-de-drones-continuam/",
+            "tag": "Internacional",
+            "created_at": "2022-10-17T01:48:00"
+        },
+        {
+            "title": "Sete pessoas est\u00e3o desaparecidas nos escombros de Mykolaiv ap\u00f3s bombardeio",
+            "link": "https://www.cnnbrasil.com.br/internacional/sete-pessoas-estao-desaparecidas-nos-escombros-de-mykolaiv-apos-bombardeio/",
+            "tag": "Internacional",
+            "created_at": "2022-10-13T05:37:00"
+        },
+        {
+            "title": "PF mobiliza estrutura maior em viagens de Lula ao Sul",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-mobiliza-estrutura-maior-em-viagens-de-lula-ao-sul/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-09-17T13:03:00"
+        },
+        {
+            "title": "Procuradoria Geral de Justi\u00e7a abre procedimento criminal contra Douglas Garcia",
+            "link": "https://www.cnnbrasil.com.br/politica/procuradoria-geral-de-justica-abre-procedimento-criminal-contra-douglas-garcia/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-09-14T19:27:00"
+        },
+        {
+            "title": "Partido de Douglas Garcia repudia a\u00e7\u00e3o do deputado contra jornalista em debate",
+            "link": "https://www.cnnbrasil.com.br/politica/partido-de-douglas-garcia-repudia-acao-do-deputado-contra-jornalista-em-debate/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-09-14T14:50:00"
+        },
+        {
+            "title": "Candidatos \u00e0 Presid\u00eancia se manifestam sobre hostilidades a Vera Magalh\u00e3es; veja",
+            "link": "https://www.cnnbrasil.com.br/politica/candidatos-a-presidencia-se-manifestam-sobre-hostilidades-a-vera-magalhaes-veja/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-09-14T11:39:00"
+        },
+        {
+            "title": "Suspeito de participar de massacre no Canad\u00e1 \u00e9 encontrado morto",
+            "link": "https://www.cnnbrasil.com.br/internacional/suspeito-de-participar-de-massacre-no-canada-e-encontrado-morto/",
+            "tag": "Internacional",
+            "created_at": "2022-09-05T20:49:00"
+        },
+        {
+            "title": "Pol\u00edcia canadense indicia suspeitos de assassinato ap\u00f3s ataque com 10 mortos",
+            "link": "https://www.cnnbrasil.com.br/internacional/policia-canadense-indicia-suspeitos-de-assassinato-apos-ataque-com-10-mortos/",
+            "tag": "Internacional",
+            "created_at": "2022-09-05T17:25:00"
+        },
+        {
+            "title": "Pol\u00edcia do Canad\u00e1 identifica suspeitos de terem matado 10 em ataque com faca",
+            "link": "https://www.cnnbrasil.com.br/internacional/identificacao-suspeitos-canada/",
+            "tag": "Internacional",
+            "created_at": "2022-09-04T21:52:00"
+        },
+        {
+            "title": "Congresso da Argentina aprova resolu\u00e7\u00e3o de rep\u00fadio ao atentado contra Kirchner",
+            "link": "https://www.cnnbrasil.com.br/politica/congresso-da-argentina-aprova-resolucao-de-repudio-ao-atentado-contra-kirchner/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-09-04T11:02:00"
+        },
+        {
+            "title": "Namorada do suspeito de atentado \u00e0 Kirchner expressou choque com suas a\u00e7\u00f5es",
+            "link": "https://www.cnnbrasil.com.br/internacional/namorada-do-suspeito-de-atentado-a-kirchner-expressou-choque-com-suas-acoes/",
+            "tag": "Internacional",
+            "created_at": "2022-09-03T08:23:00"
+        },
+        {
+            "title": "Suspeito de atentado contra Cristina Kirchner tem tatuagem nazista",
+            "link": "https://www.cnnbrasil.com.br/internacional/suspeito-de-atentado-contra-cristina-kirchner-tem-tatuagem-nazista/",
+            "tag": "Internacional",
+            "created_at": "2022-09-03T07:59:00"
+        },
+        {
+            "title": "For\u00e7as ucranianas preparam contra-ataque no sul do pa\u00eds, dizem fontes dos EUA",
+            "link": "https://www.cnnbrasil.com.br/internacional/forcas-ucranianas-preparam-contra-ataque-no-sul-do-pais-dizem-fontes-dos-eua/",
+            "tag": "Internacional",
+            "created_at": "2022-08-29T14:35:00"
+        },
+        {
+            "title": "Biden ordena ataques contra grupos apoiados pelo Ir\u00e3 na S\u00edria",
+            "link": "https://www.cnnbrasil.com.br/internacional/biden-ordena-ataques-contra-grupos-apoiados-pelo-ira-na-siria/",
+            "tag": "Internacional",
+            "created_at": "2022-08-24T01:38:00"
+        },
+        {
+            "title": "An\u00e1lise: Taiwan vive com incerteza de ataque \u00e0 medida que amea\u00e7a chinesa cresce",
+            "link": "https://www.cnnbrasil.com.br/internacional/analise-taiwan-vive-com-incerteza-de-ataque-a-medida-que-ameaca-chinesa-cresce/",
+            "tag": "Internacional",
+            "created_at": "2022-08-20T04:00:00"
+        },
+        {
+            "title": "Suspeito de atacar Salman Rushdie \u00e9 indiciado e deve ir ao tribunal hoje",
+            "link": "https://www.cnnbrasil.com.br/internacional/suspeito-de-atacar-salman-rushdie-e-indiciado-e-deve-ir-ao-tribunal-hoje/",
+            "tag": "Internacional",
+            "created_at": "2022-08-18T11:52:00"
+        },
+        {
+            "title": "Russos bombardeiam posi\u00e7\u00f5es at\u00e9 800 vezes ao dia, diz comandante ucraniano",
+            "link": "https://www.cnnbrasil.com.br/internacional/russos-bombardeiam-posicoes-ate-800-vezes-ao-dia-diz-comandante-ucraniano/",
+            "tag": "Internacional",
+            "created_at": "2022-08-17T09:32:00"
+        },
+        {
+            "title": "Salman Rushdie est\u00e1 acordado e conversa com investigadores, diz fonte",
+            "link": "https://www.cnnbrasil.com.br/internacional/salman-rushdie-esta-acordado-e-conversa-com-investigadores-diz-fonte/",
+            "tag": "Internacional",
+            "created_at": "2022-08-16T15:54:00"
+        },
+        {
+            "title": "For\u00e7as russas atacam regi\u00e3o ucraniana de Donetsk",
+            "link": "https://www.cnnbrasil.com.br/internacional/forcas-russas-atacam-regiao-ucraniana-de-donetsk/",
+            "tag": "Internacional",
+            "created_at": "2022-08-15T14:59:00"
+        },
+        {
+            "title": "Ir\u00e3 nega liga\u00e7\u00e3o com ataque a Salman Rushdie e culpa pr\u00f3prio autor",
+            "link": "https://www.cnnbrasil.com.br/internacional/ira-nega-ligacao-com-ataque-a-salman-rushdie-e-culpa-proprio-autor/",
+            "tag": "Internacional",
+            "created_at": "2022-08-15T08:59:00"
+        },
+        {
+            "title": "Salman Rushdie \u00e9 extubado e tem melhora no quadro cl\u00ednico, diz seu agente",
+            "link": "https://www.cnnbrasil.com.br/internacional/salman-rushdie-e-extubado-e-tem-melhora-no-quadro-clinico-diz-seu-agente/",
+            "tag": "Internacional",
+            "created_at": "2022-08-14T11:19:00"
+        },
+        {
+            "title": "Pol\u00edcia da Esc\u00f3cia investiga amea\u00e7a feita \u00e0 escritora J.K. Rowling",
+            "link": "https://www.cnnbrasil.com.br/internacional/policia-da-escocia-investiga-ameaca-feita-a-escritora-jk-rowling/",
+            "tag": "Internacional",
+            "created_at": "2022-08-14T07:48:00"
+        },
+        {
+            "title": "Suspeito de atacar Salman Rushdie \u00e9 acusado de tentativa de homic\u00eddio e agress\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/internacional/suspeito-de-atacar-salman-rushdie-e-acusado-de-tentativa-de-homicidio-e-agressao/",
+            "tag": "Internacional",
+            "created_at": "2022-08-13T13:52:00"
+        },
+        {
+            "title": "Salman Rushdie permanece internado ap\u00f3s ser esfaqueado durante palestra nos EUA",
+            "link": "https://www.cnnbrasil.com.br/internacional/salman-rushdie-permanece-internado-apos-ser-esfaqueado-durante-palestra-nos-eua/",
+            "tag": "Internacional",
+            "created_at": "2022-08-13T08:28:00"
+        },
+        {
+            "title": "Pol\u00edcia identifica suspeito que atacou autor Salman Rushdie em evento em Nova York",
+            "link": "https://www.cnnbrasil.com.br/internacional/policia-identifica-suspeito-que-atacou-autor-salman-rushdie-em-evento-em-nova-york/",
+            "tag": "Internacional",
+            "created_at": "2022-08-12T18:50:00"
+        },
+        {
+            "title": "Escritor Salman Rushdie \u00e9 esfaqueado durante evento em Nova York",
+            "link": "https://www.cnnbrasil.com.br/internacional/autor-salman-rushdie-e-atacado-durante-evento-em-nova-york/",
+            "tag": "Internacional",
+            "created_at": "2022-08-12T12:34:00"
+        },
+        {
+            "title": "Moraes prorroga por mais 15 dias investiga\u00e7\u00f5es contra homem que amea\u00e7ou STF e pol\u00edticos",
+            "link": "https://www.cnnbrasil.com.br/politica/moraes-prorroga-por-mais-15-dias-investigacoes-contra-homem-que-ameacou-stf-e-politicos/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-08-05T15:55:00"
+        },
+        {
+            "title": "Conhe\u00e7a o fen\u00f4meno oce\u00e2nico que est\u00e1 aproximando os tubar\u00f5es da costa nos EUA",
+            "link": "https://www.cnnbrasil.com.br/tecnologia/conheca-o-fenomeno-oceanico-que-esta-aproximando-os-tubaroes-da-costa-nos-eua/",
+            "tag": "Tecnologia",
+            "created_at": "2022-07-28T14:41:00"
+        },
+        {
+            "title": "Grupo vinculado \u00e0 Al Qaeda assume responsabilidade por ataque no Mali",
+            "link": "https://www.cnnbrasil.com.br/internacional/grupo-vinculado-a-al-qaeda-assume-responsabilidade-por-ataque-no-mali/",
+            "tag": "Internacional",
+            "created_at": "2022-07-23T11:44:00"
+        },
+        {
+            "title": "Homem tenta esfaquear candidato republicano ao governo de Nova York",
+            "link": "https://www.cnnbrasil.com.br/internacional/homem-tenta-esfaquear-candidato-republicano-ao-governo-de-nova-york/",
+            "tag": "Internacional",
+            "created_at": "2022-07-22T04:00:00"
+        },
+        {
+            "title": "Na Ucr\u00e2nia, parentes de desaparecidos enviam amostras de DNA para ajudar a identificar os mortos",
+            "link": "https://www.cnnbrasil.com.br/internacional/na-ucrania-parentes-de-desaparecidos-enviam-amostras-de-dna-para-ajudar-a-identificar-os-mortos/",
+            "tag": "Internacional",
+            "created_at": "2022-07-15T14:06:00"
+        },
+        {
+            "title": "Ataque russo a pr\u00e9dio residencial na Ucr\u00e2nia deixa mortos e feridos, dizem autoridades",
+            "link": "https://www.cnnbrasil.com.br/internacional/ataque-russo-a-predio-residencial-na-ucrania-deixa-mortos-e-feridos-dizem-autoridades/",
+            "tag": "Internacional",
+            "created_at": "2022-07-11T10:33:00"
+        },
+        {
+            "title": "Fogos de artif\u00edcio s\u00e3o lan\u00e7ados contra apoiadores de Lula em ato no Rio; PM det\u00e9m autor",
+            "link": "https://www.cnnbrasil.com.br/politica/fogos-de-artificio-sao-lancados-contra-apoiadores-de-lula-em-ato-no-rio-pm-detem-autor/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-07-07T20:22:00"
+        },
+        {
+            "title": "Palestinos devem entregar bala que matou jornalista aos EUA, diz autoridade",
+            "link": "https://www.cnnbrasil.com.br/internacional/palestinos-devem-entregar-bala-que-matou-jornalista-aos-eua-diz-autoridade/",
+            "tag": "Internacional",
+            "created_at": "2022-07-02T14:49:00"
+        },
+        {
+            "title": "Fast\u00a0Shop\u00a0sofre tentativa de ataque hacker e tira site e app do ar por preven\u00e7\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/economia/fast-shop-sofre-tentativa-de-ataque-hacker-e-tira-site-e-app-do-ar-por-prevencao-2/",
+            "tag": "Economia",
+            "created_at": "2022-06-23T14:42:00"
+        },
+        {
+            "title": "Chineses exigem respostas sobre ataque brutal a mulheres em restaurante em Tangshan",
+            "link": "https://www.cnnbrasil.com.br/internacional/chineses-exigem-respostas-sobre-ataque-brutal-a-mulheres-em-restaurante-em-tangshan/",
+            "tag": "Internacional",
+            "created_at": "2022-06-20T09:44:00"
+        },
+        {
+            "title": "Mulher \u00e9 denunciada nos EUA por atacar grupo de asi\u00e1ticas com spray de pimenta",
+            "link": "https://www.cnnbrasil.com.br/internacional/mulher-e-denunciada-nos-eua-por-atacar-grupo-de-asiaticas-com-spray-de-pimenta/",
+            "tag": "Internacional",
+            "created_at": "2022-06-19T14:23:00"
+        },
+        {
+            "title": "Estudantes dominam suspeito de esfaquear pessoas em universidade na Alemanha",
+            "link": "https://www.cnnbrasil.com.br/internacional/estudantes-dominam-suspeito-de-esfaquear-pessoas-em-universidade-na-alemanha/",
+            "tag": "Internacional",
+            "created_at": "2022-06-10T15:46:00"
+        },
+        {
+            "title": "\u201cDesconfiar \u00e9 um direito meu\u201d, diz Bolsonaro sobre elei\u00e7\u00f5es",
+            "link": "https://www.cnnbrasil.com.br/politica/desconfiar-e-um-direito-meu-diz-bolsonaro-sobre-eleicoes/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-05-26T15:01:00"
+        },
+        {
+            "title": "O que se sabe sobre Salvador Ramos, suspeito do tiroteio em escola nos EUA",
+            "link": "https://www.cnnbrasil.com.br/internacional/o-que-se-sabe-sobre-salvador-ramos-suspeito-do-tiroteio-em-escola-nos-eua/",
+            "tag": "Internacional",
+            "created_at": "2022-05-25T09:39:00"
+        },
+        {
+            "title": "Pelo menos tr\u00eas pessoas s\u00e3o esfaqueadas no sudeste da Noruega",
+            "link": "https://www.cnnbrasil.com.br/internacional/pelo-menos-tres-pessoas-sao-esfaqueadas-no-sudeste-da-noruega/",
+            "tag": "Internacional",
+            "created_at": "2022-05-20T06:25:00"
+        },
+        {
+            "title": "Ministro diz que seguran\u00e7a energ\u00e9tica da Ar\u00e1bia Saudita \u00e9 amea\u00e7ada por ataques",
+            "link": "https://www.cnnbrasil.com.br/economia/ministro-diz-que-seguranca-energetica-da-arabia-saudita-e-ameacada-por-ataques/",
+            "tag": "Economia",
+            "created_at": "2022-03-29T10:30:00"
+        },
+        {
+            "title": "Criptomoedas oscilam com guerra na Ucr\u00e2nia; veja perspectivas para cota\u00e7\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/economia/criptomoedas-oscilam-com-guerra-na-ucrania-veja-perspectivas-para-cotacao/",
+            "tag": "Economia",
+            "created_at": "2022-02-25T04:30:00"
+        },
+        {
+            "title": "Ataque \u00e0 Ucr\u00e2nia provoca crise de energia e repique da infla\u00e7\u00e3o global",
+            "link": "https://www.cnnbrasil.com.br/economia/ataque-a-ucrania-provoca-crise-de-energia-e-repique-da-inflacao-global/",
+            "tag": "Economia",
+            "created_at": "2022-02-24T12:37:00"
+        },
+        {
+            "title": "Defesa ucraniana afirma que territ\u00f3rio sofreu 80 ataques nesta ter\u00e7a-feira",
+            "link": "https://www.cnnbrasil.com.br/internacional/defesa-ucraniana-afirma-que-territorio-sofreu-80-ataques-nesta-terca-feira/",
+            "tag": "Internacional",
+            "created_at": "2022-02-22T18:30:00"
+        },
+        {
+            "title": "Crian\u00e7a de 8 anos \u00e9 atacada por tubar\u00e3o em praia de Fernando de Noronha",
+            "link": "https://www.cnnbrasil.com.br/nacional/crianca-de-8-anos-e-atacada-por-tubarao-em-praia-de-fernando-de-noronha/",
+            "tag": "Nacional",
+            "created_at": "2022-01-28T16:39:00"
+        },
+        {
+            "title": "Cientistas investigam por que botos est\u00e3o atacando filhotes na Amaz\u00f4nia",
+            "link": "https://www.cnnbrasil.com.br/nacional/cientistas-investigam-por-que-botos-estao-atacando-filhotes-na-amazonia/",
+            "tag": "Nacional",
+            "created_at": "2022-01-09T18:14:00"
+        },
+        {
+            "title": "Pol\u00edcia colombiana captura cinco suspeitos de bombardeio em aeroporto",
+            "link": "https://www.cnnbrasil.com.br/internacional/policia-colombiana-captura-cinco-suspeitos-de-bombardeio-em-aeroporto/",
+            "tag": "Internacional",
+            "created_at": "2021-12-28T14:19:00"
+        },
+        {
+            "title": "Duas explos\u00f5es em aeroporto da Col\u00f4mbia deixam tr\u00eas mortos",
+            "link": "https://www.cnnbrasil.com.br/internacional/duas-explosoes-em-aeroporto-da-colombia-deixam-tres-mortos/",
+            "tag": "Internacional",
+            "created_at": "2021-12-14T10:04:00"
+        }
+    ]
+}

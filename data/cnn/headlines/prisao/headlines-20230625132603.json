@@ -1,0 +1,1420 @@
+{
+    "headlines": [
+        {
+            "title": "Imagens mostram que PMs amarraram acusado de furto quando ele j\u00e1 estava algemado no ch\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/nacional/imagens-mostram-que-pms-amarraram-acusado-de-furto-quando-ele-ja-estava-algemado-no-chao/",
+            "tag": "Nacional",
+            "created_at": "2023-06-23T18:06:00"
+        },
+        {
+            "title": "Pol\u00edcia prende hackers que vendiam dados de ministros do STF, governadores e deputados",
+            "link": "https://www.cnnbrasil.com.br/politica/policia-prende-hackers-que-vendiam-dados-de-ministros-do-stf-governadores-e-deputados/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-06-20T10:42:00"
+        },
+        {
+            "title": "Estudante flagrado filmando alunas em banheiro de faculdade de S\u00e3o Paulo \u00e9 solto",
+            "link": "https://www.cnnbrasil.com.br/nacional/estudante-flagrado-filmando-alunas-em-banheiro-de-faculdade-de-sao-paulo-e-solto/",
+            "tag": "Nacional",
+            "created_at": "2023-06-16T21:23:00"
+        },
+        {
+            "title": "Brasileiro \u00e9 preso em Londres suspeito de matar mulher indiana",
+            "link": "https://www.cnnbrasil.com.br/internacional/brasileiro-e-preso-em-londres-suspeito-de-matar-mulher-indiana/",
+            "tag": "Internacional",
+            "created_at": "2023-06-16T12:52:00"
+        },
+        {
+            "title": "Homem \u00e9 preso em flagrante ap\u00f3s filmar alunas em banheiro de universidade, em SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/homem-e-preso-em-flagrante-apos-filmar-alunas-em-banheiro-de-universidade-em-sp/",
+            "tag": "Nacional",
+            "created_at": "2023-06-16T10:39:00"
+        },
+        {
+            "title": "Governo anuncia que vai construir pres\u00eddio de seguran\u00e7a m\u00e1xima no Rio de Janeiro",
+            "link": "https://www.cnnbrasil.com.br/nacional/governo-anuncia-que-vai-construir-presidio-de-seguranca-maxima-no-rio-de-janeiro/",
+            "tag": "Nacional",
+            "created_at": "2023-06-15T11:01:00"
+        },
+        {
+            "title": "Caso Jeff Machado: pol\u00edcia prende suspeito de matar ator no Morro do Vidigal, no Rio",
+            "link": "https://www.cnnbrasil.com.br/nacional/caso-jeff-machado-policia-prende-suspeito-de-matar-ator-no-morro-do-vidigal-no-rio/",
+            "tag": "Nacional",
+            "created_at": "2023-06-15T08:40:00"
+        },
+        {
+            "title": "Justi\u00e7a de SP manda soltar Jos\u00e9 Rainha, l\u00edder de movimentos por reforma agr\u00e1ria",
+            "link": "https://www.cnnbrasil.com.br/nacional/justica-de-sao-paulo-manda-soltar-jose-rainha-lider-de-movimentos-por-reforma-agraria/",
+            "tag": "Nacional",
+            "created_at": "2023-06-13T08:26:00"
+        },
+        {
+            "title": "Brasileiro \u00e9 preso pela PF ap\u00f3s tentativa de viagem para se juntar ao Estado Isl\u00e2mico",
+            "link": "https://www.cnnbrasil.com.br/nacional/brasileiro-e-preso-pela-pf-apos-tentativa-de-viagem-para-se-juntar-ao-estado-islamico/",
+            "tag": "Nacional",
+            "created_at": "2023-06-12T12:25:00"
+        },
+        {
+            "title": "Nicola Sturgeon, ex-l\u00edder da Esc\u00f3cia, \u00e9 solta ap\u00f3s prestar depoimento sobre financiamento de partido",
+            "link": "https://www.cnnbrasil.com.br/internacional/nicola-sturgeon-ex-lider-da-escocia-e-solta-apos-prestar-depoimento-sobre-financiamento-de-partido/",
+            "tag": "Internacional",
+            "created_at": "2023-06-11T14:42:00"
+        },
+        {
+            "title": "Ex-l\u00edder da Esc\u00f3cia, Nicola Sturgeon, \u00e9 detida em meio a investiga\u00e7\u00e3o sobre finan\u00e7as",
+            "link": "https://www.cnnbrasil.com.br/internacional/ex-lider-da-escocia-nicola-sturgeon-e-detida-em-meio-a-investigacao-sobre-financas/",
+            "tag": "Internacional",
+            "created_at": "2023-06-11T11:25:00"
+        },
+        {
+            "title": "Brasileira presa por tr\u00e1fico na Indon\u00e9sia \u00e9 condenada a 11 anos de pris\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/nacional/brasileira-presa-por-trafico-na-indonesia-e-condenada-a-11-anos-de-prisao/",
+            "tag": "Nacional",
+            "created_at": "2023-06-08T09:22:00"
+        },
+        {
+            "title": "Duas pessoas s\u00e3o esfaqueadas no Terminal Rodovi\u00e1rio do Tiet\u00ea, em SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/duas-pessoas-sao-esfaqueadas-no-terminal-rodoviario-do-tiete-em-sp/",
+            "tag": "Nacional",
+            "created_at": "2023-06-07T12:09:00"
+        },
+        {
+            "title": "M\u00e3e que cumpriu 20 anos de pris\u00e3o por matar os quatro filhos \u00e9 perdoada",
+            "link": "https://www.cnnbrasil.com.br/internacional/mae-que-cumpriu-20-anos-de-prisao-por-matar-os-quatro-filhos-e-perdoada/",
+            "tag": "Internacional",
+            "created_at": "2023-06-05T08:03:00"
+        },
+        {
+            "title": "Roberto Jefferson est\u00e1 internado em hospital penitenci\u00e1rio de Bangu ap\u00f3s queda em cela",
+            "link": "https://www.cnnbrasil.com.br/politica/roberto-jefferson-esta-internado-em-hospital-penitenciario-de-bangu-apos-queda-em-cela/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-06-03T17:01:00"
+        },
+        {
+            "title": "Moraes manda diretor de Bangu informar sobre estado de sa\u00fade de Roberto Jefferson",
+            "link": "https://www.cnnbrasil.com.br/politica/moraes-manda-diretor-de-bangu-informar-sobre-estado-de-saude-de-roberto-jefferson/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-06-02T17:55:00"
+        },
+        {
+            "title": "Golpe dos nudes: presos tentam jogar celulares pela janela ap\u00f3s opera\u00e7\u00e3o da pol\u00edcia no RS",
+            "link": "https://www.cnnbrasil.com.br/nacional/golpe-dos-nudes-presos-tentam-jogar-celulares-pela-janela-apos-operacao-da-policia-no-rs/",
+            "tag": "Nacional",
+            "created_at": "2023-06-02T11:55:00"
+        },
+        {
+            "title": "PF faz opera\u00e7\u00e3o contra fraudes em licita\u00e7\u00f5es de equipamentos de rob\u00f3tica em Alagoas",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-faz-operacao-contra-fraudes-em-licitacoes-em-alagoas/",
+            "tag": "Nacional",
+            "created_at": "2023-06-01T07:57:00"
+        },
+        {
+            "title": "Jovem de 18 anos que nasceu em pris\u00e3o nos EUA realiza sonho de estudar em Harvard",
+            "link": "https://www.cnnbrasil.com.br/internacional/jovem-de-18-anos-que-nasceu-em-prisao-nos-eua-realiza-sonho-de-estudar-em-harvard/",
+            "tag": "Internacional",
+            "created_at": "2023-05-29T17:29:00"
+        },
+        {
+            "title": "Homem \u00e9 condenado a mais de 100 anos de pris\u00e3o por estupro de cinco filhas no RS",
+            "link": "https://www.cnnbrasil.com.br/nacional/homem-e-condenado-a-mais-de-100-anos-de-prisao-por-estupro-de-cinco-filhas-no-rs/",
+            "tag": "Nacional",
+            "created_at": "2023-05-27T14:49:00"
+        },
+        {
+            "title": "Pol\u00edcia da Guatemala prende ex-procurador por acusa\u00e7\u00e3o de abuso de autoridade",
+            "link": "https://www.cnnbrasil.com.br/internacional/policia-da-guatemala-prende-ex-procurador-por-acusacao-de-abuso-de-autoridade/",
+            "tag": "Internacional",
+            "created_at": "2023-05-27T02:20:00"
+        },
+        {
+            "title": "Vendedor de macarr\u00e3o \u00e9 preso no Vietn\u00e3 por zombar de jantar luxuoso de ministro",
+            "link": "https://www.cnnbrasil.com.br/internacional/vendedor-de-macarrao-e-preso-no-vietna-por-zombar-de-jantar-luxuoso-de-ministro/",
+            "tag": "Internacional",
+            "created_at": "2023-05-26T09:00:00"
+        },
+        {
+            "title": "Policial militar \u00e9 preso pela 2\u00aa vez em opera\u00e7\u00e3o da PF sobre atos de 8 de janeiro",
+            "link": "https://www.cnnbrasil.com.br/politica/policial-militar-e-preso-pela-2a-vez-em-operacao-da-pf-sobre-atos-de-8-de-janeiro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-23T10:07:00"
+        },
+        {
+            "title": "Filha de Mick Jagger \u00e9 presa ap\u00f3s agredir policial em Ibiza, diz jornal",
+            "link": "https://www.cnnbrasil.com.br/entretenimento/filha-de-mick-jagger-e-presa-apos-agredir-policial-em-ibiza-diz-jornal/",
+            "tag": "Entretenimento",
+            "created_at": "2023-05-18T19:26:00"
+        },
+        {
+            "title": "Pol\u00edcia prende duas m\u00e3es suspeitas de entregar filhas para abusos sexuais no RS",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-prende-duas-mae-suspeitas-de-entregar-filhas-para-abusos-sexuais-no-rs/",
+            "tag": "Nacional",
+            "created_at": "2023-05-18T13:02:00"
+        },
+        {
+            "title": "\u201cAcabou aquele inferno l\u00e1 dentro\u201d, diz porteiro solto ap\u00f3s tr\u00eas anos preso",
+            "link": "https://www.cnnbrasil.com.br/nacional/acabou-aquele-inferno-la-dentro-diz-porteiro-solto-apos-tres-anos-preso/",
+            "tag": "Nacional",
+            "created_at": "2023-05-13T11:39:00"
+        },
+        {
+            "title": "STF retoma julgamento sobre legalidade da revista \u00edntima em pres\u00eddios",
+            "link": "https://www.cnnbrasil.com.br/nacional/stf-retoma-julgamento-sobre-legalidade-da-revista-intima-em-presidios/",
+            "tag": "Nacional",
+            "created_at": "2023-05-12T04:00:00"
+        },
+        {
+            "title": "STJ manda soltar porteiro que havia sido preso exclusivamente por reconhecimento de fotos",
+            "link": "https://www.cnnbrasil.com.br/nacional/stj-manda-soltar-porteiro-que-havia-sido-preso-exclusivamente-por-reconhecimento-de-fotos/",
+            "tag": "Nacional",
+            "created_at": "2023-05-11T12:41:00"
+        },
+        {
+            "title": "ONU pede atendimento m\u00e9dico urgente para l\u00edder de oposi\u00e7\u00e3o preso na R\u00fassia",
+            "link": "https://www.cnnbrasil.com.br/internacional/onu-pede-atendimento-medico-urgente-para-lider-de-oposicao-preso-na-russia/",
+            "tag": "Internacional",
+            "created_at": "2023-05-10T17:38:00"
+        },
+        {
+            "title": "Ex-pr\u00eamie do Paquist\u00e3o \u00e9 indiciado por vender presentes de Estado, diz m\u00eddia local",
+            "link": "https://www.cnnbrasil.com.br/internacional/ex-premie-do-paquistao-e-indiciado-por-vender-presentes-de-estado-diz-midia-local/",
+            "tag": "Internacional",
+            "created_at": "2023-05-10T14:44:00"
+        },
+        {
+            "title": "M\u00e3e dos cantores Nick e Aaron Carter \u00e9 presa ap\u00f3s briga por volume de TV",
+            "link": "https://www.cnnbrasil.com.br/entretenimento/mae-dos-cantores-nick-e-aaron-carter-e-presa-apos-briga-por-volume-de-tv/",
+            "tag": "Entretenimento",
+            "created_at": "2023-05-03T15:46:00"
+        },
+        {
+            "title": "Thiago Brennand \u00e9 levado ao CDP de Pinheiros ap\u00f3s audi\u00eancia de cust\u00f3dia",
+            "link": "https://www.cnnbrasil.com.br/nacional/thiago-brennand-passa-por-audiencia-de-custodia-e-permanecera-preso/",
+            "tag": "Nacional",
+            "created_at": "2023-04-30T12:04:00"
+        },
+        {
+            "title": "Thiago Brennand \u00e9 levado para audi\u00eancia de cust\u00f3dia em S\u00e3o Paulo",
+            "link": "https://www.cnnbrasil.com.br/nacional/brennand-audiencia-custodia/",
+            "tag": "Nacional",
+            "created_at": "2023-04-30T09:59:00"
+        },
+        {
+            "title": "Thiago Brennand passa a noite na PF e ter\u00e1 audi\u00eancia de cust\u00f3dia neste domingo (30)",
+            "link": "https://www.cnnbrasil.com.br/nacional/thiago-brennand-passa-a-noite-na-pf-e-tera-audiencia-de-custodia-neste-domingo-30/",
+            "tag": "Nacional",
+            "created_at": "2023-04-29T23:03:00"
+        },
+        {
+            "title": "Marcelo Odebrecht termina de cumprir pena da Lava Jato ap\u00f3s dois anos de servi\u00e7o comunit\u00e1rio",
+            "link": "https://www.cnnbrasil.com.br/nacional/marcelo-odebrecht-termina-de-cumprir-pena-da-lava-jato-apos-dois-anos-de-servico-comunitario/",
+            "tag": "Nacional",
+            "created_at": "2023-04-28T18:33:00"
+        },
+        {
+            "title": "Mulher com sete pistolas escondidas embaixo da roupa \u00e9 presa em Niter\u00f3i",
+            "link": "https://www.cnnbrasil.com.br/nacional/mulher-com-sete-pistolas-escondidas-embaixo-da-roupa-e-presa-em-niteroi/",
+            "tag": "Nacional",
+            "created_at": "2023-04-25T15:09:00"
+        },
+        {
+            "title": "Dentista \u00e9 preso no RS suspeito de abusar sexualmente de paciente",
+            "link": "https://www.cnnbrasil.com.br/nacional/dentista-e-preso-no-rs-suspeito-de-abusar-sexualmente-de-paciente/",
+            "tag": "Nacional",
+            "created_at": "2023-04-25T11:16:00"
+        },
+        {
+            "title": "Extraditado pelos EUA, ex-presidente peruano \u00e9 colocado em pris\u00e3o preventiva",
+            "link": "https://www.cnnbrasil.com.br/internacional/extraditado-pelos-eua-ex-presidente-peruano-e-colocado-em-prisao-preventiva/",
+            "tag": "Internacional",
+            "created_at": "2023-04-24T14:02:00"
+        },
+        {
+            "title": "Brasileiras que tiveram malas trocadas relatam infec\u00e7\u00e3o na pele ap\u00f3s pris\u00e3o na Alemanha",
+            "link": "https://www.cnnbrasil.com.br/internacional/brasileiras-que-tiveram-malas-trocadas-relatam-infeccao-na-pele-apos-prisao-na-alemanha/",
+            "tag": "Internacional",
+            "created_at": "2023-04-23T12:05:00"
+        },
+        {
+            "title": "Judici\u00e1rio russo ordena pris\u00e3o de mais um jornalista investigativo",
+            "link": "https://www.cnnbrasil.com.br/internacional/judiciario-russo-ordena-prisao-de-reporter-da-bulgaria/",
+            "tag": "Internacional",
+            "created_at": "2023-04-21T18:15:00"
+        },
+        {
+            "title": "Quais os limites do sigilo entre psic\u00f3logo e paciente?",
+            "link": "https://www.cnnbrasil.com.br/saude/quais-os-limites-do-sigilo-entre-psicologo-e-paciente/",
+            "tag": "Sa\u00fade",
+            "created_at": "2023-04-18T15:16:00"
+        },
+        {
+            "title": "Nicar\u00e1gua expulsa freiras na mais recente repress\u00e3o \u00e0 Igreja Cat\u00f3lica e oposi\u00e7\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/internacional/nicaragua-expulsa-freiras-na-mais-recente-repressao-a-igreja-catolica-e-oposicao/",
+            "tag": "Internacional",
+            "created_at": "2023-04-16T04:00:00"
+        },
+        {
+            "title": "Justi\u00e7a decreta pris\u00e3o de homem que jogou carrinho de compras em mulher em Goi\u00e1s",
+            "link": "https://www.cnnbrasil.com.br/nacional/justica-decreta-prisao-de-homem-que-jogou-carrinho-de-compras-em-mulher-em-goias/",
+            "tag": "Nacional",
+            "created_at": "2023-04-15T11:03:00"
+        },
+        {
+            "title": "Governo russo afirma que ignora estado de sa\u00fade de opositor na pris\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/internacional/governo-russo-diz-que-ignora-estado-de-saude-de-opositor/",
+            "tag": "Internacional",
+            "created_at": "2023-04-13T11:52:00"
+        },
+        {
+            "title": "Daniel Alves dep\u00f5e novamente na pr\u00f3xima segunda-feira (17)",
+            "link": "https://www.cnnbrasil.com.br/esportes/daniel-alves-depoe-novamente-na-proxima-segunda-feira-17/",
+            "tag": "Esportes",
+            "created_at": "2023-04-13T09:10:00"
+        },
+        {
+            "title": "Pol\u00edcia pretende ouvir familiares de beb\u00ea morto por sufocamento em Itapevi (SP)",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-pretende-ouvir-familiares-de-bebe-morto-por-sufocamento-em-itapevi-sp/",
+            "tag": "Nacional",
+            "created_at": "2023-04-10T12:44:00"
+        },
+        {
+            "title": "Garoto de 13 anos d\u00e1 fuga da pol\u00edcia com carro roubado, bate e deixa uma d\u00fazia de v\u00edtimas nos EUA",
+            "link": "https://www.cnnbrasil.com.br/internacional/garoto-de-13-anos-da-fuga-da-policia-com-carro-roubado-bate-e-deixa-uma-duzia-de-vitimas-nos-eua/",
+            "tag": "Internacional",
+            "created_at": "2023-04-09T14:50:00"
+        },
+        {
+            "title": "Brasileiro \u00e9 condenado \u00e0 pris\u00e3o perp\u00e9tua nos EUA por assassinato",
+            "link": "https://www.cnnbrasil.com.br/internacional/brasileiro-e-condenado-a-prisao-perpetua-nos-eua-por-assassinato/",
+            "tag": "Internacional",
+            "created_at": "2023-04-08T12:29:00"
+        },
+        {
+            "title": "Justi\u00e7a decreta pris\u00e3o preventiva de acusado de ataque a creche em Blumenau",
+            "link": "https://www.cnnbrasil.com.br/nacional/justica-decreta-prisao-preventiva-blumenau/",
+            "tag": "Nacional",
+            "created_at": "2023-04-06T17:01:00"
+        },
+        {
+            "title": "Justi\u00e7a abre caminho para prender terceiro ex-presidente do Peru",
+            "link": "https://www.cnnbrasil.com.br/internacional/justica-abre-caminho-para-prender-terceiro-ex-presidente-do-peru/",
+            "tag": "Internacional",
+            "created_at": "2023-04-06T12:11:00"
+        },
+        {
+            "title": "Defesa de Brennand pede revoga\u00e7\u00e3o da pris\u00e3o para que ele volte ao Brasil\u00a0",
+            "link": "https://www.cnnbrasil.com.br/nacional/defesa-de-brennand-pede-revogacao-da-prisao/",
+            "tag": "Nacional",
+            "created_at": "2023-04-05T13:19:00"
+        },
+        {
+            "title": "Governo Biden vai declarar rep\u00f3rter como preso injustamente na R\u00fassia",
+            "link": "https://www.cnnbrasil.com.br/internacional/governo-biden-vai-declarar-reporter-como-preso-injustamente-na-russia/",
+            "tag": "Internacional",
+            "created_at": "2023-04-05T12:40:00"
+        },
+        {
+            "title": "Mulher \u00e9 presa na Bahia com R$ 100 mil fixado ao corpo",
+            "link": "https://www.cnnbrasil.com.br/nacional/mulher-e-presa-na-bahia-com-r-100-mil-fixado-ao-corpo/",
+            "tag": "Nacional",
+            "created_at": "2023-04-03T10:01:00"
+        },
+        {
+            "title": "Mulher \u00e9 detida por explos\u00e3o em caf\u00e9 em S\u00e3o Petersburgo, dizem autoridades russa",
+            "link": "https://www.cnnbrasil.com.br/internacional/mulher-e-detida-por-explosao-em-cafe-em-sao-petersburgo-dizem-autoridades-russa/",
+            "tag": "Internacional",
+            "created_at": "2023-04-03T06:02:00"
+        },
+        {
+            "title": "Pris\u00e3o de jornalista americano acirra confronto entre Kremlin e Washington",
+            "link": "https://www.cnnbrasil.com.br/internacional/prisao-de-jornalista-americano-acirra-confronto-de-kremlin-e-washington/",
+            "tag": "Internacional",
+            "created_at": "2023-04-02T04:00:00"
+        },
+        {
+            "title": "Veja quem tem direito a pris\u00e3o em cela especial mesmo depois do STF acabar com benef\u00edcio para presos com curso superior",
+            "link": "https://www.cnnbrasil.com.br/politica/veja-quem-tem-direito-a-prisao-em-cela-especial-mesmo-depois-do-stf-acabar-com-beneficio-para-presos-com-curso-superior/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-04-01T17:33:00"
+        },
+        {
+            "title": "STF tem maioria para derrubar pris\u00e3o especial a quem tem diploma universit\u00e1rio",
+            "link": "https://www.cnnbrasil.com.br/nacional/stf-tem-maioria-para-derrubar-prisao-especial-a-quem-tem-diploma-universitario/",
+            "tag": "Nacional",
+            "created_at": "2023-03-30T16:36:00"
+        },
+        {
+            "title": "Pol\u00edcia do Rio prende integrantes de quadrilha que aplicava golpes em caixas eletr\u00f4nicos",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-do-rio-prende-integrantes-de-quadrilha-que-aplicava-golpes-em-caixas-eletronicos/",
+            "tag": "Nacional",
+            "created_at": "2023-03-30T14:51:00"
+        },
+        {
+            "title": "Promotor de Justi\u00e7a \u00e9 condenado a 22 anos de pris\u00e3o por matar a esposa em MG",
+            "link": "https://www.cnnbrasil.com.br/nacional/promotor-de-justica-e-condenado-a-22-anos-de-prisao-por-matar-a-esposa-em-mg/",
+            "tag": "Nacional",
+            "created_at": "2023-03-30T12:09:00"
+        },
+        {
+            "title": "Autoridades russas dizem ter detido rep\u00f3rter americano do Wall Street Journal por espionagem",
+            "link": "https://www.cnnbrasil.com.br/internacional/autoridades-russas-dizem-ter-detido-reporter-americano-do-wall-street-journal-por-espionagem/",
+            "tag": "Internacional",
+            "created_at": "2023-03-30T07:46:00"
+        },
+        {
+            "title": "Tortura e abortos for\u00e7ados: ONG conta como \u00e9 vida nas pris\u00f5es da Coreia do Norte",
+            "link": "https://www.cnnbrasil.com.br/internacional/tortura-e-abortos-forcados-ong-conta-como-e-vida-nas-prisoes-da-coreia-do-norte/",
+            "tag": "Internacional",
+            "created_at": "2023-03-27T13:49:00"
+        },
+        {
+            "title": "Rahul Gandhi, l\u00edder da oposi\u00e7\u00e3o da \u00cdndia, \u00e9 condenado a dois anos de pris\u00e3o por difama\u00e7\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/internacional/rahul-gandhi-lider-da-oposicao-da-india-e-condenado-a-dois-anos-de-prisao-por-difamacao/",
+            "tag": "Internacional",
+            "created_at": "2023-03-23T09:50:00"
+        },
+        {
+            "title": "EUA monitoram protestos e refor\u00e7am seguran\u00e7a ap\u00f3s Trump dizer que pode ser preso hoje",
+            "link": "https://www.cnnbrasil.com.br/internacional/eua-monitoram-protestos-e-reforcam-seguranca-apos-trump-dizer-que-pode-ser-preso-hoje/",
+            "tag": "Internacional",
+            "created_at": "2023-03-21T04:00:00"
+        },
+        {
+            "title": "Pol\u00edcia Federal prende duas pessoas em opera\u00e7\u00e3o contra o garimpo ilegal no Par\u00e1",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-federal-prende-duas-pessoas-em-operacao-contra-o-garimpo-ilegal-no-para/",
+            "tag": "Nacional",
+            "created_at": "2023-03-20T10:19:00"
+        },
+        {
+            "title": "Presos suspeitos de comandar ataques no RN s\u00e3o transferidos para pres\u00eddios federais",
+            "link": "https://www.cnnbrasil.com.br/nacional/presos-suspeitos-de-comandar-ataques-no-rn-sao-transferidos-para-presidios-federais/",
+            "tag": "Nacional",
+            "created_at": "2023-03-18T11:57:00"
+        },
+        {
+            "title": "Veja como \u00e9 a rotina de Anderson Torres na pris\u00e3o dois meses ap\u00f3s deten\u00e7\u00e3o em aeroporto",
+            "link": "https://www.cnnbrasil.com.br/politica/veja-como-e-a-rotina-de-anderson-torres-na-prisao-dois-meses-apos-detencao-em-aeroporto/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-03-14T10:49:00"
+        },
+        {
+            "title": "\u00c0 CNN, americano preso no Ir\u00e3 h\u00e1 8 anos faz apelo a Biden: \u201cFa\u00e7a o que for necess\u00e1rio\u201d",
+            "link": "https://www.cnnbrasil.com.br/internacional/a-cnn-americano-preso-no-ira-ha-8-anos-faz-apelo-a-biden-faca-o-que-for-necessario/",
+            "tag": "Internacional",
+            "created_at": "2023-03-10T08:39:00"
+        },
+        {
+            "title": "Justi\u00e7a de SP nega pedido do MP e mant\u00e9m Elize Matsunaga em liberdade",
+            "link": "https://www.cnnbrasil.com.br/nacional/justica-de-sp-nega-pedido-do-mp-e-mantem-elize-matsunaga-em-liberdade/",
+            "tag": "Nacional",
+            "created_at": "2023-03-09T16:35:00"
+        },
+        {
+            "title": "Cantor MC Paiva \u00e9 preso e tem carro apreendido ap\u00f3s discuss\u00e3o com a PM em SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/cantor-mc-paiva-e-preso-e-tem-carro-apreendido-apos-discussao-com-a-pm-em-sp/",
+            "tag": "Nacional",
+            "created_at": "2023-03-08T11:26:00"
+        },
+        {
+            "title": "Defesa de Daniel Alves elabora estrat\u00e9gia para evitar condena\u00e7\u00e3o por estupro",
+            "link": "https://www.cnnbrasil.com.br/esportes/daniel-alves-tem-um-plano-para-evitar-a-condenacao-por-agressao-sexual-entenda/",
+            "tag": "Esportes",
+            "created_at": "2023-03-07T01:39:00"
+        },
+        {
+            "title": "Homem \u00e9 declarado inocente depois de passar 38 anos preso por crime que n\u00e3o cometeu nos EUA",
+            "link": "https://www.cnnbrasil.com.br/internacional/homem-e-declarado-inocente-depois-de-passar-38-anos-preso-por-crime-que-nao-cometeu/",
+            "tag": "Internacional",
+            "created_at": "2023-03-06T10:19:00"
+        },
+        {
+            "title": "Justi\u00e7a de Belarus condena vencedor do Nobel da Paz de 2022 a 10 anos de pris\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/internacional/justica-de-belarus-condena-vencedor-do-nobel-da-paz-de-2022-a-10-anos-de-prisao/",
+            "tag": "Internacional",
+            "created_at": "2023-03-03T09:54:00"
+        },
+        {
+            "title": "Minist\u00e9rio P\u00fablico vai fiscalizar modelo de assist\u00eancia jur\u00eddica a presos no DF",
+            "link": "https://www.cnnbrasil.com.br/politica/ministerio-publico-vai-fiscalizar-modelo-de-assistencia-juridica-a-presos-no-df/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-02-28T12:53:00"
+        },
+        {
+            "title": "Visita \u00edntima \u00e9 regalia e n\u00e3o pode ser direito, diz governador de Goi\u00e1s",
+            "link": "https://www.cnnbrasil.com.br/politica/visita-intima-e-regalia-e-nao-pode-ser-direito-diz-governador-de-goias/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-02-27T08:50:00"
+        },
+        {
+            "title": "Preso, ex-deputado Roberto Jefferson recupera registro da OAB",
+            "link": "https://www.cnnbrasil.com.br/politica/preso-ex-deputado-roberto-jefferson-recupera-registro-da-oab/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-02-26T11:43:00"
+        },
+        {
+            "title": "Em meio a repress\u00e3o a gangues, El Salvador come\u00e7a a transferir presos para \u201cmegapris\u00e3o\u201d",
+            "link": "https://www.cnnbrasil.com.br/internacional/em-meio-a-repressao-a-gangues-el-salvador-comeca-a-transferir-presos-para-mega-prisao/",
+            "tag": "Internacional",
+            "created_at": "2023-02-26T11:40:00"
+        },
+        {
+            "title": "Caiado critica suspens\u00e3o da proibi\u00e7\u00e3o de visitas \u00edntimas em pres\u00eddios de Goi\u00e1s",
+            "link": "https://www.cnnbrasil.com.br/politica/caiado-critica-suspensao-da-proibicao-de-visitas-intimas-em-presidios-de-goias/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-02-24T21:40:00"
+        },
+        {
+            "title": "MP da Espanha se op\u00f5e a recurso de Daniel Alves e pede que pris\u00e3o seja mantida",
+            "link": "https://www.cnnbrasil.com.br/esportes/mp-da-espanha-se-opoe-a-recurso-de-daniel-alves-e-pede-que-prisao-seja-mantida/",
+            "tag": "Esportes",
+            "created_at": "2023-02-07T11:01:00"
+        },
+        {
+            "title": "Guaritas vazias e falta de efetivo; Relat\u00f3rio aponta falhas durante fuga de \u201cJean do 18\u201d",
+            "link": "https://www.cnnbrasil.com.br/nacional/guaritas-vazias-e-falta-de-efetivo-relatorio-aponta-falhas-durante-fuga-de-jean-do-18/",
+            "tag": "Nacional",
+            "created_at": "2023-02-03T12:27:00"
+        },
+        {
+            "title": "Mandato n\u00e3o \u00e9 imunidade, diz advogado criminalista sobre caso Daniel Silveira",
+            "link": "https://www.cnnbrasil.com.br/politica/mandato-nao-e-imunidade-diz-advogado-criminalista-sobre-caso-daniel-silveira/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-02-02T11:44:00"
+        },
+        {
+            "title": "\u201cDesrespeito e deboche\u201d, diz Moraes em decis\u00e3o que mandou prender Daniel Silveira",
+            "link": "https://www.cnnbrasil.com.br/nacional/desrespeito-e-deboche-diz-moraes-em-decisao-que-mandou-prender-daniel-silveira/",
+            "tag": "Nacional",
+            "created_at": "2023-02-02T10:13:00"
+        },
+        {
+            "title": "Cr\u00edtico do Kremlin, Navalny diz que ficar\u00e1 em cela solit\u00e1ria por seis meses",
+            "link": "https://www.cnnbrasil.com.br/internacional/critico-do-kremlin-navalny-diz-que-ficara-em-cela-solitaria-por-seis-meses/",
+            "tag": "Internacional",
+            "created_at": "2023-02-01T14:33:00"
+        },
+        {
+            "title": "Pol\u00edcia do Rio intensifica buscas por traficante que fugiu da cadeia usando corda feita com len\u00e7\u00f3is",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-do-rio-intensifica-buscas-por-traficante-que-fugiu-da-cadeia-usando-corda-feita-com-lencois/",
+            "tag": "Nacional",
+            "created_at": "2023-01-30T10:52:00"
+        },
+        {
+            "title": "Anderson Torres deve prestar novo depoimento \u00e0 Pol\u00edcia Federal nesta segunda (23)",
+            "link": "https://www.cnnbrasil.com.br/politica/anderson-torres-deve-prestar-novo-depoimento-a-policia-federal-nesta-segunda-23/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-23T04:00:00"
+        },
+        {
+            "title": "Moraes mant\u00e9m 942 pessoas presas por ataque aos Tr\u00eas Poderes; 464 t\u00eam liberdade provis\u00f3ria",
+            "link": "https://www.cnnbrasil.com.br/politica/moraes-mantem-942-pessoas-presas-por-ataque-aos-tres-poderes-464-tem-liberdade-provisoria/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-20T22:29:00"
+        },
+        {
+            "title": "Moraes mant\u00e9m 740 pris\u00f5es e libera 335 pessoas ap\u00f3s atos criminosos em Bras\u00edlia",
+            "link": "https://www.cnnbrasil.com.br/politica/moraes-mantem-740-prisoes-e-libera-335-pessoas-apos-atos-criminosos-em-brasilia/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-19T20:41:00"
+        },
+        {
+            "title": "Justi\u00e7a autoriza micro-ondas, TV e pedido de delivery por Anderson Torres em pris\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/nacional/justica-autoriza-microondas-tv-e-pedido-de-delivery-por-anderson-torres-em-prisao/",
+            "tag": "Nacional",
+            "created_at": "2023-01-19T10:42:00"
+        },
+        {
+            "title": "Youtuber \u00e9 preso em SC depois de gravar assalto fake e mobilizar helic\u00f3ptero e viaturas da PM",
+            "link": "https://www.cnnbrasil.com.br/nacional/youtuber-e-preso-em-sc-depois-de-gravar-assalto-fake-e-mobilizar-helicoptero-e-viaturas-da-pm/",
+            "tag": "Nacional",
+            "created_at": "2023-01-19T08:29:00"
+        },
+        {
+            "title": "Anestesista preso por estuprar e gravar pacientes em cirurgias confessa os crimes",
+            "link": "https://www.cnnbrasil.com.br/nacional/anestesista-preso-por-estuprar-e-gravar-pacientes-em-cirurgias-confessa-os-crimes/",
+            "tag": "Nacional",
+            "created_at": "2023-01-16T15:41:00"
+        },
+        {
+            "title": "Pris\u00e3o preventiva de Torres pode ajudar a preservar investiga\u00e7\u00f5es, analisam juristas",
+            "link": "https://www.cnnbrasil.com.br/politica/prisao-preventiva-de-torres-pode-ajudar-a-preservar-investigacoes-analisam-juristas/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-15T11:55:00"
+        },
+        {
+            "title": "Em 48 horas, dois candidatos de concurso da pol\u00edcia de MG morrem ap\u00f3s teste f\u00edsico",
+            "link": "https://www.cnnbrasil.com.br/nacional/em-48-horas-dois-candidatos-de-concurso-da-policia-de-mg-morrem-apos-teste-fisico/",
+            "tag": "Nacional",
+            "created_at": "2023-01-15T09:54:00"
+        },
+        {
+            "title": "Penitenci\u00e1ria da Papuda est\u00e1 com quase o dobro da capacidade ap\u00f3s pris\u00e3o de bolsonaristas",
+            "link": "https://www.cnnbrasil.com.br/politica/penitenciaria-da-papuda-esta-com-quase-o-dobro-da-capacidade-apos-prisao-de-bolsonaristas/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-13T19:34:00"
+        },
+        {
+            "title": "Cerca de 1.000 foram presos no DF por atentado contra Estado de Direito, diz interventor",
+            "link": "https://www.cnnbrasil.com.br/politica/cerca-de-1-000-foram-presos-no-df-por-atentado-contra-estado-de-direito-diz-interventor/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-10T08:55:00"
+        },
+        {
+            "title": "Criminosos antidemocr\u00e1ticos ser\u00e3o conduzidos para pres\u00eddios",
+            "link": "https://www.cnnbrasil.com.br/politica/criminosos-antidemocraticos-serao-conduzidos-para-presidios/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-10T00:44:00"
+        },
+        {
+            "title": "Entenda a quais crimes poder\u00e3o responder os presos pelo ataque aos Tr\u00eas Poderes",
+            "link": "https://www.cnnbrasil.com.br/politica/entenda-a-quais-crimes-poderao-responder-os-presos-pelo-ataque-aos-tres-poderes/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-09T10:00:00"
+        },
+        {
+            "title": "Conhe\u00e7a ADX Florence, a pris\u00e3o de seguran\u00e7a m\u00e1xima dos EUA onde est\u00e1 \u201cEl Chapo\u201d",
+            "link": "https://www.cnnbrasil.com.br/internacional/conheca-adx-florence-a-prisao-de-seguranca-maxima-dos-eua-onde-esta-el-chapo/",
+            "tag": "Internacional",
+            "created_at": "2023-01-08T07:59:00"
+        },
+        {
+            "title": "Jornalistas s\u00e3o detidos no Sud\u00e3o do Sul por imagens do presidente urinando nas cal\u00e7as",
+            "link": "https://www.cnnbrasil.com.br/internacional/jornalistas-sao-detidos-no-sudao-do-sul-por-imagens-do-presidente-urinando-nas-calcas/",
+            "tag": "Internacional",
+            "created_at": "2023-01-07T14:40:00"
+        },
+        {
+            "title": "Invas\u00e3o de sistema faz Moraes ordenar pr\u00f3pria pris\u00e3o e escrever: \u201cFaz o L\u201d",
+            "link": "https://www.cnnbrasil.com.br/politica/invasao-de-sistema-faz-moraes-ordenar-propria-prisao/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-05T11:51:00"
+        },
+        {
+            "title": "Administradoras de funer\u00e1ria, m\u00e3e e filha s\u00e3o condenadas por vender partes de corpos ilegalmente nos EUA",
+            "link": "https://www.cnnbrasil.com.br/internacional/administradoras-de-funeraria-mae-e-filha-sao-condenadas-por-vender-partes-de-corpos-ilegalmente-nos-eua/",
+            "tag": "Internacional",
+            "created_at": "2023-01-05T08:45:00"
+        },
+        {
+            "title": "M\u00e3e de Filipe Pontes admite briga entre irm\u00e3os, mas nega ter sido agredida",
+            "link": "https://www.cnnbrasil.com.br/nacional/mae-de-filipe-pontes-admite-briga-entre-irmaos-mas-nega-ter-sido-agredida/",
+            "tag": "Nacional",
+            "created_at": "2023-01-02T11:49:00"
+        },
+        {
+            "title": "Ataque armado em pris\u00e3o no M\u00e9xico deixa ao menos 14 mortos",
+            "link": "https://www.cnnbrasil.com.br/internacional/ataque-armado-em-prisao-no-mexico-deixa-mortos/",
+            "tag": "Internacional",
+            "created_at": "2023-01-02T02:54:00"
+        },
+        {
+            "title": "Humorista Filipe Pontes \u00e9 preso em flagrante ap\u00f3s agredir a pr\u00f3pria m\u00e3e",
+            "link": "https://www.cnnbrasil.com.br/nacional/humorista-filipe-pontes-e-preso-em-flagrante-apos-agredir-a-propria-mae/",
+            "tag": "Nacional",
+            "created_at": "2022-12-31T18:02:00"
+        },
+        {
+            "title": "Estudante de odontologia \u00e9 detida por pr\u00e1tica sem habilita\u00e7\u00e3o no Rio de Janeiro",
+            "link": "https://www.cnnbrasil.com.br/saude/estudante-de-odontologia-e-detida-por-pratica-sem-habilitacao-no-rio-de-janeiro/",
+            "tag": "Sa\u00fade",
+            "created_at": "2022-12-27T09:17:00"
+        },
+        {
+            "title": "Suspeito de tiroteio em Paris expressou \u201c\u00f3dio a estrangeiros\u201d, diz procuradora",
+            "link": "https://www.cnnbrasil.com.br/internacional/suspeito-de-tiroteio-em-paris-expressou-odio-a-estrangeiros-diz-procuradora/",
+            "tag": "Internacional",
+            "created_at": "2022-12-25T13:19:00"
+        },
+        {
+            "title": "Ex-presidente peruano Castillo \u201cest\u00e1 com problemas de sa\u00fade\u201d na pris\u00e3o, diz familiar",
+            "link": "https://www.cnnbrasil.com.br/internacional/ex-presidente-peruano-castillo-esta-com-problemas-de-saude-na-prisao-diz-familiar/",
+            "tag": "Internacional",
+            "created_at": "2022-12-22T19:51:00"
+        },
+        {
+            "title": "Suposto chef\u00e3o da metanfetamina Tse Chi Lop \u00e9 extraditado para a Austr\u00e1lia",
+            "link": "https://www.cnnbrasil.com.br/internacional/suposto-chefao-da-metanfetamina-tse-chi-lop-extraditado-para-a-australia/",
+            "tag": "Internacional",
+            "created_at": "2022-12-22T08:18:00"
+        },
+        {
+            "title": "Nepal ordena soltura de Charles Sobhraj, serial killer que virou s\u00e9rie da Netflix",
+            "link": "https://www.cnnbrasil.com.br/internacional/nepal-ordena-soltura-de-charles-sobhraj-serial-killer-que-virou-serie-da-netflix/",
+            "tag": "Internacional",
+            "created_at": "2022-12-22T00:37:00"
+        },
+        {
+            "title": "J\u00fari considera ex-produtor de Hollywood Harvey Weinstein culpado de estupro",
+            "link": "https://www.cnnbrasil.com.br/entretenimento/juri-considera-ex-produtor-de-hollywood-harvey-weinstein-culpado-de-estupro/",
+            "tag": "Entretenimento",
+            "created_at": "2022-12-20T02:15:00"
+        },
+        {
+            "title": "PF prende pastor bolsonarista que se refugiou junto a quartel do ex\u00e9rcito no ES",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-prende-pastor-bolsonarista-que-se-refugiou-junto-a-quartel-do-exercito-no-es/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-12-20T01:19:00"
+        },
+        {
+            "title": "Libertado de pris\u00e3o, Boris Becker deve ser deportado do Reino Unido",
+            "link": "https://www.cnnbrasil.com.br/internacional/libertado-de-prisao-boris-becker-deve-ser-deportado-do-reino-unido/",
+            "tag": "Internacional",
+            "created_at": "2022-12-15T09:37:00"
+        },
+        {
+            "title": "Saiba quem \u00e9 o cacique Serere Xavante, cuja pris\u00e3o motivou protestos em Bras\u00edlia",
+            "link": "https://www.cnnbrasil.com.br/politica/saiba-quem-e-o-cacique-serere-xavante-cuja-prisao-motivou-protestos-em-brasilia/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-12-13T06:35:00"
+        },
+        {
+            "title": "Fundador da FTX, Sam Bankman-Fried \u00e9 preso nas Bahamas, dizem autoridades",
+            "link": "https://www.cnnbrasil.com.br/economia/fundador-da-ftx-sam-bankman-fried-e-preso-nas-bahamas-dizem-autoridades/",
+            "tag": "Economia",
+            "created_at": "2022-12-12T21:15:00"
+        },
+        {
+            "title": "STF retoma julgamento que pode tirar S\u00e9rgio Cabral da cadeia",
+            "link": "https://www.cnnbrasil.com.br/politica/stf-retoma-julgamento-que-pode-tirar-sergio-cabral-da-cadeia/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-12-09T04:05:00"
+        },
+        {
+            "title": "Suspeito de assassinato do rapper Takeoff do grupo Migos \u00e9 preso nos EUA",
+            "link": "https://www.cnnbrasil.com.br/entretenimento/suspeito-de-assassinato-do-rapper-takeoff-do-grupo-migos-e-preso-nos-eua/",
+            "tag": "Entretenimento",
+            "created_at": "2022-12-02T21:19:00"
+        },
+        {
+            "title": "Filho de Cabral ser\u00e1 transferido para mesmo pres\u00eddio do pai",
+            "link": "https://www.cnnbrasil.com.br/nacional/filho-de-cabral-sera-transferido-para-mesmo-presidio-do-pai/",
+            "tag": "Nacional",
+            "created_at": "2022-11-25T11:05:00"
+        },
+        {
+            "title": "Filho do ex-governador do RJ S\u00e9rgio Cabral se apresenta \u00e0 PF e \u00e9 preso",
+            "link": "https://www.cnnbrasil.com.br/nacional/filho-do-ex-governador-do-rj-sergio-cabral-se-apresenta-a-pf-e-e-preso/",
+            "tag": "Nacional",
+            "created_at": "2022-11-24T17:52:00"
+        },
+        {
+            "title": "Preso, procurador que agrediu chefe quebra pia e tem 3\u00b0 epis\u00f3dio indisciplinar no mesmo m\u00eas",
+            "link": "https://www.cnnbrasil.com.br/nacional/preso-procurador-que-agrediu-chefe-quebra-pia-e-tem-3-episodio-indisciplinar-no-mesmo-mes/",
+            "tag": "Nacional",
+            "created_at": "2022-11-22T12:29:00"
+        },
+        {
+            "title": "Roberto Jefferson pede transfer\u00eancia de Bangu para hospital na Barra",
+            "link": "https://www.cnnbrasil.com.br/politica/roberto-jefferson-pede-transferencia-de-bangu-para-hospital-na-barra/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-11-18T15:48:00"
+        },
+        {
+            "title": "Ex-presidente do Santos \u00e9 preso em opera\u00e7\u00e3o contra tr\u00e1fico de drogas e crime contra a administra\u00e7\u00e3o p\u00fablica",
+            "link": "https://www.cnnbrasil.com.br/esportes/ex-presidente-do-santos-e-preso-em-operacao-contra-trafico-de-drogas-e-crime-contra-a-administracao-publica/",
+            "tag": "Esportes",
+            "created_at": "2022-11-18T12:09:00"
+        },
+        {
+            "title": "Mianmar libertar\u00e1 ex-embaixadora brit\u00e2nica e economista australiano em anistia",
+            "link": "https://www.cnnbrasil.com.br/internacional/mianmar-libertara-ex-embaixadora-britanica-e-economista-australiano-em-anistia/",
+            "tag": "Internacional",
+            "created_at": "2022-11-17T16:44:00"
+        },
+        {
+            "title": "Homem \u00e9 preso nos Estados Unidos ap\u00f3s policiais confundirem bengala com arma",
+            "link": "https://www.cnnbrasil.com.br/internacional/homem-e-preso-nos-estados-unidos-por-ter-bengala-confundida-com-arma/",
+            "tag": "Internacional",
+            "created_at": "2022-11-09T23:34:00"
+        },
+        {
+            "title": "Brittney Griner inicia transfer\u00eancia para col\u00f4nia penal russa, dizem advogados",
+            "link": "https://www.cnnbrasil.com.br/internacional/brittney-griner-inicia-transferencia-para-colonia-penal-russa-dizem-advogados/",
+            "tag": "Internacional",
+            "created_at": "2022-11-09T05:56:00"
+        },
+        {
+            "title": "Brasil ultrapassa R\u00fassia e se torna pa\u00eds com 3\u00b0 maior n\u00famero de mulheres presas",
+            "link": "https://www.cnnbrasil.com.br/nacional/brasil-ultrapassa-russia-e-se-torna-pais-com-3-maior-numero-de-mulheres-presas/",
+            "tag": "Nacional",
+            "created_at": "2022-10-25T14:40:00"
+        },
+        {
+            "title": "Candidatos n\u00e3o podem ser presos a partir deste s\u00e1bado (15), a n\u00e3o ser em flagrante",
+            "link": "https://www.cnnbrasil.com.br/politica/candidatos-nao-podem-ser-presos-a-partir-deste-sabado-15-a-nao-ser-em-flagrante/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-10-14T23:44:00"
+        },
+        {
+            "title": "Ap\u00f3s um ano preso, jovem inocentado morre no dia de ser solto no Tocantins",
+            "link": "https://www.cnnbrasil.com.br/nacional/apos-um-ano-preso-jovem-inocentado-morre-no-dia-de-ser-solto-no-tocantins/",
+            "tag": "Nacional",
+            "created_at": "2022-10-13T16:32:00"
+        },
+        {
+            "title": "Tribunal de Mianmar estende pena de pris\u00e3o de Aung San Suu Kyi para 26 anos",
+            "link": "https://www.cnnbrasil.com.br/internacional/tribunal-de-mianmar-estende-pena-de-prisao-de-aung-san-suu-kyi-para-26-anos/",
+            "tag": "Internacional",
+            "created_at": "2022-10-12T10:10:00"
+        },
+        {
+            "title": "Mais de 12 mil pessoas s\u00e3o presas por viol\u00eancia dom\u00e9stica e feminic\u00eddio em 1 m\u00eas",
+            "link": "https://www.cnnbrasil.com.br/nacional/mais-de-12-mil-pessoas-sao-presas-por-violencia-domestica-e-feminicidio-em-1-mes/",
+            "tag": "Nacional",
+            "created_at": "2022-10-07T13:08:00"
+        },
+        {
+            "title": "Caso Henry: STJ confirma soltura de Monique e pris\u00e3o de Dr. Jairinho",
+            "link": "https://www.cnnbrasil.com.br/nacional/caso-henry-stj-confirma-soltura-de-monique-e-prisao-de-dr-jairinho/",
+            "tag": "Nacional",
+            "created_at": "2022-09-27T15:45:00"
+        },
+        {
+            "title": "Pol\u00edcia prende envolvidos em explos\u00f5es de ag\u00eancias banc\u00e1rias no Rio de Janeiro",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-prende-envolvidos-em-explosoes-de-agencias-bancarias-no-rio-de-janeiro/",
+            "tag": "Nacional",
+            "created_at": "2022-09-27T13:14:00"
+        },
+        {
+            "title": "Mais de 2,3 mil pessoas foram presas na R\u00fassia desde an\u00fancio da mobiliza\u00e7\u00e3o parcial",
+            "link": "https://www.cnnbrasil.com.br/internacional/mais-de-23-mil-pessoas-foram-presas-na-russia-desde-anuncio-da-mobilizacao-parcial/",
+            "tag": "Internacional",
+            "created_at": "2022-09-26T09:57:00"
+        },
+        {
+            "title": "PF desarticula tr\u00eas organiza\u00e7\u00f5es ligadas ao tr\u00e1fico internacional de coca\u00edna",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-desarticula-tres-organizacoes-ligadas-ao-trafico-internacional-de-cocaina/",
+            "tag": "Nacional",
+            "created_at": "2022-09-20T08:51:00"
+        },
+        {
+            "title": "Justi\u00e7a do RJ manda soltar Eduardo Fauzi, suspeito de ataque ao Porta dos Fundos",
+            "link": "https://www.cnnbrasil.com.br/politica/justica-do-rj-manda-soltar-eduardo-fauzi-suspeito-de-ataque-ao-porta-dos-fundos/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-09-14T12:01:00"
+        },
+        {
+            "title": "Alem\u00e3o \u00e9 condenado \u00e0 pris\u00e3o perp\u00e9tua por matar caixa que pediu uso de m\u00e1scara",
+            "link": "https://www.cnnbrasil.com.br/internacional/alemao-e-condenado-a-prisao-perpetua-por-matar-caixa-que-pediu-uso-de-mascara/",
+            "tag": "Internacional",
+            "created_at": "2022-09-13T08:47:00"
+        },
+        {
+            "title": "Pol\u00edcia escocesa prende tr\u00eas pessoas por protestos ap\u00f3s morte da rainha",
+            "link": "https://www.cnnbrasil.com.br/internacional/policia-escocesa-prende-tres-pessoas-por-protestos-apos-morte-da-rainha/",
+            "tag": "Internacional",
+            "created_at": "2022-09-12T14:00:00"
+        },
+        {
+            "title": "Fonoaudi\u00f3logos s\u00e3o presos em Hong Kong por \u201ca\u00e7\u00e3o antigoverno\u201d em livros infantis",
+            "link": "https://www.cnnbrasil.com.br/internacional/fonoaudiologos-sao-presos-em-hong-kong-por-acao-antigoverno-em-livros-infantis/",
+            "tag": "Internacional",
+            "created_at": "2022-09-10T13:40:00"
+        },
+        {
+            "title": "PF prende homem por importuna\u00e7\u00e3o sexual de passageira em voo Doha-S\u00e3o Paulo",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-prende-homem-por-importunacao-sexual-de-passageira-em-voo-doha-sao-paulo/",
+            "tag": "Nacional",
+            "created_at": "2022-08-24T20:32:00"
+        },
+        {
+            "title": "PF prende integrante da m\u00e1fia italiana \u201cNdrangheta\u201d em Goi\u00e1s",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-prende-integrante-da-mafia-italiana-ndrangheta-em-goias/",
+            "tag": "Nacional",
+            "created_at": "2022-08-24T09:46:00"
+        },
+        {
+            "title": "Policial \u00e9 acusado ap\u00f3s ajoelhar nas costas de adolescente negro nos EUA",
+            "link": "https://www.cnnbrasil.com.br/internacional/policial-e-acusado-apos-ajoelhar-nas-costas-de-adolescente-negro-nos-eua/",
+            "tag": "Internacional",
+            "created_at": "2022-08-19T14:04:00"
+        },
+        {
+            "title": "Chefe do tr\u00e1fico \u00e9 preso na torcida durante Fluminense x Fortaleza",
+            "link": "https://www.cnnbrasil.com.br/nacional/chefe-do-trafico-e-preso-na-torcida-durante-fluminense-x-fortaleza/",
+            "tag": "Nacional",
+            "created_at": "2022-08-18T09:13:00"
+        },
+        {
+            "title": "PF faz opera\u00e7\u00e3o para prender grupo que pretendia resgatar Marcola e outros l\u00edderes de fac\u00e7\u00f5es em pres\u00eddios federais",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-faz-operacao-para-prender-grupo-que-pretendia-resgatar-lideres-de-faccoes-em-presidios-federais/",
+            "tag": "Nacional",
+            "created_at": "2022-08-10T08:27:00"
+        },
+        {
+            "title": "O que se sabe sobre caso do c\u00f4nsul alem\u00e3o preso por suspeita de matar o marido",
+            "link": "https://www.cnnbrasil.com.br/nacional/o-que-se-sabe-sobre-caso-do-consul-alemao-preso-por-suspeita-de-matar-o-marido/",
+            "tag": "Nacional",
+            "created_at": "2022-08-08T18:13:00"
+        },
+        {
+            "title": "Ex-deputado da oposi\u00e7\u00e3o venezuelana \u00e9 condenado a oito anos de pris\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/internacional/ex-deputado-da-oposicao-venezuelana-e-condenado-a-oito-anos-de-prisao/",
+            "tag": "Internacional",
+            "created_at": "2022-08-04T15:03:00"
+        },
+        {
+            "title": "Barroso nega recurso e mant\u00e9m condena\u00e7\u00e3o de policiais por Massacre do Carandiru",
+            "link": "https://www.cnnbrasil.com.br/politica/barroso-nega-recurso-e-mantem-condenacao-de-policiais-por-massacre-do-carandiru/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-08-04T09:40:00"
+        },
+        {
+            "title": "Allan dos Santos \u00e9 condenado a um ano e sete meses de pris\u00e3o por cal\u00fania",
+            "link": "https://www.cnnbrasil.com.br/politica/allan-dos-santos-e-condenado-a-um-ano-e-sete-meses-de-prisao-por-calunia/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-07-28T16:51:00"
+        },
+        {
+            "title": "PM prende em SP suspeito de matar mulher e filho de tr\u00eas meses em Santa Catarina",
+            "link": "https://www.cnnbrasil.com.br/nacional/pm-prende-em-sp-suspeito-de-matar-mulher-e-filho-de-tres-meses-em-santa-catarina/",
+            "tag": "Nacional",
+            "created_at": "2022-07-27T10:44:00"
+        },
+        {
+            "title": "PGR se manifesta a favor de prorrogar pris\u00e3o de influenciador detido em BH",
+            "link": "https://www.cnnbrasil.com.br/nacional/pgr-se-manifesta-a-favor-de-prorrogar-prisao-de-influenciador-detido-em-bh/",
+            "tag": "Nacional",
+            "created_at": "2022-07-25T17:53:00"
+        },
+        {
+            "title": "Procurados internacionais s\u00e3o deportados dos EUA e presos em Minas Gerais",
+            "link": "https://www.cnnbrasil.com.br/nacional/procurados-internacionais-sao-deportados-dos-eua-e-presos-em-minas-gerais/",
+            "tag": "Nacional",
+            "created_at": "2022-07-24T17:05:00"
+        },
+        {
+            "title": "Confus\u00e3o em pris\u00e3o no Equador deixa 13 mortos e dois feridos",
+            "link": "https://www.cnnbrasil.com.br/internacional/confusao-em-prisao-no-equador-deixa-13-mortos-e-dois-feridos/",
+            "tag": "Internacional",
+            "created_at": "2022-07-19T04:30:00"
+        },
+        {
+            "title": "Jovem de 14 anos \u00e9 condenado \u00e0 pris\u00e3o perp\u00e9tua por matar menino de 5 no Pa\u00eds de Gales",
+            "link": "https://www.cnnbrasil.com.br/internacional/jovem-de-14-anos-e-condenado-a-prisao-perpetua-por-matar-menino-de-5-no-pais-de-gales/",
+            "tag": "Internacional",
+            "created_at": "2022-07-01T20:50:00"
+        },
+        {
+            "title": "Sobrevivente do ataque em boate de Paris, em 2015, se diz aliviado ap\u00f3s condena\u00e7\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/internacional/sobrevivente-do-ataque-em-boate-de-paris-em-2015-se-diz-aliviado-apos-condenacao/",
+            "tag": "Internacional",
+            "created_at": "2022-06-30T11:48:00"
+        },
+        {
+            "title": "Inc\u00eandio em pris\u00e3o na Col\u00f4mbia deixa ao menos 49 mortos e 30 feridos",
+            "link": "https://www.cnnbrasil.com.br/internacional/incendio-em-prisao-na-colombia-deixa-mortos-e-feridos/",
+            "tag": "Internacional",
+            "created_at": "2022-06-28T11:23:00"
+        },
+        {
+            "title": "\u201cMilton Ribeiro foi preso injustamente\u201d e \u201cn\u00e3o h\u00e1 ind\u00edcios m\u00ednimos de corrup\u00e7\u00e3o\u201d, diz Bolsonaro",
+            "link": "https://www.cnnbrasil.com.br/politica/milton-ribeiro-foi-preso-injustamente-e-nao-ha-indicios-minimos-de-corrupcao-diz-bolsonaro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-06-26T22:03:00"
+        },
+        {
+            "title": "Governo de Cuba condena artistas dissidentes que participaram de protestos",
+            "link": "https://www.cnnbrasil.com.br/internacional/governo-de-cuba-anuncia-condenacoes-de-proeminentes-artistas-dissidentes/",
+            "tag": "Internacional",
+            "created_at": "2022-06-24T14:43:00"
+        },
+        {
+            "title": "Lula diz que pris\u00e3o de ex-ministro Milton Ribeiro \u201cdepende de prova\u201d",
+            "link": "https://www.cnnbrasil.com.br/politica/lula-diz-que-prisao-de-ex-ministro-milton-ribeiro-depende-de-prova/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-06-23T12:25:00"
+        },
+        {
+            "title": "\u201cSe for culpado, vai pagar\u201d, diz Bolsonaro sobre pris\u00e3o de Milton Ribeiro",
+            "link": "https://www.cnnbrasil.com.br/politica/se-for-culpado-vai-pagar-diz-bolsonaro-sobre-prisao-de-milton-ribeiro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-06-22T09:26:00"
+        },
+        {
+            "title": "Segundo suspeito de matar idosa e diarista \u00e9 preso na Zona Sul do Rio",
+            "link": "https://www.cnnbrasil.com.br/nacional/preso-segundo-suspeito-de-matar-idosa-e-diarista-na-zona-sul-do-rio/",
+            "tag": "Nacional",
+            "created_at": "2022-06-12T17:10:00"
+        },
+        {
+            "title": "Elize Matsunaga deixa pris\u00e3o em S\u00e3o Paulo ap\u00f3s liberdade condicional",
+            "link": "https://www.cnnbrasil.com.br/nacional/elize-matsunaga-deixa-prisao-em-sao-paulo-apos-liberdade-condicional/",
+            "tag": "Nacional",
+            "created_at": "2022-05-30T19:40:00"
+        },
+        {
+            "title": "Virada Cultural: quatro pessoas foram presas em flagrante por roubo",
+            "link": "https://www.cnnbrasil.com.br/entretenimento/virada-cultural-quatro-pessoas-foram-presas-em-flagrantes-por-roubo/",
+            "tag": "Entretenimento",
+            "created_at": "2022-05-29T18:28:00"
+        },
+        {
+            "title": "Brasileira \u00e9 condenada a 9 anos e 6 meses de pris\u00e3o na Tail\u00e2ndia por tr\u00e1fico de drogas",
+            "link": "https://www.cnnbrasil.com.br/internacional/brasileira-e-condenada-a-9-anos-e-6-meses-de-prisao-na-tailandia-por-trafico-de-drogas/",
+            "tag": "Internacional",
+            "created_at": "2022-05-12T18:18:00"
+        },
+        {
+            "title": "Pol\u00edcia encontra 2 mil capacetes de moto em telhado de pr\u00e9dio no centro de SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-encontra-2-mil-capacetes-de-moto-em-telhado-de-predio-no-centro-de-sp/",
+            "tag": "Nacional",
+            "created_at": "2022-05-10T12:27:00"
+        },
+        {
+            "title": "Motim em pris\u00e3o no Equador deixa ao menos 43 mortos",
+            "link": "https://www.cnnbrasil.com.br/internacional/motim-em-prisao-no-equador-deixa-ao-menos-43-mortos/",
+            "tag": "Internacional",
+            "created_at": "2022-05-09T23:20:00"
+        },
+        {
+            "title": "Ap\u00f3s decis\u00e3o judicial, Cabral \u00e9 transferido para quartel de Bombeiros no RJ",
+            "link": "https://www.cnnbrasil.com.br/nacional/justica-determina-que-cabral-deixe-bangu-e-va-para-cela-em-quartel-dos-bombeiros/",
+            "tag": "Nacional",
+            "created_at": "2022-05-05T16:16:00"
+        },
+        {
+            "title": "RJ: R\u00e9us absolvidos por erro em reconhecimento fotogr\u00e1fico passam, em m\u00e9dia, mais de um ano presos",
+            "link": "https://www.cnnbrasil.com.br/nacional/rj-reus-absolvidos-por-erro-em-reconhecimento-fotografico-passam-em-media-mais-de-um-ano-presos/",
+            "tag": "Nacional",
+            "created_at": "2022-05-05T12:06:00"
+        },
+        {
+            "title": "PM ouvir\u00e1 agentes e far\u00e1 mudan\u00e7as em pres\u00eddio ap\u00f3s serem reveladas regalias a Cabral",
+            "link": "https://www.cnnbrasil.com.br/nacional/pm-ouvira-agentes-e-fara-mudancas-em-presidio-apos-serem-reveladas-regalias-a-cabral/",
+            "tag": "Nacional",
+            "created_at": "2022-05-04T20:56:00"
+        },
+        {
+            "title": "Justi\u00e7a determina transfer\u00eancia de Cabral e 5 PMs para Bangu",
+            "link": "https://www.cnnbrasil.com.br/nacional/justica-determina-transferencia-de-cabral-e-5-pms-para-bangu/",
+            "tag": "Nacional",
+            "created_at": "2022-05-03T18:38:00"
+        },
+        {
+            "title": "Biden vai reduzir ou perdoar a pena de 78 condenados em casos n\u00e3o violentos; entenda",
+            "link": "https://www.cnnbrasil.com.br/internacional/biden-vai-reduzir-ou-perdoar-a-pena-de-78-condenados-em-casos-nao-violentos-entenda/",
+            "tag": "Internacional",
+            "created_at": "2022-04-26T13:40:00"
+        },
+        {
+            "title": "Imediatismo de decreto de Bolsonaro a Silveira pode indicar desvio de finalidade, diz advogada",
+            "link": "https://www.cnnbrasil.com.br/politica/imediatismo-de-decreto-de-bolsonaro-a-silveira-pode-indicar-desvio-de-finalidade-diz-advogada/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-04-22T12:11:00"
+        },
+        {
+            "title": "A$AP Rocky paga fian\u00e7a de R$ 2,5 mi ap\u00f3s pris\u00e3o por suposto envolvimento em tiroteio",
+            "link": "https://www.cnnbrasil.com.br/entretenimento/aap-rocky-paga-fianca-de-r-25-mi-apos-prisao-por-suposto-envolvimento-em-tiroteio/",
+            "tag": "Entretenimento",
+            "created_at": "2022-04-21T12:02:00"
+        },
+        {
+            "title": "Homem que passou 3 d\u00e9cadas na pris\u00e3o por crime que n\u00e3o cometeu ser\u00e1 liberado nos EUA",
+            "link": "https://www.cnnbrasil.com.br/internacional/homem-que-passou-3-decadas-na-prisao-por-crime-que-nao-cometeu-sera-liberado-nos-eua/",
+            "tag": "Internacional",
+            "created_at": "2022-04-20T12:32:00"
+        },
+        {
+            "title": "Aux\u00edlio-reclus\u00e3o \u00e9 garantido por lei desde 1960 e valor equiparado ao sal\u00e1rio m\u00ednimo",
+            "link": "https://www.cnnbrasil.com.br/noticias/auxilio-reclusao-e-garantido-por-lei-desde-1960-e-valor-equiparado-ao-salario-minimo/",
+            "tag": "Not\u00edcias",
+            "created_at": "2022-04-14T20:49:00"
+        },
+        {
+            "title": "Carolina do Sul, nos EUA, agora pode fazer execu\u00e7\u00f5es por esquadr\u00f5es de fuzilamento",
+            "link": "https://www.cnnbrasil.com.br/internacional/carolina-do-sul-nos-eua-agora-pode-fazer-execucoes-por-esquadroes-de-fuzilamento/",
+            "tag": "Internacional",
+            "created_at": "2022-04-09T04:30:00"
+        },
+        {
+            "title": "Corte Interamericana determina que Peru mantenha Fujimori na pris\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/internacional/corte-interamericana-determina-que-peru-mantenha-fujimori-na-prisao/",
+            "tag": "Internacional",
+            "created_at": "2022-04-08T21:35:00"
+        },
+        {
+            "title": "L\u00edder dos Proud Boys se declara inocente por ataque ao Capit\u00f3lio dos EUA",
+            "link": "https://www.cnnbrasil.com.br/internacional/lider-dos-proud-boys-se-declara-inocente-por-ataque-ao-capitolio-dos-eua/",
+            "tag": "Internacional",
+            "created_at": "2022-04-05T15:11:00"
+        },
+        {
+            "title": "Ator Ezra Miller \u00e9 preso no Hava\u00ed por conduta inapropriada em bar",
+            "link": "https://www.cnnbrasil.com.br/entretenimento/ator-ezra-miller-e-preso-no-havai-por-conduta-inapropriada-em-bar/",
+            "tag": "Entretenimento",
+            "created_at": "2022-03-29T05:15:00"
+        },
+        {
+            "title": "Pol\u00edcia Federal prende contrabandista de migrantes em Minas Gerais",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-federal-prende-contrabandista-de-migrantes-em-minas-gerais/",
+            "tag": "Nacional",
+            "created_at": "2022-03-22T14:25:00"
+        },
+        {
+            "title": "Cr\u00edtico de Putin, Alexei Navalny \u00e9 condenado a nove anos de pris\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/internacional/critico-de-putin-alexei-navalny-e-condenado-a-nove-anos-de-prisao/",
+            "tag": "Internacional",
+            "created_at": "2022-03-22T05:47:00"
+        },
+        {
+            "title": "Dois americanos s\u00e3o libertados da pris\u00e3o na Venezuela, ap\u00f3s conversas com EUA",
+            "link": "https://www.cnnbrasil.com.br/internacional/dois-americanos-sao-libertados-da-prisao-na-venezuela-apos-conversas-com-eua/",
+            "tag": "Internacional",
+            "created_at": "2022-03-09T16:18:00"
+        },
+        {
+            "title": "STF forma maioria contra revoga\u00e7\u00e3o autom\u00e1tica de pris\u00f5es preventivas ap\u00f3s 90 dias",
+            "link": "https://www.cnnbrasil.com.br/nacional/stf-forma-maioria-contra-revogacao-automatica-de-prisoes-preventivas-apos-90-dias/",
+            "tag": "Nacional",
+            "created_at": "2022-03-07T18:59:00"
+        },
+        {
+            "title": "Tr\u00eas jovens brasileiros s\u00e3o presos na Tail\u00e2ndia com mais de 15 quilos de coca\u00edna",
+            "link": "https://www.cnnbrasil.com.br/internacional/tres-jovens-brasileiros-sao-presos-na-tailandia-com-mais-de-15-quilos-de-cocaina/",
+            "tag": "Internacional",
+            "created_at": "2022-02-22T20:05:00"
+        },
+        {
+            "title": "It\u00e1lia emite mandado de pris\u00e3o internacional para Robinho",
+            "link": "https://www.cnnbrasil.com.br/esportes/italia-emite-mandado-de-prisao-internacional-para-robinho/",
+            "tag": "Esportes",
+            "created_at": "2022-02-16T08:55:00"
+        },
+        {
+            "title": "Ator de Hollywood \u00e9 condenado a 20 anos de pris\u00e3o por esquema de pir\u00e2mide",
+            "link": "https://www.cnnbrasil.com.br/economia/ator-de-hollywood-e-condenado-a-20-anos-de-prisao-por-esquema-de-piramide/",
+            "tag": "Economia",
+            "created_at": "2022-02-15T09:00:00"
+        },
+        {
+            "title": "Fachin concede liberdade condicional ao ex-ministro Geddel Vieira Lima",
+            "link": "https://www.cnnbrasil.com.br/politica/fachin-concede-liberdade-condicional-ao-ex-ministro-geddel-vieira-lima/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-02-09T20:14:00"
+        },
+        {
+            "title": "MP quer j\u00fari popular para sargento que matou vizinho negro",
+            "link": "https://www.cnnbrasil.com.br/nacional/mp-quer-juri-popular-para-sargento-que-matou-vizinho-negro/",
+            "tag": "Nacional",
+            "created_at": "2022-02-08T00:36:00"
+        },
+        {
+            "title": "RJ: Justi\u00e7a mant\u00e9m pris\u00e3o de sargento da Marinha que matou vizinho",
+            "link": "https://www.cnnbrasil.com.br/nacional/rj-justica-mantem-prisao-de-sargento-da-marinha-que-matou-vizinho/",
+            "tag": "Nacional",
+            "created_at": "2022-02-04T19:47:00"
+        },
+        {
+            "title": "Opera\u00e7\u00e3o da PRF prende um dos chefes do PCC no interior de SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/operacao-da-prf-prende-um-dos-chefes-do-pcc-no-interior-de-sp/",
+            "tag": "Nacional",
+            "created_at": "2022-01-26T09:53:00"
+        },
+        {
+            "title": "Alexandre de Moraes determina que Roberto Jefferson cumpra pris\u00e3o domiciliar",
+            "link": "https://www.cnnbrasil.com.br/politica/alexandre-de-moraes-determina-que-roberto-jefferson-cumpra-prisao-domiciliar/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-01-24T21:09:00"
+        },
+        {
+            "title": "Justi\u00e7a italiana condena Robinho em \u00faltima inst\u00e2ncia por viol\u00eancia sexual",
+            "link": "https://www.cnnbrasil.com.br/esportes/justica-italiana-condena-robinho-em-ultima-instancia-por-violencia-sexual/",
+            "tag": "Esportes",
+            "created_at": "2022-01-19T12:42:00"
+        },
+        {
+            "title": "Ju\u00edzes devem reavaliar pris\u00f5es com base em reconhecimento fotogr\u00e1fico, diz TJ-RJ",
+            "link": "https://www.cnnbrasil.com.br/nacional/juizes-devem-reavaliar-prisoes-com-base-em-reconhecimento-fotografico-diz-tj-rj/",
+            "tag": "Nacional",
+            "created_at": "2022-01-12T14:40:00"
+        },
+        {
+            "title": "Tr\u00eas homens s\u00e3o condenados \u00e0 pris\u00e3o perp\u00e9tua por assassinar jovem negro nos EUA",
+            "link": "https://www.cnnbrasil.com.br/internacional/tres-homens-sao-condenados-a-prisao-perpetua-por-assassinar-jovem-negro-nos-eua/",
+            "tag": "Internacional",
+            "created_at": "2022-01-07T20:45:00"
+        },
+        {
+            "title": "Metade dos presos e servidores das penitenci\u00e1rias est\u00e1 imunizada contra Covid",
+            "link": "https://www.cnnbrasil.com.br/nacional/so-50-dos-detentos-e-servidores-das-penitenciarias-esta-imunizada-contra-covid/",
+            "tag": "Nacional",
+            "created_at": "2021-12-24T16:00:00"
+        },
+        {
+            "title": "Pol\u00edcia Civil prende nove pessoas por tr\u00e1fico de drogas dentro de pres\u00eddio do RJ",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-civil-prende-nove-pessoas-por-trafico-de-drogas-dentro-de-presidio-do-rj/",
+            "tag": "Nacional",
+            "created_at": "2021-12-23T18:10:00"
+        },
+        {
+            "title": "PF faz nova opera\u00e7\u00e3o no Acre e prende chefe de gabinete do governador",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-faz-nova-operacao-no-acre-e-prende-chefe-de-gabinete-do-governador/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2021-12-22T09:03:00"
+        },
+        {
+            "title": "N\u00famero de jornalistas presos cresce 20% em 2021 e atinge alta hist\u00f3rica, aponta ONG",
+            "link": "https://www.cnnbrasil.com.br/internacional/numero-de-jornalistas-presos-cresce-20-em-2021-e-atinge-alta-historica-aponta-ong/",
+            "tag": "Internacional",
+            "created_at": "2021-12-16T13:45:00"
+        },
+        {
+            "title": "Estado do RJ concentra 81% das pris\u00f5es indevidas por reconhecimento fotogr\u00e1fico",
+            "link": "https://www.cnnbrasil.com.br/nacional/estado-do-rj-concentra-81-das-prisoes-indevidas-por-reconhecimento-fotografico/",
+            "tag": "Nacional",
+            "created_at": "2021-12-09T08:39:00"
+        },
+        {
+            "title": "Comiss\u00e3o decide n\u00e3o votar relat\u00f3rio da PEC da pris\u00e3o em 2\u00aa inst\u00e2ncia",
+            "link": "https://www.cnnbrasil.com.br/politica/comissao-decide-nao-votar-relatorio-da-pec-da-prisao-em-2a-instancia/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2021-12-08T12:33:00"
+        },
+        {
+            "title": "Custo m\u00e9dio de pessoa presa no Brasil \u00e9 de R$ 1,8 mil por m\u00eas, aponta CNJ",
+            "link": "https://www.cnnbrasil.com.br/nacional/custo-medio-de-pessoa-presa-no-brasil-e-de-r-18-mil-por-mes-aponta-cnj/",
+            "tag": "Nacional",
+            "created_at": "2021-12-01T01:59:00"
+        },
+        {
+            "title": "China captura desertor norte-coreano depois de mais de 40 dias de fuga",
+            "link": "https://www.cnnbrasil.com.br/internacional/china-captura-desertor-norte-coreano-depois-de-mais-de-40-dias-de-fuga/",
+            "tag": "Internacional",
+            "created_at": "2021-11-30T11:32:00"
+        },
+        {
+            "title": "Coreia do Norte condena homem \u00e0 morte por distribuir s\u00e9rie \u201cRound 6\u201d no pa\u00eds",
+            "link": "https://www.cnnbrasil.com.br/entretenimento/coreia-do-norte-condena-homem-a-morte-por-distribuir-serie-round-6-no-pais/",
+            "tag": "Entretenimento",
+            "created_at": "2021-11-25T15:53:00"
+        },
+        {
+            "title": "Governador de Oklahoma concede clem\u00eancia a condenado no dia da execu\u00e7\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/internacional/governador-de-oklahoma-concede-clemencia-a-condenado-no-dia-da-execucao/",
+            "tag": "Internacional",
+            "created_at": "2021-11-18T17:24:00"
+        },
+        {
+            "title": "Desertor norte-coreano escapa de pris\u00e3o chinesa e fuga viraliza; veja",
+            "link": "https://www.cnnbrasil.com.br/internacional/desertor-norte-coreano-escapa-de-prisao-chinesa-e-fuga-viraliza-veja/",
+            "tag": "Internacional",
+            "created_at": "2021-10-20T10:55:00"
+        },
+        {
+            "title": "EUA prendem cinco vezes mais negros que brancos em pris\u00f5es estaduais",
+            "link": "https://www.cnnbrasil.com.br/internacional/eua-prendem-cinco-vezes-mais-negros-que-brancos-em-prisoes-estaduais/",
+            "tag": "Internacional",
+            "created_at": "2021-10-13T17:43:00"
+        },
+        {
+            "title": "Motim em pris\u00e3o no Equador deixa 116 mortos; seis foram decapitados",
+            "link": "https://www.cnnbrasil.com.br/internacional/motim-em-prisao-no-equador-deixa-116-mortos-seis-foram-decapitados/",
+            "tag": "Internacional",
+            "created_at": "2021-09-30T01:22:00"
+        },
+        {
+            "title": "Homem foragido por quase 30 anos se entrega \u00e0 pol\u00edcia da Austr\u00e1lia",
+            "link": "https://www.cnnbrasil.com.br/internacional/homem-foragido-por-quase-30-anos-se-entrega-a-policia-da-australia/",
+            "tag": "Internacional",
+            "created_at": "2021-09-16T13:48:00"
+        },
+        {
+            "title": "Defensoria de Minas pede indeniza\u00e7\u00e3o pela morte de 5 em setor LGBTQIA+ de pris\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/nacional/defensoria-de-minas-pede-indenizacao-pela-morte-de-5-em-setor-lgbtqia-de-prisao/",
+            "tag": "Nacional",
+            "created_at": "2021-06-28T20:42:00"
+        },
+        {
+            "title": "Daniel Silveira aguarda reabertura de conta para pagar fian\u00e7a",
+            "link": "https://www.cnnbrasil.com.br/politica/daniel-silveira-aguarda-reabertura-de-conta-para-pagar-fianca/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2021-06-26T11:28:00"
+        },
+        {
+            "title": "Na Nicar\u00e1gua, sete l\u00edderes da oposi\u00e7\u00e3o s\u00e3o presos em menos de uma semana",
+            "link": "https://www.cnnbrasil.com.br/internacional/na-nicaragua-sete-lideres-da-oposicao-sao-presos-em-menos-de-uma-semana/",
+            "tag": "Internacional",
+            "created_at": "2021-06-10T14:15:00"
+        },
+        {
+            "title": "Aos 83 anos (68 deles na pris\u00e3o), Joe Ligon \u00e9 libertado nos Estados Unidos",
+            "link": "https://www.cnnbrasil.com.br/internacional/aos-83-anos-68-deles-na-prisao-joe-ligon-e-libertado-nos-estados-unidos/",
+            "tag": "Internacional",
+            "created_at": "2021-02-18T02:21:00"
+        },
+        {
+            "title": "Defesa afirma que pris\u00e3o do deputado federal Daniel Silveira \u00e9 ilegal",
+            "link": "https://www.cnnbrasil.com.br/politica/defesa-afirma-que-prisao-do-deputado-federal-daniel-silveira-e-ilegal/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2021-02-17T08:40:00"
+        },
+        {
+            "title": "Homem inocente \u00e9 libertado ap\u00f3s 26 anos preso nos Estados Unidos",
+            "link": "https://www.cnnbrasil.com.br/internacional/homem-inocente-e-libertado-apos-26-anos-preso-nos-estados-unidos/",
+            "tag": "Internacional",
+            "created_at": "2021-02-07T17:47:00"
+        },
+        {
+            "title": "Sem-teto condenado \u00e0 pris\u00e3o perp\u00e9tua por vender maconha \u00e9 solto ap\u00f3s 12 anos",
+            "link": "https://www.cnnbrasil.com.br/internacional/sem-teto-condenado-a-prisao-perpetua-por-vender-maconha-e-solto-apos-12-anos/",
+            "tag": "Internacional",
+            "created_at": "2020-12-19T10:46:00"
+        },
+        {
+            "title": "O impacto da Covid-19 nas pris\u00f5es brasileiras",
+            "link": "https://www.cnnbrasil.com.br/politica/o-impacto-da-covid-19-nas-prisoes-brasileiras/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2020-12-18T05:30:00"
+        },
+        {
+            "title": "Delegado \u00e9 preso no DF acusado de manter planta\u00e7\u00e3o de maconha em ch\u00e1cara",
+            "link": "https://www.cnnbrasil.com.br/nacional/delegado-e-preso-no-df-acusado-de-manter-plantacao-de-maconha-em-chacara/",
+            "tag": "Nacional",
+            "created_at": "2020-12-06T17:16:00"
+        },
+        {
+            "title": "CNJ decide que audi\u00eancias de cust\u00f3dia podem ser por meio virtual na pandemia",
+            "link": "https://www.cnnbrasil.com.br/nacional/cnj-decide-que-audiencias-de-custodia-podem-ser-por-meio-virtual-na-pandemia/",
+            "tag": "Nacional",
+            "created_at": "2020-11-24T20:55:00"
+        },
+        {
+            "title": "STF suspende julgamento que pode proibir revistas \u00edntimas em pres\u00eddios",
+            "link": "https://www.cnnbrasil.com.br/politica/stf-suspende-julgamento-que-pode-proibir-revistas-intimas-em-presidios/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2020-10-29T17:12:00"
+        },
+        {
+            "title": "Moro diz que era o \u00fanico do governo a falar sobre pris\u00e3o em segunda inst\u00e2ncia",
+            "link": "https://www.cnnbrasil.com.br/politica/moro-diz-que-era-o-unico-do-governo-a-falar-sobre-prisao-em-segunda-instancia/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2020-10-27T15:01:00"
+        },
+        {
+            "title": "STF concede pris\u00e3o domiciliar a respons\u00e1veis por menores de 12 anos",
+            "link": "https://www.cnnbrasil.com.br/nacional/stf-concede-prisao-domiciliar-a-responsaveis-por-menores-de-12-anos/",
+            "tag": "Nacional",
+            "created_at": "2020-10-20T17:19:00"
+        },
+        {
+            "title": "Ministro do STJ nega habeas corpus coletivo para idosos presos",
+            "link": "https://www.cnnbrasil.com.br/nacional/stj-nega-habeas-corpus-coletivo-para-idosos-presos/",
+            "tag": "Nacional",
+            "created_at": "2020-10-19T19:01:00"
+        },
+        {
+            "title": "Pris\u00e3o preventiva gera m\u00e3o de obra para o crime organizado, diz criminalista",
+            "link": "https://www.cnnbrasil.com.br/politica/prisao-preventiva-gera-mao-de-obra-para-o-crime-organizado-diz-criminalista/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2020-10-14T22:13:00"
+        },
+        {
+            "title": "Ao contr\u00e1rio de Andr\u00e9 do Rap, pintor inocentado ficou 20 meses preso provis\u00f3rio",
+            "link": "https://www.cnnbrasil.com.br/nacional/ao-contrario-de-andre-do-rap-pintor-inocentado-ficou-20-meses-preso-provisorio/",
+            "tag": "Nacional",
+            "created_at": "2020-10-14T13:31:00"
+        },
+        {
+            "title": "Dezessete presos fogem do Complexo da Papuda no DF durante a madrugada",
+            "link": "https://www.cnnbrasil.com.br/nacional/dezessete-presos-fogem-de-penitenciaria-no-df-durante-a-madrugada/",
+            "tag": "Nacional",
+            "created_at": "2020-10-14T07:41:00"
+        },
+        {
+            "title": "Em apelo a Maia, deputados pedem 2\u00aa inst\u00e2ncia contra \u2018oportunismo legislativo\u2019",
+            "link": "https://www.cnnbrasil.com.br/politica/em-apelo-a-maia-deputados-pedem-2-instancia-contra-oportunismo-legislativo/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2020-10-13T08:09:00"
+        },
+        {
+            "title": "Pris\u00f5es superlotadas, rebeli\u00f5es e mortes 28 anos depois do massacre do Carandiru",
+            "link": "https://www.cnnbrasil.com.br/nacional/prisoes-superlotadas-rebelioes-e-mortes-28-anos-depois-do-massacre-do-carandiru/",
+            "tag": "Nacional",
+            "created_at": "2020-10-06T05:30:00"
+        },
+        {
+            "title": "Traficante Elias Maluco \u00e9 encontrado morto em pres\u00eddio",
+            "link": "https://www.cnnbrasil.com.br/nacional/traficante-elias-maluco-e-encontrado-morto-na-penitenciaria-de-catanduvas/",
+            "tag": "Nacional",
+            "created_at": "2020-09-22T18:23:00"
+        },
+        {
+            "title": "Deputados cobram Maia, mas veem press\u00e3o de advogados contra PEC da 2\u00aa inst\u00e2ncia",
+            "link": "https://www.cnnbrasil.com.br/politica/deputados-cobram-maia-mas-veem-pressao-de-advogados-contra-pec-da-2-instancia/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2020-09-08T13:40:00"
+        },
+        {
+            "title": "Mais de 100 presos j\u00e1 morreram por Covid-19 em pres\u00eddios brasileiros",
+            "link": "https://www.cnnbrasil.com.br/nacional/mais-de-100-presos-ja-morreram-por-covid-19-em-presidios-brasileiros/",
+            "tag": "Nacional",
+            "created_at": "2020-08-29T18:53:00"
+        },
+        {
+            "title": "Pastor Everaldo influenciou contratos de hospitais de campanha, diz delator",
+            "link": "https://www.cnnbrasil.com.br/politica/pastor-everaldo-influenciou-contratos-de-hospitais-de-campanha-diz-delator/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2020-08-29T15:05:00"
+        },
+        {
+            "title": "Depen autoriza retorno do atendimento presencial de advogados e visitas virtuais",
+            "link": "https://www.cnnbrasil.com.br/politica/depen-autoriza-retorno-do-atendimento-presencial-de-advogados-e-visitas-virtuais/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2020-08-15T00:07:00"
+        },
+        {
+            "title": "STJ manda soltar ex-secret\u00e1rio de Sa\u00fade de Witzel\u00a0",
+            "link": "https://www.cnnbrasil.com.br/nacional/stj-manda-soltar-ex-secretario-de-saude-de-witzel/",
+            "tag": "Nacional",
+            "created_at": "2020-08-06T19:21:00"
+        },
+        {
+            "title": "Ex-premi\u00ea da Mal\u00e1sia \u00e9 condenado a 12 anos de pris\u00e3o acusado de corrup\u00e7\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/internacional/ex-premie-da-malasia-e-condenado-a-12-anos-de-prisao-acusado-de-corrupcao/",
+            "tag": "Internacional",
+            "created_at": "2020-07-28T14:11:00"
+        },
+        {
+            "title": "O Grande Debate: pres\u00eddios devem ser controlados por empresas?",
+            "link": "https://www.cnnbrasil.com.br/nacional/o-grande-debate-presidios-devem-ser-controlados-por-empresas/",
+            "tag": "Nacional",
+            "created_at": "2020-07-27T22:21:00"
+        },
+        {
+            "title": "Covid-19: Defensoria P\u00fablica vai ao STF para soltar todos os idosos presos em SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/covid-19-defensoria-publica-vai-ao-stf-para-soltar-todos-os-idosos-presos-em-sp/",
+            "tag": "Nacional",
+            "created_at": "2020-07-27T21:02:00"
+        },
+        {
+            "title": "Justi\u00e7a do DF prorroga pris\u00e3o tempor\u00e1ria de amigo de estudante picado por Naja",
+            "link": "https://www.cnnbrasil.com.br/nacional/justica-do-df-prorroga-prisao-temporaria-de-amigo-de-estudante-picado-por-naja/",
+            "tag": "Nacional",
+            "created_at": "2020-07-26T14:36:00"
+        },
+        {
+            "title": "Em um m\u00eas, casos de Covid-19 no sistema penitenci\u00e1rio aumentam quase 100%",
+            "link": "https://www.cnnbrasil.com.br/nacional/em-um-mes-casos-de-covid-19-no-sistema-penitenciario-aumentam-quase-100/",
+            "tag": "Nacional",
+            "created_at": "2020-07-23T20:19:00"
+        },
+        {
+            "title": "STJ nega liberdade a presos que pertencem a grupos de risco para Covid-19",
+            "link": "https://www.cnnbrasil.com.br/nacional/stj-nega-liberdade-a-presos-que-pertencem-a-grupos-de-risco-para-covid-19/",
+            "tag": "Nacional",
+            "created_at": "2020-07-23T15:48:00"
+        },
+        {
+            "title": "Ap\u00f3s Queiroz e Geddel, Defensoria pede soltura de presos em grupo de risco",
+            "link": "https://www.cnnbrasil.com.br/politica/apos-queiroz-e-geddel-defensoria-pede-soltura-de-presos-em-grupo-de-risco/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2020-07-18T13:04:00"
+        },
+        {
+            "title": "Preso que aguardava julgamento em Minas Gerais morre por Covid-19",
+            "link": "https://www.cnnbrasil.com.br/nacional/homem-preso-que-aguardava-julgamento-em-minas-gerais-morre-por-covid-19/",
+            "tag": "Nacional",
+            "created_at": "2020-07-10T10:58:00"
+        }
+    ]
+}

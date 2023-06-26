@@ -1,0 +1,1348 @@
+{
+    "headlines": [
+        {
+            "title": "Apesar de falas de Rui Costa, PF acredita que Lula manter\u00e1 seguran\u00e7a pessoal com civis",
+            "link": "https://www.cnnbrasil.com.br/politica/apesar-de-falas-de-rui-costa-pf-acredita-que-lula-mantera-seguranca-pessoal-com-civis/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-06-25T04:00:00"
+        },
+        {
+            "title": "PF faz opera\u00e7\u00e3o contra madeireiros e l\u00edderes ind\u00edgenas no Xingu; preju\u00edzo estimado \u00e9 de R$ 1,7 bi",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-faz-operacao-contra-madeireiros-e-lideres-indigenas-no-xingu-prejuizo-estimado-e-de-17-bi-2/",
+            "tag": "Nacional",
+            "created_at": "2023-06-23T22:45:00"
+        },
+        {
+            "title": "Diretores do Google dizem \u00e0 PF que campanha sobre PL das Fake News buscou fomentar o debate",
+            "link": "https://www.cnnbrasil.com.br/politica/diretores-do-google-dizem-a-pf-que-campanha-sobre-pl-das-fake-news-buscou-fomentar-o-debate/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-06-21T18:08:00"
+        },
+        {
+            "title": "Rui Costa diz que GSI chefiar\u00e1 equipe h\u00edbrida de seguran\u00e7a de Lula",
+            "link": "https://www.cnnbrasil.com.br/politica/rui-costa-diz-que-gsi-chefiara-equipe-hibrida-de-seguranca-de-lula/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-06-20T15:54:00"
+        },
+        {
+            "title": "Ex\u00e9rcito avalia individualmente mensagens de militares, mas quer evitar \u201cca\u00e7a \u00e0s bruxas\u201d",
+            "link": "https://www.cnnbrasil.com.br/politica/exercito-avalia-individualmente-mensagens-de-militares-mas-quer-evitar-caca-as-bruxas/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-06-20T06:18:00"
+        },
+        {
+            "title": "PF investiga destino de duas toneladas de maconha apreendidas em dep\u00f3sito no MS",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-investiga-destino-de-duas-toneladas-de-maconha-apreendidas-em-deposito-no-ms/",
+            "tag": "Nacional",
+            "created_at": "2023-06-18T14:48:00"
+        },
+        {
+            "title": "PF diz que Mauro Cid buscou suporte jur\u00eddico para golpe de Estado",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-diz-que-mauro-cid-buscou-suporte-juridico-para-golpe-de-estado/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-06-16T16:59:00"
+        },
+        {
+            "title": "STF anula apreens\u00e3o de 695 quilos de coca\u00edna sem mandado judicial de busca",
+            "link": "https://www.cnnbrasil.com.br/nacional/stf-anula-apreensao-de-695-quilos-de-cocaina-sem-mandado-judicial-de-busca/",
+            "tag": "Nacional",
+            "created_at": "2023-06-07T19:13:00"
+        },
+        {
+            "title": "PF encontra mensagens sobre GLO e estudos de golpe e intima ex-assessores de Bolsonaro para novos depoimentos",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-encontra-mensagens-sobre-glo-e-estudos-de-golpe-e-intima-ex-assessores-de-bolsonaro-para-novos-depoimentos/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-06-07T18:28:00"
+        },
+        {
+            "title": "Comiss\u00e3o de \u00c9tica da Presid\u00eancia abre novo processo contra Ricardo Salles",
+            "link": "https://www.cnnbrasil.com.br/politica/comissao-de-etica-da-presidencia-abre-novo-processo-contra-ricardo-salles-2/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-06-05T18:45:00"
+        },
+        {
+            "title": "Vi\u00fava de indigenista Bruno Pereira acredita que marido foi morto pelo crime organizado",
+            "link": "https://www.cnnbrasil.com.br/nacional/viuva-de-indigenista-bruno-pereira-acredita-que-marido-foi-morto-pelo-crime-organizado/",
+            "tag": "Nacional",
+            "created_at": "2023-06-05T14:50:00"
+        },
+        {
+            "title": "PF indicia novamente homem apontado como mandante das mortes de Bruno Pereira e Dom Phillips",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-indicia-novamente-homem-apontado-como-mandante-das-mortes-de-bruno-pereira-e-dom-phillips/",
+            "tag": "Nacional",
+            "created_at": "2023-06-05T14:33:00"
+        },
+        {
+            "title": "TCU apontou falhas \u201cextremamente graves\u201d em compra de kits de rob\u00f3tica com or\u00e7amento secreto em Alagoas",
+            "link": "https://www.cnnbrasil.com.br/politica/tcu-apontou-falhas-extremamente-graves-em-compra-de-kits-de-robotica-com-orcamento-secreto-em-alagoas/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-06-01T11:20:00"
+        },
+        {
+            "title": "Dallagnol vai depor como investigado por falas que colocam em xeque decis\u00e3o de ministros do TSE",
+            "link": "https://www.cnnbrasil.com.br/politica/dallagnol-vai-depor-como-investigado-por-falas-que-colocam-em-xeque-decisao-de-ministros-do-tse/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-30T22:47:00"
+        },
+        {
+            "title": "Pol\u00edcia Federal intima Deltan Dallagnol para prestar depoimento",
+            "link": "https://www.cnnbrasil.com.br/politica/policia-federal-intima-deltan-dallagnol-para-prestar-depoimento/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-30T18:28:00"
+        },
+        {
+            "title": "PF faz opera\u00e7\u00e3o com apoio da Febraban contra fraudes em contas eletr\u00f4nicas",
+            "link": "https://www.cnnbrasil.com.br/economia/pf-faz-operacao-com-apoio-da-febraban-contra-fraudes-em-contas-eletronicas/",
+            "tag": "Economia",
+            "created_at": "2023-05-30T14:09:00"
+        },
+        {
+            "title": "Em opera\u00e7\u00e3o, PF e Ibama destroem ponte que dava acesso de garimpeiros ilegais \u00e0 terra ind\u00edgena",
+            "link": "https://www.cnnbrasil.com.br/nacional/em-operacao-pf-e-ibama-destroem-ponte-que-dava-acesso-de-garimpeiros-a-terra-indigena/",
+            "tag": "Nacional",
+            "created_at": "2023-05-30T13:33:00"
+        },
+        {
+            "title": "PF prepara esquema especial de seguran\u00e7a de presidentes sul-americanos que encontrar\u00e3o Lula",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-prepara-esquema-especial-de-seguranca-de-presidentes-sul-americanos-que-encontrarao-lula/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-30T04:00:00"
+        },
+        {
+            "title": "Ex-chefe da PF na Bahia diz que Torres pediu opera\u00e7\u00e3o conjunta com PRF, mas negou porque \u201cachava inadequado\u201d",
+            "link": "https://www.cnnbrasil.com.br/politica/ex-chefe-da-pf-na-bahia-diz-que-torres-pediu-operacao-conjunta-com-prf-mas-negou-porque-achava-inadequado/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-26T04:00:00"
+        },
+        {
+            "title": "Lula decidir\u00e1 se PF deve assumir compet\u00eancias do Ex\u00e9rcito sobre registro de armas",
+            "link": "https://www.cnnbrasil.com.br/nacional/novo-decreto-preve-que-pf-assuma-competencias-do-exercito-sobre-registro-de-armas/",
+            "tag": "Nacional",
+            "created_at": "2023-05-24T16:49:00"
+        },
+        {
+            "title": "Aliados de Bolsonaro minimizam sil\u00eancio de Cid e descartam dela\u00e7\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/politica/aliados-de-bolsonaro-minimizam-silencio-de-cid-e-descartam-delacao/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-18T17:01:00"
+        },
+        {
+            "title": "Em sil\u00eancio durante depoimento, Cid alegou falta de acesso \u00e0 per\u00edcia de celulares apreendidos pela PF",
+            "link": "https://www.cnnbrasil.com.br/politica/em-silencio-durante-depoimento-cid-alegou-falta-de-acesso-a-pericia-de-celulares-apreendidos-pela-pf/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-18T16:33:00"
+        },
+        {
+            "title": "CNN tem acesso a depoimento de Bolsonaro \u00e0 PF sobre fraude em cart\u00e3o de vacina; leia \u00edntegra",
+            "link": "https://www.cnnbrasil.com.br/politica/cnn-tem-acesso-a-depoimento-de-bolsonaro-a-pf-sobre-fraude-em-cartao-de-vacina-leia-integra/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-16T18:45:00"
+        },
+        {
+            "title": "Bolsonaro dep\u00f5e \u00e0 PF nesta ter\u00e7a (16), \u00e0s 14h, sobre supostas fraudes nos cart\u00f5es de vacina",
+            "link": "https://www.cnnbrasil.com.br/politica/bolsonaro-depoe-a-pf-nesta-terca-16-sobre-supostas-fraudes-nos-cartoes-de-vacina/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-16T04:00:00"
+        },
+        {
+            "title": "Senhas de Anderson Torres repassadas \u00e0 PF estariam suspensas por falta de pagamento ao provedor",
+            "link": "https://www.cnnbrasil.com.br/politica/senhas-de-anderson-torres-repassadas-a-pf-estariam-suspensas-por-falta-de-pagamento-ao-provedor/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-15T22:16:00"
+        },
+        {
+            "title": "Bolsonaro dever\u00e1 depor \u00e0 PF na pr\u00f3xima ter\u00e7a (16) sobre caso do cart\u00e3o de vacina",
+            "link": "https://www.cnnbrasil.com.br/politica/bolsonaro-devera-depor-a-pf-na-proxima-terca-16-sobre-caso-do-cartao-de-vacina/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-10T19:01:00"
+        },
+        {
+            "title": "Minist\u00e9rio da Justi\u00e7a manda Pol\u00edcia Federal instaurar inqu\u00e9rito sobre m\u00e1fia das apostas",
+            "link": "https://www.cnnbrasil.com.br/nacional/ministerio-da-justica-pede-que-pf-abra-inquerito-sobre-manipulacoes-em-jogos/",
+            "tag": "Nacional",
+            "created_at": "2023-05-10T18:15:00"
+        },
+        {
+            "title": "Torres diz \u00e0 PF que n\u00e3o houve ordem para PRF agir de forma \u201cmais contundente\u201d no Nordeste",
+            "link": "https://www.cnnbrasil.com.br/politica/torres-diz-a-pf-que-nao-houve-ordem-para-prf-agir-de-forma-mais-contundente-no-nordeste/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-10T16:28:00"
+        },
+        {
+            "title": "Defesa de Mauro Cid pede revoga\u00e7\u00e3o de pris\u00e3o preventiva",
+            "link": "https://www.cnnbrasil.com.br/politica/defesa-de-mauro-cid-pede-revogacao-de-prisao-preventiva/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-09T16:50:00"
+        },
+        {
+            "title": "N\u00e3o tenho d\u00favida da inoc\u00eancia de Bolsonaro, diz Ciro Nogueira \u00e0 CNN",
+            "link": "https://www.cnnbrasil.com.br/politica/nao-tenho-duvida-da-inocencia-de-bolsonaro-diz-ciro-nogueira-a-cnn/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-08T20:11:00"
+        },
+        {
+            "title": "Documentos comprovam viagem de Torres \u00e0 Bahia, em voo da FAB, e diagn\u00f3stico sobre elei\u00e7\u00f5es",
+            "link": "https://www.cnnbrasil.com.br/politica/documentos-comprovam-viagem-de-torres-a-bahia-em-voo-da-fab-e-plano-sobre-operacao-da-prf-nas-eleicoes/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-08T04:00:00"
+        },
+        {
+            "title": "Anderson Torres dep\u00f5e \u00e0 PF nesta segunda (8) sobre blitze nas elei\u00e7\u00f5es 2022",
+            "link": "https://www.cnnbrasil.com.br/politica/anderson-torres-depoe-a-pf-nesta-segunda-8-sobre-blitze-nas-eleicoes-2022/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-08T04:00:00"
+        },
+        {
+            "title": "Delegados da PF que disseram \u201cn\u00e3o\u201d a Torres ganharam cargos de chefia no governo Lula",
+            "link": "https://www.cnnbrasil.com.br/politica/delegados-da-pf-que-disseram-nao-a-torres-ganharam-cargos-de-chefia-no-governo-lula/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-08T04:00:00"
+        },
+        {
+            "title": "Dados de celular de Bolsonaro podem ser usados em outros inqu\u00e9ritos, dizem advogados",
+            "link": "https://www.cnnbrasil.com.br/politica/dados-de-celular-de-bolsonaro-podem-ser-usados-em-outros-inqueritos-dizem-advogados/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-07T11:30:00"
+        },
+        {
+            "title": "M\u00e9dico investigado por fraude em registros de vacina seguir\u00e1 trabalhando at\u00e9 fim das investiga\u00e7\u00f5es, diz hospital",
+            "link": "https://www.cnnbrasil.com.br/politica/medico-investigado-por-fraude-em-registros-de-vacina-seguira-trabalhando-ate-fim-das-investigacoes-diz-hospital/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-05T19:11:00"
+        },
+        {
+            "title": "MPF investiga caso de racismo contra passageira expulsa de aeronave da Gol na BA",
+            "link": "https://www.cnnbrasil.com.br/nacional/mpf-investiga-caso-de-racismo-contra-passageira-expulsa-de-aeronave-da-gol-na-ba/",
+            "tag": "Nacional",
+            "created_at": "2023-05-05T18:13:00"
+        },
+        {
+            "title": "Caso Marielle: PF ouvir\u00e1 ex-militar que disse saber quem \u00e9 o mandante da morte da vereadora",
+            "link": "https://www.cnnbrasil.com.br/politica/caso-marielle-pf-ouvira-ex-militar-que-disse-saber-quem-e-o-mandante-da-morte-da-vereadora/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-05T12:19:00"
+        },
+        {
+            "title": "Pessoas com mandado de pris\u00e3o em aberto registraram armas, aponta PF",
+            "link": "https://www.cnnbrasil.com.br/nacional/pessoas-com-mandado-de-prisao-em-aberto-registraram-armas-aponta-pf/",
+            "tag": "Nacional",
+            "created_at": "2023-05-04T11:19:00"
+        },
+        {
+            "title": "Veja o que se sabe sobre a investiga\u00e7\u00e3o de falsifica\u00e7\u00f5es em registro de vacinas",
+            "link": "https://www.cnnbrasil.com.br/politica/veja-o-que-se-sabe-sobre-a-investigacao-de-falsificacoes-em-registro-de-vacinas/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-03T22:53:00"
+        },
+        {
+            "title": "Defesa de Bolsonaro deixa em aberto data de depoimento \u00e0 PF sobre registro de vacina",
+            "link": "https://www.cnnbrasil.com.br/politica/defesa-de-bolsonaro-deixa-em-aberto-data-de-depoimento-a-pf-sobre-registro-de-vacina/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-03T21:23:00"
+        },
+        {
+            "title": "Wajngarten n\u00e3o descarta hip\u00f3tese de hackeamento de registro de vacina de Bolsonaro",
+            "link": "https://www.cnnbrasil.com.br/politica/wanjgarten-nao-descarta-hipotese-de-hackeamento-de-registro-de-vacina-de-bolsonaro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-03T19:11:00"
+        },
+        {
+            "title": "EUA dizem que era necess\u00e1rio estar vacinado quando Bolsonaro foi ao pa\u00eds",
+            "link": "https://www.cnnbrasil.com.br/politica/eua-dizem-que-era-necessario-estar-vacinado-quando-bolsonaro-foi-ao-pais/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-03T17:40:00"
+        },
+        {
+            "title": "PF detalha ind\u00edcios de fraudes em cart\u00f5es de vacina\u00e7\u00e3o de Bolsonaro e assessores",
+            "link": "https://www.cnnbrasil.com.br/politica/cnn-tem-acesso-a-decisao-que-prendeu-mauro-cid-ajudante-de-ordens-de-bolsonaro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-03T15:13:00"
+        },
+        {
+            "title": "Saiba quem \u00e9 Gutemberg Reis, deputado do MDB alvo da Opera\u00e7\u00e3o Venire",
+            "link": "https://www.cnnbrasil.com.br/politica/saiba-quem-e-gutemberg-reis-deputado-do-mdb-alvo-da-operacao-venire/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-03T14:56:00"
+        },
+        {
+            "title": "Dois Lados: Deputados debatem investiga\u00e7\u00e3o de fraude no cart\u00e3o de vacina\u00e7\u00e3o de Bolsonaro",
+            "link": "https://www.cnnbrasil.com.br/politica/dois-lados-deputados-debatem-investigacao-de-fraude-no-cartao-de-vacinacao-de-bolsonaro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-05-03T13:15:00"
+        },
+        {
+            "title": "Cerca de 80% dos garimpeiros j\u00e1 deixaram terras ind\u00edgenas, diz Marina Silva",
+            "link": "https://www.cnnbrasil.com.br/nacional/cerca-de-80-dos-garimpeiros-ja-deixaram-terras-indigenas-diz-marina-silva/",
+            "tag": "Nacional",
+            "created_at": "2023-05-01T20:27:00"
+        },
+        {
+            "title": "Em meio a julgamentos no STF, 293 pessoas seguem presas pelos atos de 8 de janeiro",
+            "link": "https://www.cnnbrasil.com.br/politica/em-meio-a-julgamentos-no-stf-293-pessoas-seguem-presas-pelos-atos-de-8-de-janeiro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-04-30T04:00:00"
+        },
+        {
+            "title": "Telegram recorre de suspens\u00e3o no Brasil ap\u00f3s n\u00e3o entregar dados de grupos neonazistas; entenda",
+            "link": "https://www.cnnbrasil.com.br/nacional/telegram-recorre-de-suspensao-no-brasil-apos-nao-entregar-dados-de-grupos-neonazistas-entenda/",
+            "tag": "Nacional",
+            "created_at": "2023-04-28T18:15:00"
+        },
+        {
+            "title": "Empres\u00e1rio Thiago Brennand deve chegar ao Brasil neste s\u00e1bado (29)",
+            "link": "https://www.cnnbrasil.com.br/nacional/empresario-thiago-brennand-chega-ao-brasil-neste-sabado-29/",
+            "tag": "Nacional",
+            "created_at": "2023-04-28T16:55:00"
+        },
+        {
+            "title": "\u201cSe eu estivesse no Brasil, j\u00e1 estaria assassinado\u201d, diz delegado da PF amea\u00e7ado pelo PCC",
+            "link": "https://www.cnnbrasil.com.br/nacional/se-eu-estivesse-no-brasil-ja-estaria-assassinado-diz-delegado-da-pf-ameacado-pelo-pcc/",
+            "tag": "Nacional",
+            "created_at": "2023-04-28T16:15:00"
+        },
+        {
+            "title": "PF intima coronel Cid e ex-chefe da Receita para novos depoimentos sobre caso das joias sauditas",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-intima-coronel-cid-e-ex-chefe-da-receita-para-novos-depoimentos-sobre-caso-das-joias-sauditas/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-04-28T15:44:00"
+        },
+        {
+            "title": "PF manda delegado amea\u00e7ado pelo PCC voltar ao Brasil e gera discuss\u00f5es na corpora\u00e7\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-manda-delegado-ameacado-pelo-pcc-voltar-ao-brasil-e-gera-discussoes-na-corporacao/",
+            "tag": "Nacional",
+            "created_at": "2023-04-28T15:41:00"
+        },
+        {
+            "title": "Governo dos Emirados \u00c1rabes autoriza extradi\u00e7\u00e3o de Thiago Brennand; PF deve viajar ao pa\u00eds",
+            "link": "https://www.cnnbrasil.com.br/nacional/governo-dos-emirados-arabes-autoriza-extradicao-de-thiago-brennand-pf-deve-viajar-ao-pais/",
+            "tag": "Nacional",
+            "created_at": "2023-04-26T12:10:00"
+        },
+        {
+            "title": "Opera\u00e7\u00e3o da PF mira em grupo que lucrou R$ 30 milh\u00f5es com extra\u00e7\u00e3o ilegal de ouro",
+            "link": "https://www.cnnbrasil.com.br/nacional/operacao-da-pf-mira-em-grupo-que-lucrou-r-30-milhoes-com-extracao-ilegal-de-ouro/",
+            "tag": "Nacional",
+            "created_at": "2023-04-25T14:52:00"
+        },
+        {
+            "title": "PF suspende e afasta delegado que prendeu ex-ministro Milton Ribeiro",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-suspende-e-afasta-delegado-que-prendeu-ex-ministro-milton-ribeiro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-04-24T17:53:00"
+        },
+        {
+            "title": "PF adia depoimento de Anderson Torres por \u201cestado de sa\u00fade delicado\u201d",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-adia-depoimento-de-anderson-torres-por-estado-de-saude-delicado/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-04-24T11:29:00"
+        },
+        {
+            "title": "O que \u00e9 o processo de extradi\u00e7\u00e3o, que deve obrigar Thiago Brennand a voltar ao Brasil",
+            "link": "https://www.cnnbrasil.com.br/nacional/o-que-e-o-processo-de-extradicao-que-deve-obrigar-thiago-brennand-a-voltar-ao-brasil/",
+            "tag": "Nacional",
+            "created_at": "2023-04-18T16:24:00"
+        },
+        {
+            "title": "Preso pela PF por tr\u00e1fico internacional de drogas ingeriu 65 c\u00e1psulas contendo coca\u00edna",
+            "link": "https://www.cnnbrasil.com.br/nacional/preso-pela-pf-por-trafico-internacional-de-drogas-ingeriu-65-capsulas-contendo-cocaina/",
+            "tag": "Nacional",
+            "created_at": "2023-04-18T16:24:00"
+        },
+        {
+            "title": "PF apreendeu 4,2 toneladas de coca\u00edna no porto de Santos neste ano",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-apreendeu-42-toneladas-de-cocaina-no-porto-de-santos-neste-ano/",
+            "tag": "Nacional",
+            "created_at": "2023-04-18T04:00:00"
+        },
+        {
+            "title": "Veja o que se sabe sobre o caso do empres\u00e1rio Thiago Brennand",
+            "link": "https://www.cnnbrasil.com.br/nacional/o-que-sabemos-sobre-o-caso-do-empresario-thiago-brennand/",
+            "tag": "Nacional",
+            "created_at": "2023-04-17T19:59:00"
+        },
+        {
+            "title": "Empres\u00e1rio Thiago Brennand \u00e9 preso nos Emirados \u00c1rabes; policiais viajam na ter\u00e7a-feira para extradit\u00e1-lo",
+            "link": "https://www.cnnbrasil.com.br/nacional/empresario-thiago-brennand-e-preso-nos-emirados-arabes-policiais-viajam-na-terca-feira-para-extradita-lo/",
+            "tag": "Nacional",
+            "created_at": "2023-04-17T17:53:00"
+        },
+        {
+            "title": "MPF apura falhas na seguran\u00e7a do Aeroporto Internacional de S\u00e3o Paulo",
+            "link": "https://www.cnnbrasil.com.br/nacional/mpf-apura-falhas-na-seguranca-do-aeroporto-internacional-de-sao-paulo/",
+            "tag": "Nacional",
+            "created_at": "2023-04-13T16:57:00"
+        },
+        {
+            "title": "De 89 militares intimados, 8 n\u00e3o prestaram depoimento sobre atos do 8 de janeiro",
+            "link": "https://www.cnnbrasil.com.br/politica/de-89-militares-intimados-8-nao-prestaram-depoimento-sobre-atos-do-8-de-janeiro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-04-12T19:34:00"
+        },
+        {
+            "title": "PM prende homem com R$ 1 milh\u00e3o em coca\u00edna na Cracol\u00e2ndia",
+            "link": "https://www.cnnbrasil.com.br/nacional/pm-prende-homem-com-um-milhao-de-reais-em-cocaina-na-cracolandia/",
+            "tag": "Nacional",
+            "created_at": "2023-04-12T19:12:00"
+        },
+        {
+            "title": "C\u00e3o encontra 236 kg de coca\u00edna em carga no Porto de Santos",
+            "link": "https://www.cnnbrasil.com.br/nacional/cao-encontra-236-kg-de-cocaina-em-carga-no-porto-de-santos/",
+            "tag": "Nacional",
+            "created_at": "2023-04-11T20:47:00"
+        },
+        {
+            "title": "Quadrilha fortemente armada promove \u201cnovo canga\u00e7o\u2019 no interior do Mato Grosso",
+            "link": "https://www.cnnbrasil.com.br/nacional/quadrilha-fortemente-armada-promove-novo-cangaco-no-interior-do-mato-grosso/",
+            "tag": "Nacional",
+            "created_at": "2023-04-11T20:32:00"
+        },
+        {
+            "title": "Cerca de 80 militares ir\u00e3o depor \u00e0 PF sobre atos de 8 de janeiro",
+            "link": "https://www.cnnbrasil.com.br/politica/cerca-de-80-militares-irao-depor-a-pf-sobre-atos-de-8-de-janeiro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-04-10T20:26:00"
+        },
+        {
+            "title": "Prepara\u00e7\u00e3o de Bolsonaro para depoimento reuniu time de advogados por dois dias\u00a0",
+            "link": "https://www.cnnbrasil.com.br/nacional/preparacao-de-bolsonaro-para-depoimento-reuniu-time-de-advogados-por-dois-dias/",
+            "tag": "Nacional",
+            "created_at": "2023-04-05T17:00:00"
+        },
+        {
+            "title": "Bolsonaro dep\u00f5e \u00e0 Pol\u00edcia Federal sobre joias",
+            "link": "https://www.cnnbrasil.com.br/politica/bolsonaro-depoimento-joias-pf/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-04-05T13:49:00"
+        },
+        {
+            "title": "Anderson Torres pode ter negociado bloqueio de rodovias nas elei\u00e7\u00f5es",
+            "link": "https://www.cnnbrasil.com.br/nacional/anderson-torres-pode-ter-negociado-bloqueio-de-rodovias-nas-eleicoes/",
+            "tag": "Nacional",
+            "created_at": "2023-04-03T18:23:00"
+        },
+        {
+            "title": "Painel CNN: deputados debatem se houve omiss\u00e3o do governo nos ataques de 8 de janeiro",
+            "link": "https://www.cnnbrasil.com.br/politica/painel-cnn-deputados-debatem-se-houve-omissao-do-governo-nos-ataques-de-8-de-janeiro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-04-01T16:47:00"
+        },
+        {
+            "title": "Moraes envia per\u00edcia da minuta ao TSE e corregedor inclui em a\u00e7\u00e3o contra Bolsonaro",
+            "link": "https://www.cnnbrasil.com.br/politica/moraes-envia-pericia-da-minuta-ao-tse-e-corregedor-inclui-em-acao-contra-bolsonaro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-04-01T14:28:00"
+        },
+        {
+            "title": "Paraguaia procurada por tr\u00e1fico de drogas \u00e9 presa no Mato Grosso do Sul",
+            "link": "https://www.cnnbrasil.com.br/nacional/paraguaia-procurada-por-trafico-de-drogas-e-presa-no-mato-grosso-do-sul/",
+            "tag": "Nacional",
+            "created_at": "2023-03-31T15:50:00"
+        },
+        {
+            "title": "Joias para Bolsonaro valem mais que seis anos de apreens\u00f5es em Guarulhos",
+            "link": "https://www.cnnbrasil.com.br/politica/joias-para-bolsonaro-valem-mais-que-seis-anos-de-apreensoes-em-guarulhos/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-03-30T17:13:00"
+        },
+        {
+            "title": "Volta de Bolsonaro: Dino diz que PF atuar\u00e1 dentro de aeroporto, mas descarta seguran\u00e7a em \u00e1rea externa",
+            "link": "https://www.cnnbrasil.com.br/politica/volta-de-bolsonaro-dino-diz-que-pf-atuara-dentro-de-aeroporto-mas-descarta-seguranca-em-area-externa/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-03-28T17:27:00"
+        },
+        {
+            "title": "Valdemar pede a Dino e PF refor\u00e7o na seguran\u00e7a para volta de Bolsonaro",
+            "link": "https://www.cnnbrasil.com.br/politica/valdemar-pede-a-dino-e-pf-reforco-na-seguranca-para-volta-de-bolsonaro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-03-27T18:00:00"
+        },
+        {
+            "title": "Homem que tramou ataque a Moro \u00e9 lideran\u00e7a do PCC e levava vida de luxo, diz PF",
+            "link": "https://www.cnnbrasil.com.br/nacional/homem-que-tramou-ataque-a-moro-e-lideranca-do-pcc-e-levava-vida-de-luxo-diz-pf/",
+            "tag": "Nacional",
+            "created_at": "2023-03-23T21:37:00"
+        },
+        {
+            "title": "Pol\u00edcia Federal vai apurar casos de viol\u00eancia pol\u00edtica de g\u00eanero",
+            "link": "https://www.cnnbrasil.com.br/politica/policia-federal-vai-apurar-casos-de-violencia-politica-de-genero/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-03-20T18:04:00"
+        },
+        {
+            "title": "A pedido de Bolsonaro, TSE solicita a Moraes dados de per\u00edcia na minuta do golpe",
+            "link": "https://www.cnnbrasil.com.br/politica/a-pedido-de-bolsonaro-tse-solicita-a-moraes-dados-de-pericia-na-minuta-do-golpe/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-03-20T11:53:00"
+        },
+        {
+            "title": "Homem \u00e9 preso com 50 kg de maconha no interior de SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/homem-e-preso-com-50-kg-de-maconha-no-interior-de-sp/",
+            "tag": "Nacional",
+            "created_at": "2023-03-16T16:42:00"
+        },
+        {
+            "title": "PF abre inqu\u00e9rito para apurar poss\u00edvel espionagem da Abin",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-abre-inquerito-para-apurar-possivel-espionagem-da-abin/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-03-16T16:34:00"
+        },
+        {
+            "title": "No Rio de Janeiro, PF apreende cerca de 1.000 armas em lojas irregulares",
+            "link": "https://www.cnnbrasil.com.br/nacional/no-rio-de-janeiro-pf-apreende-cerca-de-1-000-armas-em-lojas-irregulares/",
+            "tag": "Nacional",
+            "created_at": "2023-03-15T20:39:00"
+        },
+        {
+            "title": "Adolescente desaparecida \u00e9 resgatada em ponto de prostitui\u00e7\u00e3o no territ\u00f3rio Yanomami",
+            "link": "https://www.cnnbrasil.com.br/nacional/adolescente-desaparecida-e-resgatada-em-ponto-de-prostituicao-no-territorio-yanomami/",
+            "tag": "Nacional",
+            "created_at": "2023-03-15T17:46:00"
+        },
+        {
+            "title": "Ex-ministro diz \u00e0 PF que desconhecia conte\u00fado da caixa presenteada por sauditas; leia detalhes do depoimento",
+            "link": "https://www.cnnbrasil.com.br/politica/ex-ministro-diz-a-pf-que-desconhecia-conteudo-da-caixa-presenteada-por-sauditas-leia-detalhes-do-depoimento/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-03-14T20:15:00"
+        },
+        {
+            "title": "PF planeja pedir quebra de sigilo telef\u00f4nico do ex-ministro Bento Albuquerque",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-planeja-pedir-quebra-de-sigilo-telefonico-do-ex-ministro-bento-albuquerque/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-03-14T17:47:00"
+        },
+        {
+            "title": "Veja como \u00e9 a rotina de Anderson Torres na pris\u00e3o dois meses ap\u00f3s deten\u00e7\u00e3o em aeroporto",
+            "link": "https://www.cnnbrasil.com.br/politica/veja-como-e-a-rotina-de-anderson-torres-na-prisao-dois-meses-apos-detencao-em-aeroporto/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-03-14T10:49:00"
+        },
+        {
+            "title": "PF desmonta acampamento em comunidade dominada por garimpeiros na terra Yanomami",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-desmonta-acampamento-em-comunidade-dominada-por-garimpeiros-na-terra-yanomami/",
+            "tag": "Nacional",
+            "created_at": "2023-03-12T20:46:00"
+        },
+        {
+            "title": "No Rio, PF prende russo procurado pela Interpol h\u00e1 dez anos",
+            "link": "https://www.cnnbrasil.com.br/nacional/no-rio-pf-prende-russo-procurado-pela-interpol-ha-dez-anos/",
+            "tag": "Nacional",
+            "created_at": "2023-03-10T15:29:00"
+        },
+        {
+            "title": "PF faz megaopera\u00e7\u00e3o contra venda ilegal de lagosta em tr\u00eas estados do litoral nordestino",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-faz-megaoperacao-contra-venda-ilegal-de-lagosta-em-tres-estados-do-litoral-nordestino/",
+            "tag": "Nacional",
+            "created_at": "2023-03-01T08:15:00"
+        },
+        {
+            "title": "Homem apontado como espi\u00e3o russo \u00e9 transferido para pres\u00eddio federal em Bras\u00edlia",
+            "link": "https://www.cnnbrasil.com.br/internacional/homem-apontado-como-espiao-russo-e-transferido-para-presidio-federal-em-brasilia/",
+            "tag": "Internacional",
+            "created_at": "2023-02-25T18:29:00"
+        },
+        {
+            "title": "Zambelli diz n\u00e3o ter medo de pris\u00e3o, mas que dorme pensando se a PF vai bater em sua porta",
+            "link": "https://www.cnnbrasil.com.br/politica/zambelli-diz-nao-ter-medo-de-prisao-mas-que-dorme-pensando-se-a-pf-vai-bater-em-sua-porta/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-02-23T20:51:00"
+        },
+        {
+            "title": "Tr\u00eas pessoas s\u00e3o presas com 450 quilos de subst\u00e2ncia semelhante a maconha",
+            "link": "https://www.cnnbrasil.com.br/nacional/tres-pessoas-sao-presas-com-450kg-de-substancia-semelhante-a-maconha/",
+            "tag": "Nacional",
+            "created_at": "2023-02-18T15:51:00"
+        },
+        {
+            "title": "PGR defende arquivar inqu\u00e9rito que investiga Bolsonaro por associar Covid \u00e0 Aids",
+            "link": "https://www.cnnbrasil.com.br/politica/pgr-defende-arquivar-inquerito-que-investiga-bolsonaro-por-associar-covid-a-aids/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-02-16T16:54:00"
+        },
+        {
+            "title": "Com 80 armas confiscadas, Pol\u00edcia Federal faz maior apreens\u00e3o da hist\u00f3ria do Rio",
+            "link": "https://www.cnnbrasil.com.br/nacional/com-80-armas-confiscadas-policia-federal-faz-maior-apreensao-da-historia-do-rio/",
+            "tag": "Nacional",
+            "created_at": "2023-02-15T19:28:00"
+        },
+        {
+            "title": "Grupo de coiotes lucrou R$ 16 milh\u00f5es transportando brasileiros para os EUA",
+            "link": "https://www.cnnbrasil.com.br/nacional/grupo-de-coiotes-lucrou-r-16-milhoes-transportando-brasileiros-para-os-eua/",
+            "tag": "Nacional",
+            "created_at": "2023-02-13T13:48:00"
+        },
+        {
+            "title": "MPF pede acesso a laudo pericial antes de opinar sobre revoga\u00e7\u00e3o da pris\u00e3o de Torres",
+            "link": "https://www.cnnbrasil.com.br/politica/mpf-pede-acesso-a-laudo-pericial-antes-de-opinar-sobre-revogacao-da-prisao-de-torres/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-02-11T10:57:00"
+        },
+        {
+            "title": "Mensagens mostram que governo do DF subestimou ataque do dia 8 de janeiro",
+            "link": "https://www.cnnbrasil.com.br/politica/mensagens-mostram-que-governo-do-df-subestimou-ataque-do-dia-8-de-janeiro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-02-10T18:40:00"
+        },
+        {
+            "title": "PF devolve \u00e0 C\u00e2mara bola autografada por Neymar; objeto foi roubado durante invas\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-devolve-a-camara-bola-autografada-por-neymar-objeto-foi-roubado-durante-invasao/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-02-10T14:54:00"
+        },
+        {
+            "title": "Per\u00edcia diz que Torres mandou impedir que criminosos chegassem ao STF e que Ibaneis n\u00e3o se omitiu",
+            "link": "https://www.cnnbrasil.com.br/politica/pericia-diz-que-torres-mandou-impedir-que-criminosos-chegassem-ao-stf-e-que-ibaneis-nao-se-omitiu/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-02-09T20:03:00"
+        },
+        {
+            "title": "Lula decide deslocar a Abin para a Casa Civil",
+            "link": "https://www.cnnbrasil.com.br/politica/lula-decide-deslocar-a-abin-para-a-casa-civil/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-02-09T17:25:00"
+        },
+        {
+            "title": "PF diz ao STF que extraiu dados dos celulares de Ibaneis e Valdemar Costa Neto",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-diz-ao-stf-que-extraiu-dados-dos-celulares-de-ibaneis-e-valdemar-costa-neto/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-02-08T20:29:00"
+        },
+        {
+            "title": "Em dilig\u00eancia, policiais apuram um Yanomami morto e outro ferido por garimpeiros",
+            "link": "https://www.cnnbrasil.com.br/nacional/em-diligencia-policiais-apuram-um-yanomami-morto-e-outro-ferido-por-garimpeiros/",
+            "tag": "Nacional",
+            "created_at": "2023-02-07T20:59:00"
+        },
+        {
+            "title": "Em opera\u00e7\u00e3o contra tr\u00e1fico em S\u00e3o Paulo, PF apreende armas e dinheiro",
+            "link": "https://www.cnnbrasil.com.br/nacional/em-operacao-contra-trafico-em-sao-paulo-pf-apreende-armas-e-dinheiro/",
+            "tag": "Nacional",
+            "created_at": "2023-02-07T18:57:00"
+        },
+        {
+            "title": "Alexandre de Moraes abre apura\u00e7\u00e3o contra o senador Marcos do Val",
+            "link": "https://www.cnnbrasil.com.br/politica/alexandre-de-moraes-abre-inquerito-contra-marcos-do-val/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-02-03T17:18:00"
+        },
+        {
+            "title": "PF faz busca e apreens\u00e3o para apurar compartilhamento de pornografia infantil",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-faz-busca-e-apreensao-para-apurar-compartilhamento-de-pornogranfia-infantil/",
+            "tag": "Nacional",
+            "created_at": "2023-02-03T15:39:00"
+        },
+        {
+            "title": "PF faz buscas em desdobramento de investiga\u00e7\u00e3o que envolve senadora Rose de Freitas, do Esp\u00edrito Santo",
+            "link": "https://www.cnnbrasil.com.br/politica/senadora-do-es-e-alvo-de-acao-da-pf-em-operacao-que-apura-fraudes-em-licitacoes/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-24T17:14:00"
+        },
+        {
+            "title": "Ap\u00f3s interven\u00e7\u00e3o, Sandro Avelar deve ser nomeado secret\u00e1rio da Seguran\u00e7a P\u00fablica do DF",
+            "link": "https://www.cnnbrasil.com.br/politica/apos-intervencao-sandro-avelar-deve-ser-nomeado-secretario-da-seguranca-publica-do-df/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-23T21:33:00"
+        },
+        {
+            "title": "Traficante \u201cCol\u00f4mbia\u201d foi o mandante das mortes de Dom e Bruno, diz PF",
+            "link": "https://www.cnnbrasil.com.br/nacional/traficante-colombia-foi-o-mandante-das-mortes-de-dom-e-bruno-diz-pf/",
+            "tag": "Nacional",
+            "created_at": "2023-01-23T17:44:00"
+        },
+        {
+            "title": "Em audi\u00eancia de cust\u00f3dia, Torres diz que jamais questionou resultado de elei\u00e7\u00f5es",
+            "link": "https://www.cnnbrasil.com.br/politica/em-audiencia-de-custodia-torres-diz-que-jamais-questionou-resultado-de-eleicoes/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-23T16:30:00"
+        },
+        {
+            "title": "Moraes d\u00e1 24 horas para PF enviar ao TSE minuta de decreto encontrada na casa de Torres",
+            "link": "https://www.cnnbrasil.com.br/politica/moraes-da-24-horas-para-pf-enviar-ao-tse-minuta-de-decreto-encontrada-na-casa-de-torres/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-23T14:24:00"
+        },
+        {
+            "title": "L\u00edderes de atos criminosos no DF atuaram em bloqueios de rodovias ap\u00f3s elei\u00e7\u00e3o, dizem investigadores",
+            "link": "https://www.cnnbrasil.com.br/politica/lideres-de-atos-criminosos-no-df-atuaram-em-bloqueios-de-rodovias-apos-eleicao-dizem-investigadores/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-20T20:16:00"
+        },
+        {
+            "title": "Preso por atos criminosos foi candidato e recebeu R$ 150 mil do PL",
+            "link": "https://www.cnnbrasil.com.br/politica/preso-por-atos-criminosos-foi-candidato-e-recebeu-r-150-mil-do-pl/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-20T19:10:00"
+        },
+        {
+            "title": "Waack: O que parece essencial, no momento, \u00e9 tentar recuperar respeito",
+            "link": "https://www.cnnbrasil.com.br/nacional/waack-o-que-parece-essencial-no-momento-e-tentar-recuperar-respeito/",
+            "tag": "Nacional",
+            "created_at": "2023-01-18T22:07:00"
+        },
+        {
+            "title": "Governo paga R$ 216 mil em hospedagem de Lula em hotel de Bras\u00edlia",
+            "link": "https://www.cnnbrasil.com.br/politica/governo-paga-r-216-mil-em-hospedagem-de-lula-em-hotel-de-brasilia/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-18T18:27:00"
+        },
+        {
+            "title": "Especialistas debatem se sil\u00eancio de Torres pode mudar rumo de investiga\u00e7\u00f5es",
+            "link": "https://www.cnnbrasil.com.br/politica/especialistas-debatem-se-silencio-de-torres-pode-mudar-rumo-de-investigacoes/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-18T15:26:00"
+        },
+        {
+            "title": "Delegado da PF tem apoio do governo Lula para ocupar Secretaria de Seguran\u00e7a P\u00fablica do DF",
+            "link": "https://www.cnnbrasil.com.br/politica/delegado-da-pf-tem-apoio-do-governo-lula-para-ocupar-secretaria-de-seguranca-publica-do-df/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-18T08:17:00"
+        },
+        {
+            "title": "De confeiteira a suplente de vereador: quem s\u00e3o os acusados de atentar contra democracia no RJ",
+            "link": "https://www.cnnbrasil.com.br/politica/de-confeiteira-a-suplente-de-vereador-quem-sao-os-acusados-de-atentar-contra-democracia-no-rj/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-17T22:02:00"
+        },
+        {
+            "title": "Justi\u00e7a decide manter preso bombeiro acusado de participar de atos antidemocr\u00e1ticos",
+            "link": "https://www.cnnbrasil.com.br/politica/justica-decide-manter-preso-bombeiro-acusado-de-participar-de-atos-antidemocraticos/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-17T19:58:00"
+        },
+        {
+            "title": "STF quer reconstruir plen\u00e1rio da Corte em duas semanas",
+            "link": "https://www.cnnbrasil.com.br/politica/stf-quer-reconstruir-plenario-da-corte-em-duas-semanas/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-17T18:50:00"
+        },
+        {
+            "title": "Moraes d\u00e1 dez dias para PF apresentar relat\u00f3rio parcial sobre atos criminosos",
+            "link": "https://www.cnnbrasil.com.br/politica/moraes-da-dez-dias-para-pf-apresentar-relatorio-parcial-sobre-atos-criminosos/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-17T18:26:00"
+        },
+        {
+            "title": "Detidos por depreda\u00e7\u00e3o de 8 de janeiro reclamam de comida e de celas pequenas em pris\u00e3o de Bras\u00edlia",
+            "link": "https://www.cnnbrasil.com.br/politica/detidos-por-depredacao-de-8-de-janeiro-reclamam-de-comida-e-de-celas-pequenas-em-prisao-de-brasilia/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-16T22:26:00"
+        },
+        {
+            "title": "Minist\u00e9rio P\u00fablico do DF faz vistoria em cela de Anderson Torres",
+            "link": "https://www.cnnbrasil.com.br/politica/ministerio-publico-do-df-faz-vistoria-em-cela-de-anderson-torres/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-16T16:33:00"
+        },
+        {
+            "title": "Especialistas levantam pontos essenciais sobre a pris\u00e3o de Anderson Torres; entenda",
+            "link": "https://www.cnnbrasil.com.br/politica/entenda-pontos-essenciais-sobre-a-prisao-de-anderson-torres/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-15T19:20:00"
+        },
+        {
+            "title": "PF mobiliza superintendentes para conduzir pris\u00e3o de Anderson Torres",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-mobiliza-superintendentes-para-conduzir-prisao-de-anderson-torres/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-13T19:01:00"
+        },
+        {
+            "title": "Ex\u00e9rcito impediu a remo\u00e7\u00e3o de acampamento em frente ao QG de Bras\u00edlia, diz Ibaneis em depoimento",
+            "link": "https://www.cnnbrasil.com.br/politica/cnn-tem-acesso-a-depoimento-de-ibaneis-rocha/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-13T16:27:00"
+        },
+        {
+            "title": "Torres cometeu crime no caso da minuta sobre altera\u00e7\u00e3o da elei\u00e7\u00e3o? Juristas comentam",
+            "link": "https://www.cnnbrasil.com.br/politica/torres-cometeu-crime-no-caso-da-minuta-sobre-alteracao-da-eleicao-juristas-comentam/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-12T19:59:00"
+        },
+        {
+            "title": "Advogado diz que documento n\u00e3o \u00e9 de autoria de Torres",
+            "link": "https://www.cnnbrasil.com.br/politica/advogado-diz-que-documento-nao-e-de-autoria-de-torres/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-12T16:51:00"
+        },
+        {
+            "title": "Guerra de narrativas sobre pris\u00f5es no DF op\u00f5e esquerda e direita nas redes",
+            "link": "https://www.cnnbrasil.com.br/politica/relatos-nas-redes-sociais-divergem-sobre-condicoes-de-detidos-em-brasilia/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-10T17:40:00"
+        },
+        {
+            "title": "\u201cN\u00e3o permitiremos que ideologias contaminem as institui\u00e7\u00f5es\u201d, diz Dino em cerim\u00f4nia",
+            "link": "https://www.cnnbrasil.com.br/politica/nao-permitiremos-que-ideologias-contaminem-as-instituicoes-diz-dino-em-cerimonia/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-10T12:08:00"
+        },
+        {
+            "title": "Criminosos antidemocr\u00e1ticos ser\u00e3o conduzidos para pres\u00eddios",
+            "link": "https://www.cnnbrasil.com.br/politica/criminosos-antidemocraticos-serao-conduzidos-para-presidios/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-10T00:44:00"
+        },
+        {
+            "title": "Veja cinco erros que culminaram nos atos criminosos em Bras\u00edlia",
+            "link": "https://www.cnnbrasil.com.br/politica/veja-cinco-erros-que-culminaram-nos-atos-criminosos-em-brasilia/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-09T22:28:00"
+        },
+        {
+            "title": "Moraes decreta pris\u00e3o de manifestantes que tentaram invadir sede da PF em Bras\u00edlia",
+            "link": "https://www.cnnbrasil.com.br/politica/moraes-decreta-prisao-de-manifestantes-que-tentaram-invadir-sede-da-pf-em-brasilia/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-01-06T19:31:00"
+        },
+        {
+            "title": "Com foro, indiciamento de Bolsonaro dependeria do STF; veja os pr\u00f3ximos passos",
+            "link": "https://www.cnnbrasil.com.br/politica/com-foro-indiciamento-de-bolsonaro-dependeria-do-stf-veja-os-proximos-passos/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-12-28T20:05:00"
+        },
+        {
+            "title": "PF pede ao STF que Senado libere provas da CPI contra Bolsonaro e aliados",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-pede-ao-stf-que-senado-libere-provas-da-cpi-contra-bolsonaro-e-aliados/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-12-28T19:45:00"
+        },
+        {
+            "title": "PF cumpre mandados de busca e apreens\u00e3o contra grilagem",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-cumpre-mandados-de-busca-e-apreensao-contra-grilagem/",
+            "tag": "Nacional",
+            "created_at": "2022-12-14T19:36:00"
+        },
+        {
+            "title": "Ind\u00edgena suspeito de atos antidemocr\u00e1ticos vai continuar preso",
+            "link": "https://www.cnnbrasil.com.br/politica/indigena-suspeito-de-atos-antidemocraticos-vai-continuar-preso/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-12-13T19:57:00"
+        },
+        {
+            "title": "Grupo de elite da PF cerca hotel de Lula em Bras\u00edlia ap\u00f3s manifesta\u00e7\u00f5es",
+            "link": "https://www.cnnbrasil.com.br/politica/grupo-de-elite-da-pf-cerca-hotel-de-lula-em-brasilia-apos-manifestacoes/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-12-12T23:57:00"
+        },
+        {
+            "title": "Lula descarta deixar hotel ap\u00f3s atos de vandalismo em Bras\u00edlia",
+            "link": "https://www.cnnbrasil.com.br/politica/lula-descarta-deixar-hotel-apos-atos-de-vandalismo-em-brasilia/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-12-12T22:45:00"
+        },
+        {
+            "title": "Justi\u00e7a retoma processo contra agentes da PRF indiciados no caso Genivaldo",
+            "link": "https://www.cnnbrasil.com.br/nacional/justica-retoma-processo-contra-agentes-da-prf-indiciados-no-caso-genivaldo/",
+            "tag": "Nacional",
+            "created_at": "2022-12-06T18:54:00"
+        },
+        {
+            "title": "PF cumpre mandados de busca e apreens\u00e3o contra fraude do Aux\u00edlio Emergencial",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-cumpre-mandados-de-busca-e-apreensao-contra-fraude-do-auxilio-emergencial/",
+            "tag": "Nacional",
+            "created_at": "2022-12-06T10:24:00"
+        },
+        {
+            "title": "Minist\u00e9rio da Economia libera metade da verba solicitada pela PF para passaportes",
+            "link": "https://www.cnnbrasil.com.br/economia/ministerio-da-economia-libera-metade-da-verba-solicitada-pela-pf-para-passaportes/",
+            "tag": "Economia",
+            "created_at": "2022-11-30T19:11:00"
+        },
+        {
+            "title": "PF deflagra opera\u00e7\u00e3o contra fraude em compra de armas no Par\u00e1",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-deflagra-operacao-contra-fraude-em-compra-de-armas-no-para/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-11-17T18:54:00"
+        },
+        {
+            "title": "Ex-secret\u00e1rio da Receita Marcos Cintra n\u00e3o foi ouvido pela Pol\u00edcia Federal",
+            "link": "https://www.cnnbrasil.com.br/politica/ex-secretario-da-receita-marcos-cintra-nao-foi-ouvido-pela-policia-federal/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-11-11T12:03:00"
+        },
+        {
+            "title": "PF abre inqu\u00e9rito para apurar poss\u00edveis crimes cometidos pelo diretor-geral da PRF",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-abriu-inquerito-para-apurar-possiveis-crimes-cometidos-pelo-diretor-geral-da-prf/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-11-10T19:25:00"
+        },
+        {
+            "title": "PF combate crimes financeiros em estabelecimentos comerciais no Chu\u00ed",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-combate-crimes-financeiros-em-estabelecimentos-comerciais-no-chui/",
+            "tag": "Nacional",
+            "created_at": "2022-11-10T09:37:00"
+        },
+        {
+            "title": "PF incinera 12 toneladas de agrot\u00f3xicos e produtos veterin\u00e1rios ilegais em SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-incinera-12-toneladas-de-agrotoxicos-e-produtos-veterinarios-ilegais-em-sp/",
+            "tag": "Nacional",
+            "created_at": "2022-11-09T20:55:00"
+        },
+        {
+            "title": "PF identifica manifestantes que atacaram policiais rodovi\u00e1rios no Par\u00e1",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-identifica-manifestantes-que-atacaram-policiais-rodoviarios-no-para/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-11-07T21:23:00"
+        },
+        {
+            "title": "PGR pede novamente que STF arquive inqu\u00e9rito que apura suposta interfer\u00eancia de Bolsonaro na PF",
+            "link": "https://www.cnnbrasil.com.br/politica/pgr-pede-novamente-que-stf-arquive-inquerito-que-apura-suposta-interferencia-de-bolsonaro-na-pf/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-11-07T21:01:00"
+        },
+        {
+            "title": "Moraes manda PF identificar l\u00edderes e donos de ve\u00edculos usados em bloqueios",
+            "link": "https://www.cnnbrasil.com.br/politica/moraes-manda-pf-identificar-lideres-e-donos-de-veiculos-usados-em-bloqueios/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-11-03T18:19:00"
+        },
+        {
+            "title": "PF prende empres\u00e1rio\u00a0envolvido com fraudes em criptomoedas",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-prende-empresario-envolvido-com-fraudes-em-criptomoedas/",
+            "tag": "Nacional",
+            "created_at": "2022-11-03T08:48:00"
+        },
+        {
+            "title": "Moraes pro\u00edbe opera\u00e7\u00f5es da PF e PRF em transporte p\u00fablico no dia das elei\u00e7\u00f5es",
+            "link": "https://www.cnnbrasil.com.br/politica/moraes-proibe-operacoes-da-pf-e-prf-em-transporte-publico-no-dia-das-eleicoes/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-10-30T00:12:00"
+        },
+        {
+            "title": "Moraes manda diretores da PF e PRF explicarem opera\u00e7\u00f5es de combate a crimes eleitorais",
+            "link": "https://www.cnnbrasil.com.br/politica/moraes-manda-diretores-da-pf-e-prf-explicarem-operacoes-de-combate-a-crimes-eleitorais/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-10-29T18:16:00"
+        },
+        {
+            "title": "PF apreende R$ 3 milh\u00f5es em opera\u00e7\u00e3o durante segundo turno das elei\u00e7\u00f5es",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-apreende-r-3-milhoes-em-operacao-durante-segundo-turno-das-eleicoes/",
+            "tag": "Nacional",
+            "created_at": "2022-10-28T13:52:00"
+        },
+        {
+            "title": "PF v\u00ea contradi\u00e7\u00e3o no primeiro laudo sobre indigenista morto no Amazonas em 2019",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-ve-contradicao-no-primeiro-laudo-sobre-indigenista-morto-no-amazonas-em-2019/",
+            "tag": "Nacional",
+            "created_at": "2022-10-27T18:10:00"
+        },
+        {
+            "title": "Em depoimento, Jefferson diz que atirou contra viatura da pol\u00edcia \u201cconscientemente\u201d",
+            "link": "https://www.cnnbrasil.com.br/politica/em-depoimento-jefferson-diz-que-atirou-contra-viatura-da-policia-conscientemente/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-10-25T17:02:00"
+        },
+        {
+            "title": "Pol\u00edcia Federal faz opera\u00e7\u00e3o contra crime internacional de lavagem de dinheiro",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-federal-faz-operacao-contra-crime-internacional-de-lavagem-de-dinheiro/",
+            "tag": "Nacional",
+            "created_at": "2022-10-25T12:51:00"
+        },
+        {
+            "title": "Federa\u00e7\u00e3o dos policiais federais cobra apura\u00e7\u00e3o sobre atentado de Roberto Jefferson contra agentes",
+            "link": "https://www.cnnbrasil.com.br/politica/federacao-dos-policiais-federais-cobra-apuracao-sobre-atentado-de-roberto-jefferson-contra-agentes/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-10-24T15:33:00"
+        },
+        {
+            "title": "PF indicia Roberto Jefferson por 4 tentativas de homic\u00eddio contra policiais",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-indicia-roberto-jefferson-por-4-tentativas-de-homicidio-contra-policiais/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-10-24T14:58:00"
+        },
+        {
+            "title": "Ex-ministro da Justi\u00e7a, Moro classifica como \u201cgrav\u00edssimo e injustific\u00e1vel\u201d tiros de Jefferson contra a PF",
+            "link": "https://www.cnnbrasil.com.br/politica/ex-ministro-da-justica-moro-classifica-como-gravissimo-e-injustificavel-tiros-de-jefferson-contra-a-pf/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-10-23T21:31:00"
+        },
+        {
+            "title": "Policiais federais procuram armas em vistoria na casa de Roberto Jefferson",
+            "link": "https://www.cnnbrasil.com.br/politica/policiais-federais-procuram-armas-em-vistoria-na-casa-de-roberto-jefferson/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-10-23T21:09:00"
+        },
+        {
+            "title": "Moraes menciona ataque a policiais em novo mandado de pris\u00e3o de Jefferson; ministro cita tentativa de homic\u00eddio",
+            "link": "https://www.cnnbrasil.com.br/politica/moraes-cita-ataque-a-policiais-e-expede-novo-mandado-de-prisao-em-flagrante-de-jefferson-ministro-cita-tentativa-de-homicidio/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-10-23T18:36:00"
+        },
+        {
+            "title": "Aliado que est\u00e1 com Jefferson em casa diz que ele aguarda ministro da Justi\u00e7a",
+            "link": "https://www.cnnbrasil.com.br/politica/aliado-que-esta-com-jefferson-em-casa-diz-que-ele-aguarda-ministro-da-justica/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-10-23T16:31:00"
+        },
+        {
+            "title": "Roberto Jefferson ainda n\u00e3o est\u00e1 preso; decis\u00e3o aponta seguido descumprimento de ordem judicial",
+            "link": "https://www.cnnbrasil.com.br/politica/roberto-jefferson-ainda-nao-esta-preso-decisao-aponta-seguido-descumprimento-de-ordem-judicial/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-10-23T16:20:00"
+        },
+        {
+            "title": "Pol\u00edcia Federal faz opera\u00e7\u00e3o para investigar crimes de funcion\u00e1rios da ANTT",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-faz-operacao-para-investigar-crimes-de-funcionarios-da-antt/",
+            "tag": "Nacional",
+            "created_at": "2022-10-18T08:40:00"
+        },
+        {
+            "title": "Justi\u00e7a Federal afasta gerente da Codevasf por suspeita de recebimento de propina",
+            "link": "https://www.cnnbrasil.com.br/politica/justica-federal-afasta-gerente-da-codevasf-por-suspeita-de-recebimento-de-propina/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-10-05T10:02:00"
+        },
+        {
+            "title": "A 2 dias da elei\u00e7\u00e3o, Bolsonaro autoriza nomea\u00e7\u00e3o de 561 policiais federais",
+            "link": "https://www.cnnbrasil.com.br/politica/a-2-dias-da-eleicao-bolsonaro-autoriza-nomeacao-de-561-policiais-federais/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-09-30T18:43:00"
+        },
+        {
+            "title": "PF apreende R$ 400 mil em opera\u00e7\u00f5es contra crimes eleitorais no Acre",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-apreende-r-400-mil-em-operacoes-contra-crimes-eleitorais-no-acre/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-09-28T19:22:00"
+        },
+        {
+            "title": "C\u00e1rmen diz que investiga\u00e7\u00e3o da c\u00fapula da PF em caso do MEC n\u00e3o teve autoriza\u00e7\u00e3o do STF",
+            "link": "https://www.cnnbrasil.com.br/politica/carmen-lucia-diz-que-investigacao-da-pf-em-caso-milton-ribeiro-nao-teve-autorizacao-do-stf/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-09-28T15:25:00"
+        },
+        {
+            "title": "Ministra nega habeas corpus de delegado envolvido em investiga\u00e7\u00e3o sobre interfer\u00eancia na PF no caso Milton Ribeiro",
+            "link": "https://www.cnnbrasil.com.br/politica/ministra-nega-habeas-corpus-de-delegado-envolvido-em-investigacao-sobre-interferencia-na-pf-no-caso-milton-ribeiro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-09-27T20:20:00"
+        },
+        {
+            "title": "PF faz opera\u00e7\u00e3o contra obten\u00e7\u00e3o ilegal de certificado de registro de arma em GO",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-faz-operacao-contra-obtencao-ilegal-de-certificado-de-registro-de-arma-em-go/",
+            "tag": "Nacional",
+            "created_at": "2022-09-23T11:25:00"
+        },
+        {
+            "title": "Delegado faz novas intima\u00e7\u00f5es de integrantes da c\u00fapula da PF",
+            "link": "https://www.cnnbrasil.com.br/politica/delegado-faz-novas-intimacoes-de-integrantes-da-cupula-da-pf/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-09-22T20:13:00"
+        },
+        {
+            "title": "Delegado pede apura\u00e7\u00e3o da Corregedoria da PF sobre \u2018investiga\u00e7\u00e3o paralela\u2019 em caso Milton Ribeiro",
+            "link": "https://www.cnnbrasil.com.br/politica/delegado-pede-apuracao-da-corregedoria-da-pf-sobre-investigacao-paralela-em-caso-milton-ribeiro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-09-21T22:01:00"
+        },
+        {
+            "title": "Pol\u00edcia Militar prende empres\u00e1rio conhecido como Rei do Ouro em S\u00e3o Paulo",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-militar-prende-empresario-conhecido-como-rei-do-ouro-em-sao-paulo/",
+            "tag": "Nacional",
+            "created_at": "2022-09-19T11:31:00"
+        },
+        {
+            "title": "PF e MPT libertam paraguaios em trabalho an\u00e1logo \u00e0 escravid\u00e3o no MS",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-e-mpt-libertam-paraguaios-em-trabalho-analogo-a-escravidao-no-ms/",
+            "tag": "Nacional",
+            "created_at": "2022-09-12T16:16:00"
+        },
+        {
+            "title": "Proximidade das elei\u00e7\u00f5es e epis\u00f3dios violentos fazem PF refor\u00e7ar seguran\u00e7a de Lula",
+            "link": "https://www.cnnbrasil.com.br/politica/proximidade-das-eleicoes-e-episodios-violentos-faz-pf-reforcar-seguranca-de-lula/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-09-09T16:24:00"
+        },
+        {
+            "title": "PF E PM apreendem mais de uma tonelada de drogas em rio na Amaz\u00f4nia",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-e-pm-apreendem-mais-de-uma-tonelada-de-drogas-em-rio-na-amazonia/",
+            "tag": "Nacional",
+            "created_at": "2022-09-09T11:54:00"
+        },
+        {
+            "title": "MPF pretende pedir arquivamento de investiga\u00e7\u00e3o contra empres\u00e1rios",
+            "link": "https://www.cnnbrasil.com.br/politica/mpf-pretende-pedir-arquivamento-de-investigacao-contra-empresarios/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-09-02T18:09:00"
+        },
+        {
+            "title": "PF investiga fraudes em contratos de empresa com secretaria de educa\u00e7\u00e3o do Piau\u00ed",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-investiga-fraudes-em-contratos-de-empresaa-com-secretaria-de-educacao-do-pi/",
+            "tag": "Nacional",
+            "created_at": "2022-09-02T14:00:00"
+        },
+        {
+            "title": "Pol\u00edcia Federal combate a entrada ilegal de imigrantes no Brasil",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-federal-combate-a-entrada-ilegal-de-imigrantes-no-brasil/",
+            "tag": "Nacional",
+            "created_at": "2022-09-01T13:47:00"
+        },
+        {
+            "title": "Especialistas apontam fragilidades e inconstitucionalidade em buscas, a pedido de Randolfe, contra empres\u00e1rios",
+            "link": "https://www.cnnbrasil.com.br/politica/especialistas-apontam-fragilidades-e-inconstitucionalidade-em-buscas-a-pedido-de-randolfe-contra-empresarios/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-08-31T18:25:00"
+        },
+        {
+            "title": "PF sugere investiga\u00e7\u00e3o contra ex-mulher de Bolsonaro por causa de mans\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-sugere-investigacao-contra-ex-mulher-de-bolsonaro-por-causa-de-mansao/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-08-31T18:23:00"
+        },
+        {
+            "title": "N\u00e3o tive acesso ao pedido de Randolfe, diz defesa de empres\u00e1rio",
+            "link": "https://www.cnnbrasil.com.br/politica/nao-tive-acesso-ao-pedido-de-randolfe-diz-defesa-de-empresario/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-08-31T13:51:00"
+        },
+        {
+            "title": "Opera\u00e7\u00e3o da PF combate traficantes que escondiam drogas em tripas de animais",
+            "link": "https://www.cnnbrasil.com.br/nacional/operacao-da-pf-combate-traficantes-que-escondiam-drogas-em-tripas-de-animais/",
+            "tag": "Nacional",
+            "created_at": "2022-08-31T09:23:00"
+        },
+        {
+            "title": "PF investiga fraude em licita\u00e7\u00e3o de compra de combust\u00edvel por prefeitura no Par\u00e1",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-investiga-fraude-em-licitacao-de-compra-de-combustivel-por-prefeitura-no-para/",
+            "tag": "Nacional",
+            "created_at": "2022-08-26T17:27:00"
+        },
+        {
+            "title": "Ap\u00f3s cr\u00edticas, Fiesp divulga nota em apoio \u00e0 liberdade de express\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/politica/apos-criticas-fiesp-divulga-nota-em-apoio-a-liberdade-de-expressao/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-08-25T11:37:00"
+        },
+        {
+            "title": "\u201cCad\u00ea a turminha da carta?\u201d, diz Bolsonaro sobre opera\u00e7\u00e3o contra empres\u00e1rios",
+            "link": "https://www.cnnbrasil.com.br/politica/cade-a-turminha-da-carta-diz-bolsonaro-sobre-operacao-contra-empresarios/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-08-24T17:14:00"
+        },
+        {
+            "title": "PF vai cruzar dados apreendidos de empres\u00e1rios com os de financiadores de atos de 7 de Setembro",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-vai-cruzar-dados-apreendidos-de-empresarios-com-os-de-financiadores-de-atos-de-7-de-setembro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-08-24T15:41:00"
+        },
+        {
+            "title": "Opera\u00e7\u00e3o da PF \u00e9 vista como \u201cgeradora de instabilidade\u201d pelo Pal\u00e1cio do Planalto",
+            "link": "https://www.cnnbrasil.com.br/politica/operacao-da-pf-e-vista-como-geradora-de-instabilidade-pelo-palacio-do-planalto/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-08-23T16:46:00"
+        },
+        {
+            "title": "Ministro diz que a\u00e7\u00e3o contra empres\u00e1rios mostra \u201cdesequil\u00edbrio do Judici\u00e1rio\u201d",
+            "link": "https://www.cnnbrasil.com.br/politica/ministro-diz-que-acao-contra-empresarios-mostra-desequilibrio-do-judiciario/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-08-23T16:26:00"
+        },
+        {
+            "title": "Gabinete da PGR foi pessoalmente intimado ontem sobre batida da PF, segundo os autos",
+            "link": "https://www.cnnbrasil.com.br/politica/gabinete-do-procurador-geral-foi-pessoalmente-intimado-sobre-batida-da-pf-ontem/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-08-23T13:40:00"
+        },
+        {
+            "title": "PF come\u00e7a a analisar c\u00f3digo-fonte das urnas eletr\u00f4nicas",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-comeca-a-analisar-codigo-fonte-das-urnas-eletronicas/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-08-22T13:56:00"
+        },
+        {
+            "title": "PF apreende mais de 2 toneladas de drogas em opera\u00e7\u00f5es neste s\u00e1bado (20)",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-apreende-mais-de-2-toneladas-de-drogas-em-operacoes-neste-sabado-20/",
+            "tag": "Nacional",
+            "created_at": "2022-08-20T16:31:00"
+        },
+        {
+            "title": "PF indicia influenciador bolsonarista: \u201cAgiu para tentar abolir democracia\u201d",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-indicia-influenciador-bolsonarista-agiu-para-tentar-abolir-democracia/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-08-17T22:21:00"
+        },
+        {
+            "title": "PF diz que n\u00e3o recomendou cancelar primeiro ato de Lula por falta de seguran\u00e7a",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-diz-que-nao-recomendou-cancelar-primeiro-ato-de-lula-por-falta-de-seguranca/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-08-16T18:00:00"
+        },
+        {
+            "title": "Ap\u00f3s pedido de pris\u00e3o, delegado do caso MEC irrita membros da PF e deve sofrer repres\u00e1lias",
+            "link": "https://www.cnnbrasil.com.br/politica/apos-pedido-de-prisao-delegado-do-caso-mec-irrita-membros-da-pf-e-deve-sofrer-represalias/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-08-13T21:48:00"
+        },
+        {
+            "title": "Seguran\u00e7a de Lula relata epis\u00f3dios de viol\u00eancia e pede apoio \u00e0s superintend\u00eancias da PF",
+            "link": "https://www.cnnbrasil.com.br/politica/seguranca-de-lula-relata-episodios-de-violencia-e-pede-apoio-as-superintendencias-da-pf/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-08-09T16:11:00"
+        },
+        {
+            "title": "PF vai ouvir novamente envolvidos nas mortes de Bruno Pereira e Dom Phillips",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-vai-ouvir-novamente-envolvidos-nas-mortes-de-bruno-pereira-e-dom-phillips/",
+            "tag": "Nacional",
+            "created_at": "2022-08-08T16:00:00"
+        },
+        {
+            "title": "PF cumpre mandados de pris\u00e3o preventiva e busca e apreens\u00e3o em caso Dom e Bruno",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-cumpre-mandados-de-prisao-preventiva-e-busca-e-apreensao-em-caso-dom-e-bruno/",
+            "tag": "Nacional",
+            "created_at": "2022-08-06T14:45:00"
+        },
+        {
+            "title": "PF cumpre novos mandados de busca em casa de desembargadores e servidores do TJ-PA",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-cumpre-novos-mandados-de-busca-em-casa-de-desembargadores-e-servidores-do-tj-pa/",
+            "tag": "Nacional",
+            "created_at": "2022-08-05T13:31:00"
+        },
+        {
+            "title": "Com apoio da Febraban, PF deflagra opera\u00e7\u00e3o contra fraudes banc\u00e1rias",
+            "link": "https://www.cnnbrasil.com.br/economia/pf-deflagra-operacao-contra-fraudes-bancarias-com-apoio-da-febraban/",
+            "tag": "Economia",
+            "created_at": "2022-08-02T13:58:00"
+        },
+        {
+            "title": "Justi\u00e7a mant\u00e9m pris\u00e3o tempor\u00e1ria de suspeito de desvio na Codevasf",
+            "link": "https://www.cnnbrasil.com.br/nacional/justica-mantem-prisao-temporaria-de-suspeito-de-desvio-na-codevasf/",
+            "tag": "Nacional",
+            "created_at": "2022-07-21T18:15:00"
+        },
+        {
+            "title": "Justi\u00e7a aceita den\u00fancia contra homem que matou petista, opera\u00e7\u00e3o da PF na Codevasf e mais de 20 de julho",
+            "link": "https://www.cnnbrasil.com.br/nacional/justica-aceita-denuncia-contra-homem-que-matou-petista-operacao-da-pf-na-codevasf-e-mais-de-20-de-julho/",
+            "tag": "Nacional",
+            "created_at": "2022-07-20T20:15:00"
+        },
+        {
+            "title": "Pol\u00edcia Federal apreende R$ 1,3 milh\u00e3o na casa de alvo da opera\u00e7\u00e3o que mira Codevasf",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-federal-apreende-r-13-milhao-na-casa-de-alvo-da-operacao-que-mira-codevasf/",
+            "tag": "Nacional",
+            "created_at": "2022-07-20T15:31:00"
+        },
+        {
+            "title": "Associa\u00e7\u00f5es da PF manifestam apoio ao TSE ap\u00f3s fala de Bolsonaro a embaixadores",
+            "link": "https://www.cnnbrasil.com.br/politica/associacoes-da-pf-manifestam-apoio-ao-tse-apos-fala-de-bolsonaro-a-embaixadores/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-07-19T17:34:00"
+        },
+        {
+            "title": "PF deflagra opera\u00e7\u00e3o contra organiza\u00e7\u00e3o que cooptava funcion\u00e1rios de aeroportos para tr\u00e1fico de drogas",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-deflagra-operacao-contra-organizacao-que-cooptava-funcionarios-de-aeroportos-para-trafico-de-drogas/",
+            "tag": "Nacional",
+            "created_at": "2022-07-19T08:42:00"
+        },
+        {
+            "title": "Temendo viol\u00eancia nas elei\u00e7\u00f5es, PF pede uni\u00e3o de esfor\u00e7os das for\u00e7as de seguran\u00e7a",
+            "link": "https://www.cnnbrasil.com.br/politica/temendo-violencia-nas-eleicoes-pf-pede-uniao-de-esforcos-das-forcas-de-seguranca/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-07-15T15:56:00"
+        },
+        {
+            "title": "Ministro da Defesa discute seguran\u00e7a das urnas em audi\u00eancia no Senado",
+            "link": "https://www.cnnbrasil.com.br/politica/ministro-da-defesa-discute-seguranca-das-urnas-em-audiencia-no-senado/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-07-14T08:22:00"
+        },
+        {
+            "title": "Pol\u00edcia Federal deflagra opera\u00e7\u00e3o contra tr\u00e1fico internacional de drogas",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-federal-deflagra-operacao-contra-trafico-internacional-de-drogas/",
+            "tag": "Nacional",
+            "created_at": "2022-07-13T08:22:00"
+        },
+        {
+            "title": "PF abre inqu\u00e9rito para investigar amea\u00e7as a juiz que mandou prender Milton Ribeiro",
+            "link": "https://www.cnnbrasil.com.br/politica/pf-abre-inquerito-para-investigar-ameacas-a-juiz-que-mandou-prender-milton-ribeiro/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-07-08T16:16:00"
+        },
+        {
+            "title": "Em dela\u00e7\u00e3o, Marcos Val\u00e9rio cita suposta liga\u00e7\u00e3o do PT com o PCC",
+            "link": "https://www.cnnbrasil.com.br/politica/em-delacao-marcos-valerio-cita-suposta-ligacao-do-pt-com-o-pcc/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-07-01T21:30:00"
+        },
+        {
+            "title": "Dom e Bruno: H\u00e1 contradi\u00e7\u00f5es nos depoimentos e hip\u00f3tese de mandante, diz PF",
+            "link": "https://www.cnnbrasil.com.br/nacional/dom-e-bruno-ha-contradicoes-nos-depoimentos-e-hipotese-de-mandante-diz-pf/",
+            "tag": "Nacional",
+            "created_at": "2022-07-01T07:40:00"
+        },
+        {
+            "title": "Quando PF foi na casa de meu irm\u00e3o, soube antes, diz Lula",
+            "link": "https://www.cnnbrasil.com.br/politica/quando-pf-foi-na-casa-de-meu-irmao-soube-antes-diz-lula/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-06-29T17:55:00"
+        },
+        {
+            "title": "Pol\u00edcia Federal vai investigar superfaturamento em propaganda do governo federal",
+            "link": "https://www.cnnbrasil.com.br/politica/policia-federal-vai-investigar-superfaturamento-em-propaganda-do-governo-federal/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-06-29T17:21:00"
+        },
+        {
+            "title": "Moraes manda para PGR pedido de investiga\u00e7\u00e3o contra Bolsonaro por suposta interfer\u00eancia na PF",
+            "link": "https://www.cnnbrasil.com.br/politica/moraes-manda-para-pgr-pedido-de-investigacao-contra-bolsonaro-por-suposta-interferencia-na-pf/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-06-28T21:43:00"
+        },
+        {
+            "title": "Reconstitui\u00e7\u00e3o dos assassinatos de Dom Phillips e Bruno Pereira deve ocorrer na sexta-feira (1\u00ba)",
+            "link": "https://www.cnnbrasil.com.br/nacional/reconstituicao-dos-assassinatos-de-dom-phillips-e-bruno-pereira-deve-ocorrer-na-sexta-feira-1o/",
+            "tag": "Nacional",
+            "created_at": "2022-06-28T08:52:00"
+        },
+        {
+            "title": "Suposta conversa entre Bolsonaro e ex-ministro sobre opera\u00e7\u00e3o \u00e9 tema do Debate CNN",
+            "link": "https://www.cnnbrasil.com.br/politica/suposta-conversa-entre-bolsonaro-e-ex-ministro-sobre-operacao-e-tema-do-debate-cnn/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-06-27T16:38:00"
+        },
+        {
+            "title": "Assessores de Ribeiro pediram demiss\u00e3o por atua\u00e7\u00e3o de pastores no MEC, revela CGU",
+            "link": "https://www.cnnbrasil.com.br/politica/assessores-de-ribeiro-pediram-demissao-por-atuacao-de-pastores-no-mec-revela-cgu/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-06-26T14:01:00"
+        },
+        {
+            "title": "Pr\u00e9-candidatos a presidente falam sobre a autonomia da Pol\u00edcia Federal\u00a0",
+            "link": "https://www.cnnbrasil.com.br/politica/pre-candidatos-a-presidente-falam-sobre-a-autonomia-da-policia-federal/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-06-24T18:37:00"
+        },
+        {
+            "title": "Minist\u00e9rio P\u00fablico pede que STF investigue se Bolsonaro interferiu na PF",
+            "link": "https://www.cnnbrasil.com.br/politica/justica-envia-ao-stf-investigacao-sobre-milton-ribeiro-por-possivel-interferencia-na-pf/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2022-06-24T12:47:00"
+        },
+        {
+            "title": "Assassinos de Dom e Bruno cumprimentaram v\u00edtimas minutos antes do crime, diz suspeito",
+            "link": "https://www.cnnbrasil.com.br/nacional/assassinos-de-dom-e-bruno-cumprimentaram-vitimas-minutos-antes-do-crime-diz-suspeito/",
+            "tag": "Nacional",
+            "created_at": "2022-06-20T17:21:00"
+        },
+        {
+            "title": "Mour\u00e3o diz que eventual mandante de mortes de Dom e Bruno \u201cdeve ser comerciante\u201d",
+            "link": "https://www.cnnbrasil.com.br/nacional/mourao-diz-que-eventual-mandante-de-mortes-de-dom-e-bruno-deve-ser-comerciante/",
+            "tag": "Nacional",
+            "created_at": "2022-06-20T13:41:00"
+        },
+        {
+            "title": "Terceiro suspeito pelo assassinato de Bruno e Dom \u00e9 preso no Amazonas",
+            "link": "https://www.cnnbrasil.com.br/nacional/terceiro-suspeito-pelo-assassinato-de-bruno-e-dom-e-preso-no-amazonas/",
+            "tag": "Nacional",
+            "created_at": "2022-06-18T10:30:00"
+        },
+        {
+            "title": "PF: investiga\u00e7\u00f5es apontam que \u201cn\u00e3o houve mandantes\u201d em crime contra Dom e Bruno",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-investigacoes-apontam-que-nao-houve-mandantes-em-crime-contra-dom-e-bruno/",
+            "tag": "Nacional",
+            "created_at": "2022-06-17T11:00:00"
+        },
+        {
+            "title": "Restos mortais que seriam de Dom Phillips e Bruno Pereira chegam ao aeroporto de Bras\u00edlia",
+            "link": "https://www.cnnbrasil.com.br/nacional/restos-mortais-que-seriam-de-dom-phillips-e-bruno-araujo-chegam-ao-aeroporto-de-brasilia/",
+            "tag": "Nacional",
+            "created_at": "2022-06-16T18:38:00"
+        }
+    ]
+}

@@ -1,0 +1,400 @@
+{
+    "headlines": [
+        {
+            "title": "Restos mortais s\u00e3o encontrados na Calif\u00f3rnia perto da \u00e1rea de busca pelo ator Julian Sands, dizem oficiais",
+            "link": "https://www.cnnbrasil.com.br/entretenimento/restos-mortais-sao-encontrados-na-california-perto-da-area-de-busca-pelo-ator-julian-sands-dizem-oficiais/",
+            "tag": "Entretenimento",
+            "created_at": "2023-06-25T08:26:00"
+        },
+        {
+            "title": "Policial morre ap\u00f3s perder o controle do carro e cair em rio no MS",
+            "link": "https://www.cnnbrasil.com.br/nacional/policial-morre-apos-perder-o-controle-do-carro-e-cair-em-rio-no-ms/",
+            "tag": "Nacional",
+            "created_at": "2023-06-19T14:58:00"
+        },
+        {
+            "title": "Caso Jeff Machado: pol\u00edcia prende suspeito de matar ator no Morro do Vidigal, no Rio",
+            "link": "https://www.cnnbrasil.com.br/nacional/caso-jeff-machado-policia-prende-suspeito-de-matar-ator-no-morro-do-vidigal-no-rio/",
+            "tag": "Nacional",
+            "created_at": "2023-06-15T08:40:00"
+        },
+        {
+            "title": "Fachin mant\u00e9m decis\u00e3o para instala\u00e7\u00e3o de c\u00e2meras nas fardas de policiais do RJ",
+            "link": "https://www.cnnbrasil.com.br/politica/fachin-mantem-decisao-para-instalacao-de-cameras-nas-fardas-de-policiais-do-rj/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-06-06T11:18:00"
+        },
+        {
+            "title": "Investigado pela morte de Marielle, Ronnie Lessa ir\u00e1 a j\u00fari popular por duplo homic\u00eddio cometido em 2014",
+            "link": "https://www.cnnbrasil.com.br/nacional/investigado-pela-morte-de-marielle-ronnie-lessa-ira-a-juri-popular-por-duplo-homicidio-cometido-em-2014/",
+            "tag": "Nacional",
+            "created_at": "2023-06-05T10:00:00"
+        },
+        {
+            "title": "Golpe dos nudes: presos tentam jogar celulares pela janela ap\u00f3s opera\u00e7\u00e3o da pol\u00edcia no RS",
+            "link": "https://www.cnnbrasil.com.br/nacional/golpe-dos-nudes-presos-tentam-jogar-celulares-pela-janela-apos-operacao-da-policia-no-rs/",
+            "tag": "Nacional",
+            "created_at": "2023-06-02T11:55:00"
+        },
+        {
+            "title": "Pol\u00edcia investiga den\u00fancia de racismo em show de Alok em Minas Gerais",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-investiga-denuncia-de-racismo-em-show-de-alok-em-minas-gerais/",
+            "tag": "Nacional",
+            "created_at": "2023-06-01T15:09:00"
+        },
+        {
+            "title": "Motorista de aplicativo amea\u00e7a pai de crian\u00e7a autista com taco de beisebol em briga no DF",
+            "link": "https://www.cnnbrasil.com.br/nacional/motorista-de-aplicativo-ameaca-pai-de-crianca-autista-com-taco-de-beisebol-em-briga-no-df/",
+            "tag": "Nacional",
+            "created_at": "2023-06-01T11:58:00"
+        },
+        {
+            "title": "V\u00edtima descobre golpe e pol\u00edcia prende falsa m\u00e9dica em consulta na cidade de SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/vitima-descobre-golpe-e-policia-prende-falsa-medica-em-consulta-na-cidade-de-sp/",
+            "tag": "Nacional",
+            "created_at": "2023-05-31T15:22:00"
+        },
+        {
+            "title": "Pol\u00edcia investiga caso de influencers que entregaram banana e macaco de pel\u00facia a crian\u00e7as negras; MP recebe quase 700 den\u00fancias",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-investiga-caso-de-influencers-que-entregaram-banana-e-macaco-de-pelucia-a-criancas-negras-mp-recebe-quase-700-denuncias/",
+            "tag": "Nacional",
+            "created_at": "2023-05-31T14:35:00"
+        },
+        {
+            "title": "PF cumpre 51 mandados em opera\u00e7\u00e3o contra fraudes banc\u00e1rias no Brasil",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-cumpre-51-mandados-em-operacao-contra-fraudes-bancarias-no-brasil/",
+            "tag": "Nacional",
+            "created_at": "2023-05-30T08:31:00"
+        },
+        {
+            "title": "Golpe dos nudes: pol\u00edcia prende mais de 30 pessoas em opera\u00e7\u00e3o no RS e em SC",
+            "link": "https://www.cnnbrasil.com.br/nacional/golpe-dos-nudes-policia-prende-pessoas-em-operacao-em-sc-e-no-rs/",
+            "tag": "Nacional",
+            "created_at": "2023-05-29T09:28:00"
+        },
+        {
+            "title": "C\u00e3es de Jeff Machado s\u00e3o adotados; animais foram importantes para resolver caso",
+            "link": "https://www.cnnbrasil.com.br/nacional/caes-de-jeff-machado-sao-adotados-animais-foram-importantes-para-resolver-caso/",
+            "tag": "Nacional",
+            "created_at": "2023-05-26T15:23:00"
+        },
+        {
+            "title": "Jeff Machado: quem foi o ator morto, enterrado em ba\u00fa e coberto por concreto",
+            "link": "https://www.cnnbrasil.com.br/nacional/jeff-machado-quem-foi-o-ator-morto-enterrado-em-bau-e-coberto-por-concreto/",
+            "tag": "Nacional",
+            "created_at": "2023-05-25T13:07:00"
+        },
+        {
+            "title": "Pol\u00edcia realizar\u00e1 per\u00edcia para investigar velocidade de carro que atropelou e matou homem em SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-realizara-pericia-para-investigar-velocidade-de-carro-que-atropelou-e-matou-homem-em-sp/",
+            "tag": "Nacional",
+            "created_at": "2023-05-23T12:16:00"
+        },
+        {
+            "title": "Cremerj abre sindic\u00e2ncia para apurar conduta de cirurgi\u00e3o suspeito de perfurar intestino e f\u00edgado de paciente",
+            "link": "https://www.cnnbrasil.com.br/nacional/cremerj-abre-sindicancia-para-apurar-conduta-de-cirurgiao-suspeito-de-perfurar-intestino-e-figado-de-paciente/",
+            "tag": "Nacional",
+            "created_at": "2023-05-15T14:25:00"
+        },
+        {
+            "title": "Pol\u00edcia pedir\u00e1 quebra do sigilo telef\u00f4nico de envolvidos em caso de crian\u00e7a de SC encontrada em SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-pedira-quebra-do-sigilo-telefonico-de-envolvidos-em-caso-de-crianca-de-sc-encontrada-em-sp/",
+            "tag": "Nacional",
+            "created_at": "2023-05-15T09:47:00"
+        },
+        {
+            "title": "Deputado estadual de MG \u00e9 feito ref\u00e9m dentro da pr\u00f3pria casa em Belo Horizonte",
+            "link": "https://www.cnnbrasil.com.br/nacional/deputado-estadual-de-mg-e-feito-refem-dentro-da-propria-casa-em-belo-horizonte/",
+            "tag": "Nacional",
+            "created_at": "2023-05-08T12:18:00"
+        },
+        {
+            "title": "Ator denuncia padre por discurso homof\u00f3bico durante missa de 7\u00ba dia",
+            "link": "https://www.cnnbrasil.com.br/nacional/ator-denuncia-padre-por-discurso-homofobico-durante-missa-de-7o-dia/",
+            "tag": "Nacional",
+            "created_at": "2023-05-04T12:52:00"
+        },
+        {
+            "title": "Thiago Brennand passa a noite na PF e ter\u00e1 audi\u00eancia de cust\u00f3dia neste domingo (30)",
+            "link": "https://www.cnnbrasil.com.br/nacional/thiago-brennand-passa-a-noite-na-pf-e-tera-audiencia-de-custodia-neste-domingo-30/",
+            "tag": "Nacional",
+            "created_at": "2023-04-29T23:03:00"
+        },
+        {
+            "title": "Thiago Brennand chega \u00e0 Pol\u00edcia Federal e passar\u00e1 por exame de corpo de delito",
+            "link": "https://www.cnnbrasil.com.br/nacional/thiago-brennand-chega-a-policia-federal-e-passara-por-exame-de-corpo-de-delito/",
+            "tag": "Nacional",
+            "created_at": "2023-04-29T19:09:00"
+        },
+        {
+            "title": "Preso, empres\u00e1rio Thiago Brennand desembarca no Brasil",
+            "link": "https://www.cnnbrasil.com.br/nacional/preso-empresario-thiago-brennand-desembarca-no-brasil/",
+            "tag": "Nacional",
+            "created_at": "2023-04-29T17:57:00"
+        },
+        {
+            "title": "Pol\u00edcia do Rio compara depoimentos de m\u00e9dicos com laudo de passista que teve bra\u00e7o amputado",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-do-rio-compara-depoimentos-de-medicos-com-laudo-de-passista-que-teve-braco-amputado/",
+            "tag": "Nacional",
+            "created_at": "2023-04-29T16:45:00"
+        },
+        {
+            "title": "Dentista \u00e9 preso no RS suspeito de abusar sexualmente de paciente",
+            "link": "https://www.cnnbrasil.com.br/nacional/dentista-e-preso-no-rs-suspeito-de-abusar-sexualmente-de-paciente/",
+            "tag": "Nacional",
+            "created_at": "2023-04-25T11:16:00"
+        },
+        {
+            "title": "Ex-atleta que agrediu entregadores \u00e9 indiciada por maus-tratos e les\u00e3o corporal contra a m\u00e3e",
+            "link": "https://www.cnnbrasil.com.br/nacional/ex-atleta-que-agrediu-entregadores-e-indiciada-por-maus-tratos-e-lesao-corporal-contra-a-mae/",
+            "tag": "Nacional",
+            "created_at": "2023-04-20T12:37:00"
+        },
+        {
+            "title": "Duas pessoas s\u00e3o presas em a\u00e7\u00e3o da PF contra tr\u00e1fico de drogas em caixas de a\u00e7a\u00ed",
+            "link": "https://www.cnnbrasil.com.br/nacional/duas-pessoas-sao-presas-em-acao-da-pf-contra-trafico-de-drogas-em-caixas-de-acai/",
+            "tag": "Nacional",
+            "created_at": "2023-04-19T12:14:00"
+        },
+        {
+            "title": "Homem \u00e9 preso e tr\u00eas adolescentes s\u00e3o apreendidos por estupro coletivo em Goi\u00e1s",
+            "link": "https://www.cnnbrasil.com.br/nacional/homem-e-preso-e-tres-adolescentes-sao-apreendidos-por-estupro-coletivo-em-goias/",
+            "tag": "Nacional",
+            "created_at": "2023-04-16T12:16:00"
+        },
+        {
+            "title": "Ataque armado a condom\u00ednio de Belford Roxo, na Baixada Fluminense, deixa tr\u00eas mortos",
+            "link": "https://www.cnnbrasil.com.br/nacional/ataque-armado-a-condominio-de-belford-roxo-na-baixada-fluminense-deixa-mortos/",
+            "tag": "Nacional",
+            "created_at": "2023-04-16T08:45:00"
+        },
+        {
+            "title": "Pol\u00edcia prende motorista de aplicativo por abuso sexual de passageira em Manaus",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-prende-motorista-de-aplicativo-por-abuso-sexual-de-passageira-em-manaus/",
+            "tag": "Nacional",
+            "created_at": "2023-04-15T14:54:00"
+        },
+        {
+            "title": "Confiss\u00e3o de assassinato em terapia leva \u00e0 pris\u00e3o de suspeito; corpo estava enterrado em Ubatuba",
+            "link": "https://www.cnnbrasil.com.br/nacional/confissao-de-assassinato-em-terapia-leva-a-prisao-de-suspeito-corpo-estava-enterrado-em-ubatuba/",
+            "tag": "Nacional",
+            "created_at": "2023-04-15T08:33:00"
+        },
+        {
+            "title": "Pol\u00edcia pretende ouvir familiares de beb\u00ea morto por sufocamento em Itapevi (SP)",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-pretende-ouvir-familiares-de-bebe-morto-por-sufocamento-em-itapevi-sp/",
+            "tag": "Nacional",
+            "created_at": "2023-04-10T12:44:00"
+        },
+        {
+            "title": "Dupla suspeita de enterrar mulher viva em Minas Gerais \u00e9 presa",
+            "link": "https://www.cnnbrasil.com.br/nacional/dupla-suspeita-de-enterrar-mulher-viva-em-minas-gerais-e-presa/",
+            "tag": "Nacional",
+            "created_at": "2023-04-04T11:52:00"
+        },
+        {
+            "title": "Bibi Perigosa: pol\u00edcia prende traficante apontada como chefe de fac\u00e7\u00e3o no RN",
+            "link": "https://www.cnnbrasil.com.br/nacional/bibi-perigosa-policia-prende-traficante-apontada-como-chefe-de-faccao-no-rn/",
+            "tag": "Nacional",
+            "created_at": "2023-04-03T10:46:00"
+        },
+        {
+            "title": "PF faz opera\u00e7\u00e3o contra grupo que vendia drogas sint\u00e9ticas em 5 estados pelos Correios",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-faz-operacao-contra-grupo-que-vendia-drogas-sinteticas-em-5-estados-pelos-correios/",
+            "tag": "Nacional",
+            "created_at": "2023-03-22T08:33:00"
+        },
+        {
+            "title": "Advogado \u00e9 preso ap\u00f3s agredir mulher com socos em Bras\u00edlia",
+            "link": "https://www.cnnbrasil.com.br/nacional/advogado-e-preso-apos-agredir-mulher-com-socos-em-brasilia/",
+            "tag": "Nacional",
+            "created_at": "2023-03-21T11:34:00"
+        },
+        {
+            "title": "Bandidos roubam carros de luxo e funcion\u00e1rios de hotel, em S\u00e3o Paulo",
+            "link": "https://www.cnnbrasil.com.br/nacional/bandidos-roubam-carros-de-luxo-e-funcionarios-de-hotel-em-sao-paulo/",
+            "tag": "Nacional",
+            "created_at": "2023-03-21T10:59:00"
+        },
+        {
+            "title": "Morre em confronto com a pol\u00edcia homem apontado como l\u00edder de ataques em cidades no RN",
+            "link": "https://www.cnnbrasil.com.br/nacional/morre-em-confronto-com-a-policia-homem-apontado-como-lider-de-ataques-em-cidades-no-rn/",
+            "tag": "Nacional",
+            "created_at": "2023-03-21T09:18:00"
+        },
+        {
+            "title": "Pol\u00edcia apreende fentanil, droga que mais mata nos EUA, pela primeira vez no Brasil",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-apreende-fentanil-droga-que-mais-mata-nos-eua-pela-primeira-vez-no-brasil/",
+            "tag": "Nacional",
+            "created_at": "2023-03-20T10:41:00"
+        },
+        {
+            "title": "Pol\u00edcia procura por frentista que ateou fogo em cliente em posto de Curitiba",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-procura-por-frentista-que-ateou-fogo-em-cliente-em-posto-de-curitiba/",
+            "tag": "Nacional",
+            "created_at": "2023-03-20T09:18:00"
+        },
+        {
+            "title": "Frentista joga gasolina e p\u00f5e fogo em cliente ap\u00f3s discuss\u00e3o em posto de Curitiba",
+            "link": "https://www.cnnbrasil.com.br/nacional/frentista-joga-gasolina-e-poe-fogo-em-cliente-apos-discussao-em-posto-de-curitiba/",
+            "tag": "Nacional",
+            "created_at": "2023-03-19T14:19:00"
+        },
+        {
+            "title": "\u201cCoaches de namoro\u201d norte-americanos desativam redes sociais e apagam conte\u00fados",
+            "link": "https://www.cnnbrasil.com.br/nacional/coaches-de-namoro-norte-americanos-desativam-redes-sociais-e-apagam-conteudos/",
+            "tag": "Nacional",
+            "created_at": "2023-03-19T11:16:00"
+        },
+        {
+            "title": "Embratur pede investiga\u00e7\u00e3o contra \u201ccoaches de namoro\u201d e turismo sexual",
+            "link": "https://www.cnnbrasil.com.br/nacional/embratur-pede-investigacao-contra-coaches-de-namoro-e-turismo-sexual/",
+            "tag": "Nacional",
+            "created_at": "2023-03-18T08:18:00"
+        },
+        {
+            "title": "Beb\u00ea \u00e9 internado para tratar ferimento no rosto e tem parte do dedo amputada no RJ",
+            "link": "https://www.cnnbrasil.com.br/nacional/bebe-e-internado-para-tratar-ferimento-no-rosto-e-tem-parte-do-dedo-amputada-no-rj/",
+            "tag": "Nacional",
+            "created_at": "2023-03-17T11:02:00"
+        },
+        {
+            "title": "Acusada de aplicar golpe de R$ 725 milh\u00f5es na pr\u00f3pria m\u00e3e ganha liberdade no RJ",
+            "link": "https://www.cnnbrasil.com.br/nacional/acusada-de-aplicar-golpe-de-r-725-milhoes-na-propria-mae-ganha-liberdade-no-rj/",
+            "tag": "Nacional",
+            "created_at": "2023-03-16T12:28:00"
+        },
+        {
+            "title": "Confronto no Rio Grande do Norte tem nove presos e deixa um morto",
+            "link": "https://www.cnnbrasil.com.br/nacional/confronto-no-rio-grande-do-norte-tem-presos-e-morte/",
+            "tag": "Nacional",
+            "created_at": "2023-03-14T15:10:00"
+        },
+        {
+            "title": "Pol\u00edcia Civil na Bahia investiga execu\u00e7\u00e3o de empres\u00e1rio em Feira de Santana",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-civil-na-bahia-investiga-execucao-de-empresario-em-feira-de-santana/",
+            "tag": "Nacional",
+            "created_at": "2023-03-14T10:33:00"
+        },
+        {
+            "title": "Padre \u00e9 encontrado morto dois dias ap\u00f3s desaparecimento em Minas Gerais",
+            "link": "https://www.cnnbrasil.com.br/nacional/padre-e-encontrado-morto-dois-dias-apos-desaparecimento-em-minas-gerais/",
+            "tag": "Nacional",
+            "created_at": "2023-03-10T08:51:00"
+        },
+        {
+            "title": "PF apreende 300 mil d\u00f3lares em esp\u00e9cie em mala de fundo falso",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-apreende-300-mil-dolares-em-especie-em-mala-de-fundo-falso/",
+            "tag": "Nacional",
+            "created_at": "2023-03-07T08:01:00"
+        },
+        {
+            "title": "Moraes manda PF devolver bens apreendidos de ex-comandante da PM do DF",
+            "link": "https://www.cnnbrasil.com.br/politica/moraes-manda-pf-devolver-bens-apreendidos-de-ex-comandante-da-pm-do-df/",
+            "tag": "Pol\u00edtica",
+            "created_at": "2023-03-01T08:54:00"
+        },
+        {
+            "title": "PF faz megaopera\u00e7\u00e3o contra venda ilegal de lagosta em tr\u00eas estados do litoral nordestino",
+            "link": "https://www.cnnbrasil.com.br/nacional/pf-faz-megaoperacao-contra-venda-ilegal-de-lagosta-em-tres-estados-do-litoral-nordestino/",
+            "tag": "Nacional",
+            "created_at": "2023-03-01T08:15:00"
+        },
+        {
+            "title": "Ex-marido e familiares s\u00e3o acusados de assassinato de modelo esquartejada em Hong Kong",
+            "link": "https://www.cnnbrasil.com.br/internacional/ex-marido-e-familiares-sao-acusados-de-assassinato-de-modelo-esquartejada-em-hong-kong/",
+            "tag": "Internacional",
+            "created_at": "2023-02-27T09:12:00"
+        },
+        {
+            "title": "Pol\u00edcia abre investiga\u00e7\u00e3o e identifica suspeitos de agress\u00e3o a jornalistas do Estad\u00e3o",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-abre-investigacao-e-identifica-suspeitos-de-agressao-a-jornalistas-do-estadao/",
+            "tag": "Nacional",
+            "created_at": "2023-02-25T12:01:00"
+        },
+        {
+            "title": "Cientistas desenvolvem sensor capaz de detectar droga derivada do ecstasy na saliva",
+            "link": "https://www.cnnbrasil.com.br/saude/cientistas-desenvolvem-sensor-capaz-de-detectar-droga-derivada-do-ecstasy-na-saliva/",
+            "tag": "Sa\u00fade",
+            "created_at": "2023-02-22T08:07:00"
+        },
+        {
+            "title": "Jovem alem\u00e3 diz ser Madeleine McCann e viraliza com supostas evid\u00eancias",
+            "link": "https://www.cnnbrasil.com.br/internacional/jovem-alema-diz-ser-madeleine-mccan-e-viraliza-com-supostas-evidencias/",
+            "tag": "Internacional",
+            "created_at": "2023-02-17T15:55:00"
+        },
+        {
+            "title": "Caso Ian: pol\u00edcia de MG faz reconstitui\u00e7\u00e3o do crime onde agress\u00f5es teriam ocorrido",
+            "link": "https://www.cnnbrasil.com.br/nacional/caso-ian-policia-de-mg-faz-reconstituicao-do-crime-onde-agressoes-teriam-ocorrido/",
+            "tag": "Nacional",
+            "created_at": "2023-02-14T12:03:00"
+        },
+        {
+            "title": "Governo Lula prepara programa de c\u00e2meras em uniformes policiais para 1\u00ba semestre",
+            "link": "https://www.cnnbrasil.com.br/nacional/governo-lula-prepara-programa-de-cameras-em-uniformes-policiais-para-1o-semestre/",
+            "tag": "Nacional",
+            "created_at": "2023-02-14T08:30:00"
+        },
+        {
+            "title": "Homem \u00e9 morto ap\u00f3s marcar encontro por aplicativo em S\u00e3o Paulo",
+            "link": "https://www.cnnbrasil.com.br/nacional/homem-e-morto-apos-marcar-encontro-por-aplicativo-em-sao-paulo/",
+            "tag": "Nacional",
+            "created_at": "2023-02-07T10:26:00"
+        },
+        {
+            "title": "Pol\u00edcia conclui inqu\u00e9rito e v\u00ea culpa de estudante da USP por apropria\u00e7\u00e3o ind\u00e9bita",
+            "link": "https://www.cnnbrasil.com.br/nacional/policia-civil-conclui-inquerito-e-diz-que-estudante-da-usp-e-culpada/",
+            "tag": "Nacional",
+            "created_at": "2023-01-30T15:41:00"
+        },
+        {
+            "title": "V\u00eddeo mostra briga que resultou em morte de jovem de 18 anos atropelada em SP",
+            "link": "https://www.cnnbrasil.com.br/nacional/video-mostra-briga-que-resultou-em-morte-de-jovem-de-18-anos-atropelada-em-sp/",
+            "tag": "Nacional",
+            "created_at": "2023-01-23T13:56:00"
+        },
+        {
+            "title": "Policial investigado pelo tumulto de Halloween em Seul \u00e9 encontrado morto",
+            "link": "https://www.cnnbrasil.com.br/internacional/policial-investigado-pelo-tumulto-de-halloween-em-seul-e-encontrado-morto/",
+            "tag": "Internacional",
+            "created_at": "2022-11-11T05:15:00"
+        },
+        {
+            "title": "Assassino de John Lennon, Mark Chapman tem condicional negada pela 12\u00aa vez",
+            "link": "https://www.cnnbrasil.com.br/internacional/assassino-de-john-lennon-mark-chapman-tem-condicional-negada-pela-12a-vez/",
+            "tag": "Internacional",
+            "created_at": "2022-09-13T15:03:00"
+        },
+        {
+            "title": "Ex-policial chileno \u00e9 condenado por agress\u00e3o que deixou mulher cega",
+            "link": "https://www.cnnbrasil.com.br/internacional/ex-policial-chileno-e-condenado-por-agressao-que-deixou-mulher-cega/",
+            "tag": "Internacional",
+            "created_at": "2022-09-01T15:46:00"
+        },
+        {
+            "title": "STJ: ministro anula prova obtida em busca domiciliar baseada em den\u00fancia an\u00f4nima",
+            "link": "https://www.cnnbrasil.com.br/nacional/stj-ministro-anula-prova-obtida-em-busca-domiciliar-baseada-em-denuncia-anonima/",
+            "tag": "Nacional",
+            "created_at": "2022-08-30T13:22:00"
+        },
+        {
+            "title": "Morte do lutador Leandro Lo repercute em todo o mundo",
+            "link": "https://www.cnnbrasil.com.br/nacional/imprensa-internacional-repercute-morte-do-lutador-leandro-lo/",
+            "tag": "Nacional",
+            "created_at": "2022-08-08T11:48:00"
+        },
+        {
+            "title": "Na Austr\u00e1lia, autoridades tentam conter protestos de ativistas clim\u00e1ticos",
+            "link": "https://www.cnnbrasil.com.br/internacional/na-australia-autoridades-tentam-conter-protestos-de-ativistas-climaticos/",
+            "tag": "Internacional",
+            "created_at": "2022-06-27T19:00:00"
+        },
+        {
+            "title": "Militares da Marinha s\u00e3o presos por envolvimento em assassinato de perito no RJ",
+            "link": "https://www.cnnbrasil.com.br/nacional/militares-da-marinha-sao-presos-por-envolvimento-em-assassinato-de-perito-no-rj/",
+            "tag": "Nacional",
+            "created_at": "2022-05-15T16:52:00"
+        }
+    ]
+}
